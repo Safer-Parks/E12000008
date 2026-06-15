@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_74_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hassocks Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 136, "park_offical_id": "MIDS5_74" }, "geometry": { "type": "Point", "coordinates": [ -0.145952423, 50.92461282 ] } },
+{ "type": "Feature", "properties": { "name": "BP Filling Station  Hassocks", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 136, "park_offical_id": "MIDS5_74" }, "geometry": { "type": "Point", "coordinates": [ -0.151335597, 50.92626647 ] } }
+]
+}

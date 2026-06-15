@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_48_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Superstore  Folkestone", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 170, "park_offical_id": "FOLHY_48" }, "geometry": { "type": "Point", "coordinates": [ 1.129918098, 51.090486082 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 170, "park_offical_id": "FOLHY_48" }, "geometry": { "type": "Point", "coordinates": [ 1.143125, 51.088657 ] } },
+{ "type": "Feature", "properties": { "name": "BP Connect Filling Station  Folkestone", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 170, "park_offical_id": "FOLHY_48" }, "geometry": { "type": "Point", "coordinates": [ 1.135148406, 51.088669967 ] } }
+]
+}

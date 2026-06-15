@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CRAWL_7_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bewbush Parade Automatic Toilet", "payment_info": "10p", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 143, "park_offical_id": "CRAWL_7" }, "geometry": { "type": "Point", "coordinates": [ -0.222859383, 51.1036011 ] } },
+{ "type": "Feature", "properties": { "name": "Bewbush Community Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 143, "park_offical_id": "CRAWL_7" }, "geometry": { "type": "Point", "coordinates": [ -0.222902298, 51.103270996 ] } }
+]
+}

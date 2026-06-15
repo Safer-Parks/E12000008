@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SURHE_14_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Basingstoke  Canal Visitor Centre", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "SURHE_14" }, "geometry": { "type": "Point", "coordinates": [ -0.7203483, 51.2879837 ] } },
+{ "type": "Feature", "properties": { "name": "Frimley Green Recreation Ground Frimley MAY BE CLOSED", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "SURHE_14" }, "geometry": { "type": "Point", "coordinates": [ -0.72827416, 51.30634448 ] } },
+{ "type": "Feature", "properties": { "name": "Mytchett Recreational Ground Mytchett MAY BE CLOSED", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "SURHE_14" }, "geometry": { "type": "Point", "coordinates": [ -0.7325872, 51.29356102 ] } },
+{ "type": "Feature", "properties": { "name": "Frimley Lodge Frimley Lodge Park", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 7, "park_offical_id": "SURHE_14" }, "geometry": { "type": "Point", "coordinates": [ -0.7253734, 51.2981155 ] } }
+]
+}

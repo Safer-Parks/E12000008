@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUNNY_18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Squires Garden Centre  Chertsey", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "RUNNY_18" }, "geometry": { "type": "Point", "coordinates": [ -0.52816987, 51.379564036 ] } },
+{ "type": "Feature", "properties": { "name": "Homewood Park car park Chertsey", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "RUNNY_18" }, "geometry": { "type": "Point", "coordinates": [ -0.535363555, 51.376174838 ] } }
+]
+}

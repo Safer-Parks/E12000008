@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EPSEW_6_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Epsom Surrey", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 33, "park_offical_id": "EPSEW_6" }, "geometry": { "type": "Point", "coordinates": [ -0.268778341, 51.3343926 ] } },
+{ "type": "Feature", "properties": { "name": "Ashley Centre  Epsom", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 33, "park_offical_id": "EPSEW_6" }, "geometry": { "type": "Point", "coordinates": [ -0.268355012, 51.33257409 ] } }
+]
+}

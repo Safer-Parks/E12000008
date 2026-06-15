@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_26_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hurst Green Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 52, "park_offical_id": "TANDR_26" }, "geometry": { "type": "Point", "coordinates": [ 0.003945749, 51.24442735 ] } }
+]
+}

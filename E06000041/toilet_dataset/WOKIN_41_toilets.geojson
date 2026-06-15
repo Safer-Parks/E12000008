@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_41_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Local Loo Scheme  The St George and Dragon CLOSED DUE TO CORONAVIRUS", "payment_info": "Cost unknown", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 70, "park_offical_id": "WOKIN_41" }, "geometry": { "type": "Point", "coordinates": [ -0.869379381, 51.50336542 ] } },
+{ "type": "Feature", "properties": { "name": "Local Loo Scheme  The Bull Hotel CLOSED DUE TO CORONAVIRUS", "payment_info": "Cost unknown", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 70, "park_offical_id": "WOKIN_41" }, "geometry": { "type": "Point", "coordinates": [ -0.870363414, 51.500565169 ] } },
+{ "type": "Feature", "properties": { "name": "Local Loo Scheme  The Old Post Office CLOSED DUE TO CORONAVIRUS", "payment_info": "Cost unknown", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 70, "park_offical_id": "WOKIN_41" }, "geometry": { "type": "Point", "coordinates": [ -0.869392809, 51.501546515 ] } }
+]
+}

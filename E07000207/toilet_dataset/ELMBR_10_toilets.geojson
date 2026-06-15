@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ELMBR_10_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Community Toilet Pizza Express Cobham", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "ELMBR_10" }, "geometry": { "type": "Point", "coordinates": [ -0.411271155, 51.330069289 ] } },
+{ "type": "Feature", "properties": { "name": "Public Toilet Cobham Holleyhedge Rd", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "ELMBR_10" }, "geometry": { "type": "Point", "coordinates": [ -0.412738323, 51.328632342 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys Filling Station", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "ELMBR_10" }, "geometry": { "type": "Point", "coordinates": [ -0.4224962, 51.333512551 ] } },
+{ "type": "Feature", "properties": { "name": "Automatic Toilet  Cobham Between Streets Road", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "ELMBR_10" }, "geometry": { "type": "Point", "coordinates": [ -0.412700772, 51.329513902 ] } },
+{ "type": "Feature", "properties": { "name": "Waitrose  Cobham", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 2, "park_offical_id": "ELMBR_10" }, "geometry": { "type": "Point", "coordinates": [ -0.412389636, 51.329859147 ] } }
+]
+}

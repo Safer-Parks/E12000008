@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WOKI5_655_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wheatsheaf Recreation Ground  Chobham", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 376, "park_offical_id": "WOKI5_655" }, "geometry": { "type": "Point", "coordinates": [ -0.56002582, 51.32441278 ] } }
+]
+}

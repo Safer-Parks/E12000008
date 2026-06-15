@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ADUR__32_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "May not exist", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "ADUR__32" }, "geometry": { "type": "Point", "coordinates": [ -0.236773363, 50.831081825 ] } },
+{ "type": "Feature", "properties": { "name": "Southwick Square Southwick", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "ADUR__32" }, "geometry": { "type": "Point", "coordinates": [ -0.2347138, 50.8349043 ] } }
+]
+}

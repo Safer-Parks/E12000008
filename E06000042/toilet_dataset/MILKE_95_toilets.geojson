@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_95_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsburys Supermarket ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-23:00", "Tue": "07:00-23:00", "Wed": "07:00-23:00", "Thu": "07:00-23:00", "Fri": "07:00-23:00", "Sat": "07:00-22:00", "Sun": "11:00-17:00", "index_right": 406, "park_offical_id": "MILKE_95" }, "geometry": { "type": "Point", "coordinates": [ -0.761693716, 52.036273974 ] } },
+{ "type": "Feature", "properties": { "name": "Cotels Serviced Apartments", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 406, "park_offical_id": "MILKE_95" }, "geometry": { "type": "Point", "coordinates": [ -0.760502815, 52.036425773 ] } },
+{ "type": "Feature", "properties": { "name": "Maaya Indian Kitchen  Bar", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 406, "park_offical_id": "MILKE_95" }, "geometry": { "type": "Point", "coordinates": [ -0.762442052, 52.037382757 ] } }
+]
+}

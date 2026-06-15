@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "REIBA_16_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "East Surrey Hospital", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 35, "park_offical_id": "REIBA_16" }, "geometry": { "type": "Point", "coordinates": [ -0.164000988, 51.21901115 ] } },
+{ "type": "Feature", "properties": { "name": "Earlswood Surrey", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 35, "park_offical_id": "REIBA_16" }, "geometry": { "type": "Point", "coordinates": [ -0.170821639, 51.22732507 ] } },
+{ "type": "Feature", "properties": { "name": "Shell  Filling Station  South Earlswood", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 35, "park_offical_id": "REIBA_16" }, "geometry": { "type": "Point", "coordinates": [ -0.170137882, 51.215940029 ] } }
+]
+}

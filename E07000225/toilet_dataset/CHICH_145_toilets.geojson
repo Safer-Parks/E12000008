@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_145_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Weald and Downland Open Air Museum  On site toilets", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "CHICH_145" }, "geometry": { "type": "Point", "coordinates": [ -0.758013725, 50.90786687 ] } },
+{ "type": "Feature", "properties": { "name": "Weald and Downland Open Air Museum  Main Entrance", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 14, "park_offical_id": "CHICH_145" }, "geometry": { "type": "Point", "coordinates": [ -0.756801367, 50.908360733 ] } },
+{ "type": "Feature", "properties": { "name": "Weald and Downland Open Air Museum  On site toilets", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "CHICH_145" }, "geometry": { "type": "Point", "coordinates": [ -0.75675652, 50.90722468 ] } },
+{ "type": "Feature", "properties": { "name": "Weald and Downland Open Air Museum  On site toilets", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "CHICH_145" }, "geometry": { "type": "Point", "coordinates": [ -0.762369633, 50.906874056 ] } }
+]
+}

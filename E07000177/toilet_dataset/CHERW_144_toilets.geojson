@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHERW_144_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Banbury Bus Station", "payment_info": "010", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 19, "park_offical_id": "CHERW_144" }, "geometry": { "type": "Point", "coordinates": [ -1.3314244, 52.0625156 ] } },
+{ "type": "Feature", "properties": { "name": "Banbury Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "CHERW_144" }, "geometry": { "type": "Point", "coordinates": [ -1.328130455, 52.060312819 ] } },
+{ "type": "Feature", "properties": { "name": "Bridge Street nr Town Hall", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 19, "park_offical_id": "CHERW_144" }, "geometry": { "type": "Point", "coordinates": [ -1.33366406, 52.061927322 ] } }
+]
+}

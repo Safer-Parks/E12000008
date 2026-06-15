@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ELMBR_103_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Public Toilet  Thames Ditton Car Park", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "ELMBR_103" }, "geometry": { "type": "Point", "coordinates": [ -0.333731174, 51.390750833 ] } },
+{ "type": "Feature", "properties": { "name": "Community Toilet Nice Buns Cafe Thames Ditton", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "ELMBR_103" }, "geometry": { "type": "Point", "coordinates": [ -0.332419574, 51.390854863 ] } },
+{ "type": "Feature", "properties": { "name": "Community Toilet George  Dragon Thames Ditton", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "ELMBR_103" }, "geometry": { "type": "Point", "coordinates": [ -0.333291292, 51.389396778 ] } },
+{ "type": "Feature", "properties": { "name": "Community ToiletCosta Coffee Thames Ditton", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "ELMBR_103" }, "geometry": { "type": "Point", "coordinates": [ -0.333401263, 51.389911139 ] } }
+]
+}

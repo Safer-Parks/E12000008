@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SPELT_7_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "staines cemetery ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "08:00-18:00", "index_right": 53, "park_offical_id": "SPELT_7" }, "geometry": { "type": "Point", "coordinates": [ -0.489806235, 51.438561866 ] } },
+{ "type": "Feature", "properties": { "name": "staines park near bowls club ", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 53, "park_offical_id": "SPELT_7" }, "geometry": { "type": "Point", "coordinates": [ -0.499223471, 51.42809244 ] } },
+{ "type": "Feature", "properties": { "name": "Staines Railway Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 53, "park_offical_id": "SPELT_7" }, "geometry": { "type": "Point", "coordinates": [ -0.503156805, 51.43245842 ] } }
+]
+}

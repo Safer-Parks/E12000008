@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHERW_138_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horefair", "payment_info": "010", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 14, "park_offical_id": "CHERW_138" }, "geometry": { "type": "Point", "coordinates": [ -1.3398439, 52.0604218 ] } }
+]
+}

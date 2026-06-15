@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_49_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Extra  Whitstable", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 170, "park_offical_id": "CANTE_49" }, "geometry": { "type": "Point", "coordinates": [ 1.042907238, 51.346828254 ] } }
+]
+}

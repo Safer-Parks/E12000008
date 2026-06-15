@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Torys Cafe", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "MIDS5_19" }, "geometry": { "type": "Point", "coordinates": [ -0.104469359, 50.996542662 ] } }
+]
+}

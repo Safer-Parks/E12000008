@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_181_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nights Garden Centre  Nagshall", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 29, "park_offical_id": "TANDR_181" }, "geometry": { "type": "Point", "coordinates": [ -0.046777725, 51.248676907 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  Godstone", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 29, "park_offical_id": "TANDR_181" }, "geometry": { "type": "Point", "coordinates": [ -0.066862106, 51.253626055 ] } }
+]
+}

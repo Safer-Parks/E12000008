@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SPELT_47_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Golden Grill Restaurant", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 37, "park_offical_id": "SPELT_47" }, "geometry": { "type": "Point", "coordinates": [ -0.460674763, 51.432283587 ] } },
+{ "type": "Feature", "properties": { "name": "The Fordbridge Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 37, "park_offical_id": "SPELT_47" }, "geometry": { "type": "Point", "coordinates": [ -0.462841988, 51.432026068 ] } },
+{ "type": "Feature", "properties": { "name": "Ashford Recreation Ground Clockhouse Lane Ashford Middlesex", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "08:00-18:00", "index_right": 37, "park_offical_id": "SPELT_47" }, "geometry": { "type": "Point", "coordinates": [ -0.453819036, 51.434553803 ] } },
+{ "type": "Feature", "properties": { "name": "Bedfont Lakes Visitor Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 37, "park_offical_id": "SPELT_47" }, "geometry": { "type": "Point", "coordinates": [ -0.45249939, 51.441215362 ] } }
+]
+}

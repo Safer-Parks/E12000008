@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "REIBA_7_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Merstham Community Hub", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 257, "park_offical_id": "REIBA_7" }, "geometry": { "type": "Point", "coordinates": [ -0.144710839, 51.260216709 ] } }
+]
+}

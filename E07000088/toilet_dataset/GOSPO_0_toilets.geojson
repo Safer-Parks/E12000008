@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GOSPO_0_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rowner Road", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "GOSPO_0" }, "geometry": { "type": "Point", "coordinates": [ -1.170011759, 50.811805905 ] } }
+]
+}

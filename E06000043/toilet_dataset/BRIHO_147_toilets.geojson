@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIHO_147_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Royal Sussex County Hospital", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 31, "park_offical_id": "BRIHO_147" }, "geometry": { "type": "Point", "coordinates": [ -0.118457079, 50.819408188 ] } },
+{ "type": "Feature", "properties": { "name": "East Brighton Park", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 31, "park_offical_id": "BRIHO_147" }, "geometry": { "type": "Point", "coordinates": [ -0.099509954, 50.819033695 ] } }
+]
+}

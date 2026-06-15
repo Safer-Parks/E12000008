@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HASTI_4_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Extra  Hastings", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 33, "park_offical_id": "HASTI_4" }, "geometry": { "type": "Point", "coordinates": [ 0.536527634, 50.877465646 ] } }
+]
+}

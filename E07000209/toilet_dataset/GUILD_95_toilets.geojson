@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GUILD_95_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Mount Cemetery", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 481, "park_offical_id": "GUILD_95" }, "geometry": { "type": "Point", "coordinates": [ -0.582522154, 51.231631175 ] } },
+{ "type": "Feature", "properties": { "name": "Guildford Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 481, "park_offical_id": "GUILD_95" }, "geometry": { "type": "Point", "coordinates": [ -0.580515862, 51.2370339 ] } }
+]
+}

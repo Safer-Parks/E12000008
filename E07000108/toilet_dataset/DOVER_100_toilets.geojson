@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_100_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Quay Public Toilets", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "DOVER_100" }, "geometry": { "type": "Point", "coordinates": [ 1.3429629, 51.2754887 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "DOVER_100" }, "geometry": { "type": "Point", "coordinates": [ 1.33790842, 51.27440078 ] } }
+]
+}

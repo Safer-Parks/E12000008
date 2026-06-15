@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_83_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  Birchington on Sea", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 99, "park_offical_id": "THANE_83" }, "geometry": { "type": "Point", "coordinates": [ 1.299637556, 51.368768017 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_13_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "Unknown", "men": "True", "baby_change": "True", "Mon": "17:00-00:00", "Tue": "17:00-00:00", "Wed": "17:00-00:00", "Thu": "17:00-00:00", "Fri": "17:00-00:00", "Sat": "17:00-00:00", "Sun": "17:00-00:00", "index_right": 35, "park_offical_id": "MILKE_13" }, "geometry": { "type": "Point", "coordinates": [ -0.793702108, 52.033619101 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "45", "accessible": "True", "radar": "True", "women": "False", "men": "False", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 35, "park_offical_id": "MILKE_13" }, "geometry": { "type": "Point", "coordinates": [ -0.789185157, 52.031788084 ] } }
+]
+}

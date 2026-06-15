@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CRAWL_28_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Three Bridges Railway Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 41, "park_offical_id": "CRAWL_28" }, "geometry": { "type": "Point", "coordinates": [ -0.161345601, 51.117830374 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra Superstore", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 41, "park_offical_id": "CRAWL_28" }, "geometry": { "type": "Point", "coordinates": [ -0.163722038, 51.1234451 ] } },
+{ "type": "Feature", "properties": { "name": "School Path", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 41, "park_offical_id": "CRAWL_28" }, "geometry": { "type": "Point", "coordinates": [ -0.163196325, 51.119808653 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TESVA_108_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "BP Filling Station  Romsey", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 6, "park_offical_id": "TESVA_108" }, "geometry": { "type": "Point", "coordinates": [ -1.491984129, 50.989595632 ] } },
+{ "type": "Feature", "properties": { "name": "Romsey Bus Station Broadwater Road", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "08:00-18:00", "index_right": 6, "park_offical_id": "TESVA_108" }, "geometry": { "type": "Point", "coordinates": [ -1.4985007, 50.9883731 ] } },
+{ "type": "Feature", "properties": { "name": "Romsey Train Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 6, "park_offical_id": "TESVA_108" }, "geometry": { "type": "Point", "coordinates": [ -1.493274271, 50.992713905 ] } },
+{ "type": "Feature", "properties": { "name": "War Memorial Park WCs", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "08:00-18:00", "index_right": 6, "park_offical_id": "TESVA_108" }, "geometry": { "type": "Point", "coordinates": [ -1.5049306, 50.9870577 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_55_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Westbrook Bay Public Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 75, "park_offical_id": "THANE_55" }, "geometry": { "type": "Point", "coordinates": [ 1.35952592, 51.385309303 ] } },
+{ "type": "Feature", "properties": { "name": "Margate Railway Station", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 75, "park_offical_id": "THANE_55" }, "geometry": { "type": "Point", "coordinates": [ 1.372020955, 51.385435638 ] } },
+{ "type": "Feature", "properties": { "name": "BP Connect Filling Station  Westgate on Sea", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 75, "park_offical_id": "THANE_55" }, "geometry": { "type": "Point", "coordinates": [ 1.353378296, 51.379656112 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASHA_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Butser Hill Car Park QE Country Park", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 34, "park_offical_id": "EASHA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.986545462, 50.976003357 ] } },
+{ "type": "Feature", "properties": { "name": "Queen Elizabeth Forest Visitor Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 34, "park_offical_id": "EASHA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.9782935, 50.9613182 ] } },
+{ "type": "Feature", "properties": { "name": "Juniper Car Park QE Country Park", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 34, "park_offical_id": "EASHA_29" }, "geometry": { "type": "Point", "coordinates": [ -0.974736214, 50.964717924 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUOX_111_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wallingford outdoor swimming pool", "payment_info": "Free", "accessible": "Unknown", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 10, "park_offical_id": "SOUOX_111" }, "geometry": { "type": "Point", "coordinates": [ -1.118593812, 51.601623665 ] } }
+]
+}

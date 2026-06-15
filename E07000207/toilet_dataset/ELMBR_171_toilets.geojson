@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ELMBR_171_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Public Toilet  Hampton Court", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 21, "park_offical_id": "ELMBR_171" }, "geometry": { "type": "Point", "coordinates": [ -0.3469397, 51.4050017 ] } },
+{ "type": "Feature", "properties": { "name": "Hampton Court Palace", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 21, "park_offical_id": "ELMBR_171" }, "geometry": { "type": "Point", "coordinates": [ -0.337708, 51.4050312 ] } },
+{ "type": "Feature", "properties": { "name": "Hampton Court Palace", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 21, "park_offical_id": "ELMBR_171" }, "geometry": { "type": "Point", "coordinates": [ -0.3407134, 51.4055871 ] } },
+{ "type": "Feature", "properties": { "name": "Hampton Court  Railway Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 21, "park_offical_id": "ELMBR_171" }, "geometry": { "type": "Point", "coordinates": [ -0.342750055, 51.40255764 ] } }
+]
+}

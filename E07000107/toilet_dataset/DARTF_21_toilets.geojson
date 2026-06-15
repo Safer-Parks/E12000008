@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "DARTF_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "DARTF_21" }, "geometry": { "type": "Point", "coordinates": [ 0.2196098, 51.443267 ] } },
+{ "type": "Feature", "properties": { "name": "Dartford Station", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-20:00", "Tue": "07:00-20:00", "Wed": "07:00-20:00", "Thu": "07:00-20:00", "Fri": "07:00-20:00", "Sat": "07:00-20:00", "Sun": "07:00-20:00", "index_right": 14, "park_offical_id": "DARTF_21" }, "geometry": { "type": "Point", "coordinates": [ 0.219261557, 51.447372543 ] } },
+{ "type": "Feature", "properties": { "name": "Central Park Public Toilets", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "DARTF_21" }, "geometry": { "type": "Point", "coordinates": [ 0.218751132, 51.439405464 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "DARTF_21" }, "geometry": { "type": "Point", "coordinates": [ 0.2171305, 51.4391848 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 14, "park_offical_id": "DARTF_21" }, "geometry": { "type": "Point", "coordinates": [ 0.2154418, 51.4455574 ] } }
+]
+}

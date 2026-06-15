@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "REIBA_0_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsburys Supermarket  Redhill", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 0, "park_offical_id": "REIBA_0" }, "geometry": { "type": "Point", "coordinates": [ -0.167734623, 51.24124379 ] } },
+{ "type": "Feature", "properties": { "name": "Redhill Train Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "REIBA_0" }, "geometry": { "type": "Point", "coordinates": [ -0.165898311, 51.24019809 ] } },
+{ "type": "Feature", "properties": { "name": "Station Road  Redhill", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 0, "park_offical_id": "REIBA_0" }, "geometry": { "type": "Point", "coordinates": [ -0.166967511, 51.240397477 ] } },
+{ "type": "Feature", "properties": { "name": "The Sun Pub JD Weatherspoons", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "REIBA_0" }, "geometry": { "type": "Point", "coordinates": [ -0.168190598, 51.241344541 ] } }
+]
+}

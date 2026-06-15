@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWFO_59_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Windsor Road PC", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 89, "park_offical_id": "NEWFO_59" }, "geometry": { "type": "Point", "coordinates": [ -1.4985934, 50.9141239 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HART__85_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Harlington Fleet", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:30-17:00", "Tue": "09:30-17:00", "Wed": "09:30-17:00", "Thu": "09:30-17:00", "Fri": "09:30-17:00", "Sat": "10:01-14:00", "Sun": "Closed", "index_right": 68, "park_offical_id": "HART__85" }, "geometry": { "type": "Point", "coordinates": [ -0.845056772, 51.279621231 ] } },
+{ "type": "Feature", "properties": { "name": "Hart Shopping Centre", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:30", "Tue": "09:00-17:30", "Wed": "09:00-17:30", "Thu": "09:00-17:30", "Fri": "09:00-17:30", "Sat": "09:00-18:00", "Sun": "10:00-16:00", "index_right": 68, "park_offical_id": "HART__85" }, "geometry": { "type": "Point", "coordinates": [ -0.841290951, 51.281286761 ] } },
+{ "type": "Feature", "properties": { "name": "Civic Offices Fleet", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-17:00", "Tue": "08:30-17:00", "Wed": "08:30-17:00", "Thu": "08:30-17:00", "Fri": "08:30-16:30", "Sat": "Closed", "Sun": "Closed", "index_right": 68, "park_offical_id": "HART__85" }, "geometry": { "type": "Point", "coordinates": [ -0.84595263, 51.279421233 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_156_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nymans Gardens Car Park National Trust", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 22, "park_offical_id": "MIDS5_156" }, "geometry": { "type": "Point", "coordinates": [ -0.1996142, 51.0523182 ] } },
+{ "type": "Feature", "properties": { "name": "Nymans Gardens Cafe National Trust", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 22, "park_offical_id": "MIDS5_156" }, "geometry": { "type": "Point", "coordinates": [ -0.199427605, 51.051838669 ] } },
+{ "type": "Feature", "properties": { "name": "Nymans Gardens National Trust", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 22, "park_offical_id": "MIDS5_156" }, "geometry": { "type": "Point", "coordinates": [ -0.1951417, 51.0497878 ] } }
+]
+}

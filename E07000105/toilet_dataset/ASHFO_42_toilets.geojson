@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ashford Designer Outlet Mall", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 152, "park_offical_id": "ASHFO_42" }, "geometry": { "type": "Point", "coordinates": [ 0.877715349, 51.138886708 ] } },
+{ "type": "Feature", "properties": { "name": "Shopping mall", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 152, "park_offical_id": "ASHFO_42" }, "geometry": { "type": "Point", "coordinates": [ 0.878149867, 51.137190302 ] } }
+]
+}

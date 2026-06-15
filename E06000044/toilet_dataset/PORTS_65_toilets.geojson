@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PORTS_65_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Portsmouth  Drayton Park Public Toilet", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 55, "park_offical_id": "PORTS_65" }, "geometry": { "type": "Point", "coordinates": [ -1.053260565, 50.840036233 ] } },
+{ "type": "Feature", "properties": { "name": "Cosham  The Manor House Public Toilet", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 55, "park_offical_id": "PORTS_65" }, "geometry": { "type": "Point", "coordinates": [ -1.055556536, 50.842387143 ] } }
+]
+}

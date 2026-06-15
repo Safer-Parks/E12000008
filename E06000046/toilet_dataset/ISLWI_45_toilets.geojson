@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_45_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Shanklin pay toilet next to lift", "payment_info": "20p", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 168, "park_offical_id": "ISLWI_45" }, "geometry": { "type": "Point", "coordinates": [ -1.172575951, 50.629796392 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 168, "park_offical_id": "ISLWI_45" }, "geometry": { "type": "Point", "coordinates": [ -1.1771634, 50.6264656 ] } },
+{ "type": "Feature", "properties": { "name": "Landguard Road public toilets", "payment_info": "60p via cash or card", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 168, "park_offical_id": "ISLWI_45" }, "geometry": { "type": "Point", "coordinates": [ -1.1791987, 50.6312187 ] } },
+{ "type": "Feature", "properties": { "name": "Rylstone Gardens", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 168, "park_offical_id": "ISLWI_45" }, "geometry": { "type": "Point", "coordinates": [ -1.176119149, 50.625033091 ] } }
+]
+}

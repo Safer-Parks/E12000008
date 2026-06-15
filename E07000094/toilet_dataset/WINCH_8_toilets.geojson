@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_8_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Park and Ride South", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "False", "men": "False", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "WINCH_8" }, "geometry": { "type": "Point", "coordinates": [ -1.328544617, 51.031081628 ] } }
+]
+}

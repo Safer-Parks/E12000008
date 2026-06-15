@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GUILD_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Shalford Park", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 338, "park_offical_id": "GUILD_50" }, "geometry": { "type": "Point", "coordinates": [ -0.571852326, 51.226420977 ] } }
+]
+}

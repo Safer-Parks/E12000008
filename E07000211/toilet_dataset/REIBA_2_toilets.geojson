@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "REIBA_2_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Earlswood Surrey", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 65, "park_offical_id": "REIBA_2" }, "geometry": { "type": "Point", "coordinates": [ -0.170821639, 51.22732507 ] } },
+{ "type": "Feature", "properties": { "name": "Belfry Shopping Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 65, "park_offical_id": "REIBA_2" }, "geometry": { "type": "Point", "coordinates": [ -0.169390436, 51.239569078 ] } },
+{ "type": "Feature", "properties": { "name": "BP Connect Filling Station  Redhill", "payment_info": "O", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 65, "park_offical_id": "REIBA_2" }, "geometry": { "type": "Point", "coordinates": [ -0.170567036, 51.234894383 ] } },
+{ "type": "Feature", "properties": { "name": "Station Road  Redhill", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 65, "park_offical_id": "REIBA_2" }, "geometry": { "type": "Point", "coordinates": [ -0.166967511, 51.240397477 ] } }
+]
+}

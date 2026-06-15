@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HART__36_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kings Street Toilets ", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "07:00-19:00", "Sun": "07:00-19:00", "index_right": 33, "park_offical_id": "HART__36" }, "geometry": { "type": "Point", "coordinates": [ -0.939319715, 51.253869746 ] } }
+]
+}

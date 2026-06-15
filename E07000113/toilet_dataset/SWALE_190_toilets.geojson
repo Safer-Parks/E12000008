@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_190_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Faversham Recreation Ground", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "SWALE_190" }, "geometry": { "type": "Point", "coordinates": [ 0.895514488, 51.312809989 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra  Faversham", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 26, "park_offical_id": "SWALE_190" }, "geometry": { "type": "Point", "coordinates": [ 0.893809045, 51.316999521 ] } },
+{ "type": "Feature", "properties": { "name": "Faversham  Railway Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "SWALE_190" }, "geometry": { "type": "Point", "coordinates": [ 0.891062265, 51.311710337 ] } },
+{ "type": "Feature", "properties": { "name": "Central car park public toilet", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "SWALE_190" }, "geometry": { "type": "Point", "coordinates": [ 0.8905834, 51.315105 ] } },
+{ "type": "Feature", "properties": { "name": "Library", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 26, "park_offical_id": "SWALE_190" }, "geometry": { "type": "Point", "coordinates": [ 0.892848372, 51.314002274 ] } }
+]
+}

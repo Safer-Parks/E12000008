@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_254_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "BP", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 169, "park_offical_id": "MILKE_254" }, "geometry": { "type": "Point", "coordinates": [ -0.800585747, 52.048485564 ] } },
+{ "type": "Feature", "properties": { "name": "KFC", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 169, "park_offical_id": "MILKE_254" }, "geometry": { "type": "Point", "coordinates": [ -0.798220038, 52.050260487 ] } },
+{ "type": "Feature", "properties": { "name": "Shell", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 169, "park_offical_id": "MILKE_254" }, "geometry": { "type": "Point", "coordinates": [ -0.799394846, 52.049769173 ] } }
+]
+}

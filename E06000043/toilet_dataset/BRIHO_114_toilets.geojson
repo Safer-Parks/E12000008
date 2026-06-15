@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRIHO_114_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Preston Park Chalet Brighton", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 13, "park_offical_id": "BRIHO_114" }, "geometry": { "type": "Point", "coordinates": [ -0.147479437, 50.840799786 ] } },
+{ "type": "Feature", "properties": { "name": "Preston Manor", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 13, "park_offical_id": "BRIHO_114" }, "geometry": { "type": "Point", "coordinates": [ -0.150155425, 50.842446422 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  Preston Park Brighton", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 13, "park_offical_id": "BRIHO_114" }, "geometry": { "type": "Point", "coordinates": [ -0.151534081, 50.842009447 ] } },
+{ "type": "Feature", "properties": { "name": "Preston Park  Railway Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 13, "park_offical_id": "BRIHO_114" }, "geometry": { "type": "Point", "coordinates": [ -0.155167744, 50.84593878 ] } },
+{ "type": "Feature", "properties": { "name": "Preston Park Rotunda", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 13, "park_offical_id": "BRIHO_114" }, "geometry": { "type": "Point", "coordinates": [ -0.143696666, 50.837747878 ] } }
+]
+}

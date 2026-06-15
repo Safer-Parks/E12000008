@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WOKI5_695_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peacocks Shopping Centre  food court", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 402, "park_offical_id": "WOKI5_695" }, "geometry": { "type": "Point", "coordinates": [ -0.56052804, 51.319995177 ] } },
+{ "type": "Feature", "properties": { "name": "Wheatsheaf Recreation Ground  Chobham", "payment_info": "Cost unknown", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 402, "park_offical_id": "WOKI5_695" }, "geometry": { "type": "Point", "coordinates": [ -0.56002582, 51.32441278 ] } },
+{ "type": "Feature", "properties": { "name": "Pret a Manger Woking", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 402, "park_offical_id": "WOKI5_695" }, "geometry": { "type": "Point", "coordinates": [ -0.558698773, 51.319782286 ] } },
+{ "type": "Feature", "properties": { "name": "Victoria Way Car Park Woking", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 402, "park_offical_id": "WOKI5_695" }, "geometry": { "type": "Point", "coordinates": [ -0.555973649, 51.321620751 ] } }
+]
+}

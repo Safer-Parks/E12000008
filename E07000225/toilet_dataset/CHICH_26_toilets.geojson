@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_26_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stanstead Park House and Garden Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 39, "park_offical_id": "CHICH_26" }, "geometry": { "type": "Point", "coordinates": [ -0.92158556, 50.885756088 ] } }
+]
+}

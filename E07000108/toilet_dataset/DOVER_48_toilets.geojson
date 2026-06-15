@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_48_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "DOVER_48" }, "geometry": { "type": "Point", "coordinates": [ 1.4032782, 51.2162406 ] } },
+{ "type": "Feature", "properties": { "name": "Granville Road Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "DOVER_48" }, "geometry": { "type": "Point", "coordinates": [ 1.402608929, 51.202357515 ] } }
+]
+}

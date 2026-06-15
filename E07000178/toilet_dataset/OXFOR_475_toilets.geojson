@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OXFOR_475_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wolvercote Cemetery", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:00-17:00", "Tue": "10:00-17:00", "Wed": "10:00-17:00", "Thu": "10:00-17:00", "Fri": "10:00-17:00", "Sat": "10:00-17:00", "Sun": "10:00-17:00", "index_right": 127, "park_offical_id": "OXFOR_475" }, "geometry": { "type": "Point", "coordinates": [ -1.2734588, 51.7909559 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ROTHE_90_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Polegrove", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 53, "park_offical_id": "ROTHE_90" }, "geometry": { "type": "Point", "coordinates": [ 0.461514669, 50.836951133 ] } },
+{ "type": "Feature", "properties": { "name": "West Parade", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 53, "park_offical_id": "ROTHE_90" }, "geometry": { "type": "Point", "coordinates": [ 0.458925962, 50.835720277 ] } },
+{ "type": "Feature", "properties": { "name": "Polgrove", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "Unknown", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 53, "park_offical_id": "ROTHE_90" }, "geometry": { "type": "Point", "coordinates": [ 0.461176437, 50.836917886 ] } },
+{ "type": "Feature", "properties": { "name": "De La Warr Pavilion", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 53, "park_offical_id": "ROTHE_90" }, "geometry": { "type": "Point", "coordinates": [ 0.471639633, 50.837548001 ] } },
+{ "type": "Feature", "properties": { "name": "Egerton Park", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 53, "park_offical_id": "ROTHE_90" }, "geometry": { "type": "Point", "coordinates": [ 0.465612374, 50.837331724 ] } }
+]
+}

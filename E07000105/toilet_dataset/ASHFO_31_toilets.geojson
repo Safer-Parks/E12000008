@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_31_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Charing Kent", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 106, "park_offical_id": "ASHFO_31" }, "geometry": { "type": "Point", "coordinates": [ 0.790345573, 51.208102225 ] } },
+{ "type": "Feature", "properties": { "name": "Charing village WC", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 106, "park_offical_id": "ASHFO_31" }, "geometry": { "type": "Point", "coordinates": [ 0.794346, 51.2097272 ] } }
+]
+}

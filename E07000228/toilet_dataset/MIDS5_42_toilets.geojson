@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wakehurst Place  National Trust  Visitor Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 77, "park_offical_id": "MIDS5_42" }, "geometry": { "type": "Point", "coordinates": [ -0.0871719, 51.0687402 ] } },
+{ "type": "Feature", "properties": { "name": "Wakehurst Place  National Trust", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 77, "park_offical_id": "MIDS5_42" }, "geometry": { "type": "Point", "coordinates": [ -0.0889761, 51.0670918 ] } }
+]
+}

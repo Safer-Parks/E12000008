@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_34_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Shell Filling Station In Service Area  Detling Eastbound", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "MAIDS_34" }, "geometry": { "type": "Point", "coordinates": [ 0.598465204, 51.301272105 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  Detling Westbound", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "MAIDS_34" }, "geometry": { "type": "Point", "coordinates": [ 0.598540306, 51.300592921 ] } }
+]
+}

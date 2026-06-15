@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRIHO_113_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Stanley Deason Leisure Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "BRIHO_113" }, "geometry": { "type": "Point", "coordinates": [ -0.099546513, 50.823523972 ] } },
+{ "type": "Feature", "properties": { "name": "Whitehawk Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "BRIHO_113" }, "geometry": { "type": "Point", "coordinates": [ -0.107288361, 50.825992669 ] } },
+{ "type": "Feature", "properties": { "name": "East Brighton Park", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "BRIHO_113" }, "geometry": { "type": "Point", "coordinates": [ -0.099509954, 50.819033695 ] } }
+]
+}

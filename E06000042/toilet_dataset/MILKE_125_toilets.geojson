@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_125_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "THE PLOUGH", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 30, "park_offical_id": "MILKE_125" }, "geometry": { "type": "Point", "coordinates": [ -0.850474834, 52.055749563 ] } },
+{ "type": "Feature", "properties": { "name": "Healthmatic Automatic Public Toilet", "payment_info": "20p", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 30, "park_offical_id": "MILKE_125" }, "geometry": { "type": "Point", "coordinates": [ -0.8537326, 52.0555476 ] } }
+]
+}

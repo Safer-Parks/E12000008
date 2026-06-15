@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CRAWL_358_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tilgate Nature Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 59, "park_offical_id": "CRAWL_358" }, "geometry": { "type": "Point", "coordinates": [ -0.1834089, 51.0934474 ] } },
+{ "type": "Feature", "properties": { "name": "K2 Leisure Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 59, "park_offical_id": "CRAWL_358" }, "geometry": { "type": "Point", "coordinates": [ -0.191220045, 51.096964887 ] } },
+{ "type": "Feature", "properties": { "name": "Tilgate Park  Walled Garden", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 59, "park_offical_id": "CRAWL_358" }, "geometry": { "type": "Point", "coordinates": [ -0.182744265, 51.093309511 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HAVAN_40_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Havant Park Havant", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 36, "park_offical_id": "HAVAN_40" }, "geometry": { "type": "Point", "coordinates": [ -0.98285, 50.8533127 ] } },
+{ "type": "Feature", "properties": { "name": "Leigh Park Havant", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 36, "park_offical_id": "HAVAN_40" }, "geometry": { "type": "Point", "coordinates": [ -0.983566046, 50.867392849 ] } },
+{ "type": "Feature", "properties": { "name": "Havant Leisure Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 36, "park_offical_id": "HAVAN_40" }, "geometry": { "type": "Point", "coordinates": [ -0.981860161, 50.857807395 ] } },
+{ "type": "Feature", "properties": { "name": "Havant Train Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 36, "park_offical_id": "HAVAN_40" }, "geometry": { "type": "Point", "coordinates": [ -0.981606362, 50.85441478 ] } }
+]
+}

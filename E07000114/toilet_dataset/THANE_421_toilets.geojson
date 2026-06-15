@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_421_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Hopeville Avenue Car park Public Toilet", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 54, "park_offical_id": "THANE_421" }, "geometry": { "type": "Point", "coordinates": [ 1.418561197, 51.365954836 ] } }
+]
+}

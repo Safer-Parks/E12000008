@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "EASTB_11_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Arndale Centre Eastbourne", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 3, "park_offical_id": "EASTB_11" }, "geometry": { "type": "Point", "coordinates": [ 0.28422296, 50.768863516 ] } },
+{ "type": "Feature", "properties": { "name": "Eastbourne Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 3, "park_offical_id": "EASTB_11" }, "geometry": { "type": "Point", "coordinates": [ 0.281258504, 50.76936955 ] } },
+{ "type": "Feature", "properties": { "name": "Junction Road", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 3, "park_offical_id": "EASTB_11" }, "geometry": { "type": "Point", "coordinates": [ 0.28496325, 50.770887234 ] } },
+{ "type": "Feature", "properties": { "name": "Eastbourne Borough Council Use Our Loos", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "EASTB_11" }, "geometry": { "type": "Point", "coordinates": [ 0.279223323, 50.768510671 ] } },
+{ "type": "Feature", "properties": { "name": "Gildredge Park", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 3, "park_offical_id": "EASTB_11" }, "geometry": { "type": "Point", "coordinates": [ 0.270119905, 50.771070433 ] } }
+]
+}

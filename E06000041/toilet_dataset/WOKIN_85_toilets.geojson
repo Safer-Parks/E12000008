@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_85_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Waitrose", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 116, "park_offical_id": "WOKIN_85" }, "geometry": { "type": "Point", "coordinates": [ -0.8661878, 51.4783867 ] } },
+{ "type": "Feature", "properties": { "name": "Local Loo Scheme  Sebastians Caf MAY BE CLOSED DUE TO CORONAVIRUS", "payment_info": "Cost unknown", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 116, "park_offical_id": "WOKIN_85" }, "geometry": { "type": "Point", "coordinates": [ -0.866683316, 51.477633571 ] } },
+{ "type": "Feature", "properties": { "name": "Twyford Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 116, "park_offical_id": "WOKIN_85" }, "geometry": { "type": "Point", "coordinates": [ -0.862848588, 51.475690451 ] } }
+]
+}

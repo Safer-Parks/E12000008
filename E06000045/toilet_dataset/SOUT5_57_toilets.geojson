@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT5_57_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Superstore", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 96, "park_offical_id": "SOUT5_57" }, "geometry": { "type": "Point", "coordinates": [ -1.447169781, 50.923502175 ] } }
+]
+}

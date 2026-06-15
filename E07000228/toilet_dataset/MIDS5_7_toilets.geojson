@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_7_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chequer Mead Community Arts Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 127, "park_offical_id": "MIDS5_7" }, "geometry": { "type": "Point", "coordinates": [ -0.004221797, 51.125998859 ] } },
+{ "type": "Feature", "properties": { "name": "East Grinstead Museum", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 127, "park_offical_id": "MIDS5_7" }, "geometry": { "type": "Point", "coordinates": [ -0.006485581, 51.124551129 ] } },
+{ "type": "Feature", "properties": { "name": "Poppins Restaurant", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 127, "park_offical_id": "MIDS5_7" }, "geometry": { "type": "Point", "coordinates": [ -0.009242892, 51.124655502 ] } }
+]
+}

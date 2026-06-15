@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_297_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brick Kiln Garden Centre  Chichester", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "CHICH_297" }, "geometry": { "type": "Point", "coordinates": [ -0.747284889, 50.829543769 ] } },
+{ "type": "Feature", "properties": { "name": "Public Toilet Chichester Florence Park", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "CHICH_297" }, "geometry": { "type": "Point", "coordinates": [ -0.7621645, 50.8356698 ] } }
+]
+}

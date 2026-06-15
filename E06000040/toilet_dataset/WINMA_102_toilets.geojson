@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_102_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Imperial Park public toilet", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "WINMA_102" }, "geometry": { "type": "Point", "coordinates": [ -0.626521111, 51.476156467 ] } },
+{ "type": "Feature", "properties": { "name": "BP Filling Station  Windsor", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 3, "park_offical_id": "WINMA_102" }, "geometry": { "type": "Point", "coordinates": [ -0.625496507, 51.48382662 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  Windsor", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 3, "park_offical_id": "WINMA_102" }, "geometry": { "type": "Point", "coordinates": [ -0.628473759, 51.479744208 ] } }
+]
+}

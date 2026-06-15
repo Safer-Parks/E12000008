@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_16_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Go Outdoors", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "MILKE_16" }, "geometry": { "type": "Point", "coordinates": [ -0.778173208, 52.042368638 ] } },
+{ "type": "Feature", "properties": { "name": "Greggs", "payment_info": "Purchase necessary", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "MILKE_16" }, "geometry": { "type": "Point", "coordinates": [ -0.776885748, 52.041273177 ] } },
+{ "type": "Feature", "properties": { "name": "Costa  Next", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 68, "park_offical_id": "MILKE_16" }, "geometry": { "type": "Point", "coordinates": [ -0.777403414, 52.041236881 ] } }
+]
+}

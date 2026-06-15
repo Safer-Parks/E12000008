@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIHO_182_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brighton Marina", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "BRIHO_182" }, "geometry": { "type": "Point", "coordinates": [ -0.102241601, 50.812342704 ] } },
+{ "type": "Feature", "properties": { "name": "Asda Superstore  Brighton Marina Village", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "BRIHO_182" }, "geometry": { "type": "Point", "coordinates": [ -0.103468895, 50.813670155 ] } }
+]
+}

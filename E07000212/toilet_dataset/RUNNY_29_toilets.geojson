@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RUNNY_29_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Coopers Hill Public Car Park Coopers Hill", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 32, "park_offical_id": "RUNNY_29" }, "geometry": { "type": "Point", "coordinates": [ -0.56827868, 51.43696604 ] } }
+]
+}

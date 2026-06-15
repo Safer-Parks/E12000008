@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ADUR__9_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brooklands Park Sompting", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "ADUR__9" }, "geometry": { "type": "Point", "coordinates": [ -0.3372738, 50.8206066 ] } },
+{ "type": "Feature", "properties": { "name": "Shopsdam Road Lancing", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "ADUR__9" }, "geometry": { "type": "Point", "coordinates": [ -0.313052734, 50.821518518 ] } },
+{ "type": "Feature", "properties": { "name": "Beach Green Lancing", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "ADUR__9" }, "geometry": { "type": "Point", "coordinates": [ -0.325158834, 50.820302891 ] } },
+{ "type": "Feature", "properties": { "name": "Yewtree Close Lancing", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 34, "park_offical_id": "ADUR__9" }, "geometry": { "type": "Point", "coordinates": [ -0.322817266, 50.825026913 ] } }
+]
+}

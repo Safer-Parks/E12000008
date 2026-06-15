@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CRAWL_30_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Langley Green Community Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 48, "park_offical_id": "CRAWL_30" }, "geometry": { "type": "Point", "coordinates": [ -0.198934078, 51.127316928 ] } },
+{ "type": "Feature", "properties": { "name": "Langley Green Shops Automatic Toilet", "payment_info": "10p", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 48, "park_offical_id": "CRAWL_30" }, "geometry": { "type": "Point", "coordinates": [ -0.1988807, 51.1281666 ] } }
+]
+}

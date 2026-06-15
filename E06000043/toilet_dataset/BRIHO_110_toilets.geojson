@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRIHO_110_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Old Cottage Tearooms", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 9, "park_offical_id": "BRIHO_110" }, "geometry": { "type": "Point", "coordinates": [ -0.057427869, 50.803792435 ] } },
+{ "type": "Feature", "properties": { "name": "Rottingdean Library", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 9, "park_offical_id": "BRIHO_110" }, "geometry": { "type": "Point", "coordinates": [ -0.057426095, 50.805865231 ] } },
+{ "type": "Feature", "properties": { "name": "Park Road  Rottingdean", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 9, "park_offical_id": "BRIHO_110" }, "geometry": { "type": "Point", "coordinates": [ -0.058053107, 50.804023649 ] } },
+{ "type": "Feature", "properties": { "name": "Rottingdean Recreation Ground", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 9, "park_offical_id": "BRIHO_110" }, "geometry": { "type": "Point", "coordinates": [ -0.061862469, 50.810004291 ] } }
+]
+}

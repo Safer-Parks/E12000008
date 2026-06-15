@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "De Stafford Sports Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 14, "park_offical_id": "TANDR_15" }, "geometry": { "type": "Point", "coordinates": [ -0.083019733, 51.292770681 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  Whyteleafe", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 14, "park_offical_id": "TANDR_15" }, "geometry": { "type": "Point", "coordinates": [ -0.07687211, 51.304045755 ] } }
+]
+}
