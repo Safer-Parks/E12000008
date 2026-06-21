@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Chichester_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9884014318, "authority": "Chichester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9261197, 50.8425322 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9884014341, "authority": "Chichester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9226089, 50.8432014 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9884014615, "authority": "Chichester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.923281, 50.8432528 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9884014616, "authority": "Chichester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9230376, 50.8431971 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9884014617, "authority": "Chichester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.9231276, 50.8433197 ] } }
+]
+}

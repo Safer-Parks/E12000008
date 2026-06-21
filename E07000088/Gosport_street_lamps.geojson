@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Gosport_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3650821918, "authority": "Gosport", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1167618, 50.7947447 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3650821921, "authority": "Gosport", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1167474, 50.7948171 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8831146631, "authority": "Gosport", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.1570339, 50.8040295 ] } }
+]
+}

@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Dover_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1986787094, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3134577, 51.1250357 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1986787681, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3133321, 51.1250298 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1986787683, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3133172, 51.1251793 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1986787684, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3135517, 51.1251828 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 8041132659, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.2185685, 51.1011993 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9786480871, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3025355, 51.1141234 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 11296133846, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3093217, 51.116059 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13017112868, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.4043054, 51.2188567 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13017120893, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.4041989, 51.2184285 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13017120894, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.404117, 51.2180115 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019392868, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3363733, 51.2735134 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019400549, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3404778, 51.2720621 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019412432, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3374671, 51.2731966 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019413519, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3361406, 51.273585 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019417624, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3368506, 51.273379 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019436867, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3397979, 51.2723142 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019448508, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3387061, 51.2727199 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13019448603, "authority": "Dover", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 1.3391909, 51.2725426 ] } }
+]
+}

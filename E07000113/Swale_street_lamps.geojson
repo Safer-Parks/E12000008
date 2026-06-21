@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Swale_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724441131, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.909587, 51.4009481 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724441138, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9132859, 51.3988185 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724441139, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9138043, 51.3988101 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724441142, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9149107, 51.3986114 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724441148, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9179075, 51.3981377 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724591378, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9205425, 51.3970813 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12724591380, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.9194776, 51.3970696 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13667396414, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.7186096, 51.3392301 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13667397936, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.717482, 51.3396716 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13667419946, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.7193945, 51.3396844 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13667421923, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.7179863, 51.3392688 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13667430964, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.7172549, 51.3401649 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13667430985, "authority": "Swale", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.7225825, 51.3423124 ] } }
+]
+}

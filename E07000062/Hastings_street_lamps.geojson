@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Hastings_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470078, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5568639, 50.8508049 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470079, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5569587, 50.850812 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470080, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5570518, 50.8508222 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470081, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5571376, 50.8508294 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470082, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5572234, 50.8508365 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470083, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5573174, 50.850845 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9394470084, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5574008, 50.8508549 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110838738, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.562683, 50.8599447 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110838770, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5628884, 50.8597839 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876810, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5627766, 50.8600411 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876811, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5629878, 50.8599245 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876812, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5631681, 50.85979 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876813, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.563306, 50.8596896 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876814, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5631605, 50.8595671 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876815, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5632952, 50.8595305 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876816, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5632563, 50.8593702 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876817, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.563207, 50.8592326 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876818, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5630231, 50.8593896 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876819, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5628405, 50.8594349 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876820, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5626583, 50.8593577 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876821, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5627911, 50.8592634 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13110876822, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5629231, 50.8591648 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13593088951, "authority": "Hastings", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.5508827, 50.8506885 ] } }
+]
+}

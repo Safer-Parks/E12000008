@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "Wealden_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 10083560818, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.2895065, 50.8171594 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074306, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1329578, 51.0468531 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074307, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1333795, 51.0467949 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074309, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1341507, 51.0469648 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074310, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1344028, 51.0473244 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074311, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1346469, 51.0476486 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074318, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.133979, 51.0479639 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074319, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1338328, 51.0479951 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074320, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.132367, 51.0479673 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074321, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1326258, 51.0482843 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074322, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1328699, 51.0485895 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074323, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1333071, 51.0487117 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074324, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1331972, 51.0487218 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074325, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1327103, 51.0489073 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074326, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1327814, 51.0489689 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074327, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1323576, 51.049092 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13482074328, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1319915, 51.0493019 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13483057315, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1329903, 51.0468246 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13483091222, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1318936, 51.0473864 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13483091223, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.131562, 51.0472831 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13504529351, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1383027, 51.0451369 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13504529352, "authority": "Wealden", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ 0.1387621, 51.0450508 ] } }
+]
+}

@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Winchester_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3921054187, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2384323, 50.8685967 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3921054188, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2387982, 50.8686663 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3921054192, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2379412, 50.8687212 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3921054193, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2382903, 50.8689071 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 3921054194, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2387579, 50.8690075 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9098972473, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3764797, 51.0805693 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 9130391714, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3911132, 51.0849549 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12068679945, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3260223, 51.0637672 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12068679946, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3260636, 51.0639411 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12068679949, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3258361, 51.0636579 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12068679955, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.3259635, 51.0640797 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12696381451, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2900538, 51.0861611 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277562, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2604059, 51.1832155 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277563, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2604029, 51.1830907 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277564, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2603977, 51.1829638 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277565, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2603971, 51.1828397 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277566, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2604012, 51.1825887 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277567, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2604018, 51.1824606 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277568, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2604012, 51.182734 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277569, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.260393, 51.1823143 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12956277570, "authority": "Winchester", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -1.2603907, 51.1821522 ] } }
+]
+}
