@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "Horsham_street_lamps",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12867931982, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3352448, 51.0612958 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876934497, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3469101, 51.0691943 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955732, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3465065, 51.0690956 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955733, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3462202, 51.069055 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955741, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3476931, 51.0696949 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955743, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3478028, 51.070121 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955747, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3474759, 51.0703418 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955749, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3457845, 51.0710745 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955750, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3454611, 51.0710431 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955770, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3453076, 51.0703587 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12876955771, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3458737, 51.069277 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13629577827, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.3465598, 51.01611 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 13824768980, "authority": "Horsham", "source": "osm", "year": null }, "geometry": { "type": "Point", "coordinates": [ -0.2740884, 50.9323588 ] } }
+]
+}
