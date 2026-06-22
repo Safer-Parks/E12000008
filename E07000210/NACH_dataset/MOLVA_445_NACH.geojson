@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_445_NACH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"id":35961,"nach":0.45301212747793512},"geometry":{"type":"LineString","coordinates":[[-0.4020014,51.134392],[-0.4020215,51.1343704],[-0.4020005,51.1343516]]}},
+{"type":"Feature","properties":{"id":44491,"nach":0.46358238288912346},"geometry":{"type":"LineString","coordinates":[[-0.4019633,51.1337257],[-0.4019376,51.1338141],[-0.4019191,51.133897599999983],[-0.4019376,51.1339997],[-0.4019728,51.1340821],[-0.4019949,51.1341946],[-0.4020005,51.1342677],[-0.4020005,51.1343516]]}},
+{"type":"Feature","properties":{"id":44494,"nach":0.4401225939121185},"geometry":{"type":"LineString","coordinates":[[-0.4020046,51.1344578],[-0.4020014,51.134392]]}}
+]
+}

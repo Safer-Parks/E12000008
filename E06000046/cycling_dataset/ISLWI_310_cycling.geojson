@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_310_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Spencer Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.175171,50.7288722],[-1.1752348,50.7288388],[-1.1753802,50.7287875]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1857034,50.7316267],[-1.1856162,50.7316988],[-1.1856113,50.7317447],[-1.1855979,50.7317592]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ladies Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.182956,50.7315762],[-1.182935,50.7315712],[-1.1828687,50.7315517],[-1.1827148,50.7314999],[-1.1817366,50.7311709],[-1.1801477,50.7305829],[-1.1799942,50.7305228],[-1.1780687,50.7298388],[-1.177636,50.7296846],[-1.1773976,50.7295996],[-1.1771141,50.7294889],[-1.176945,50.7294229],[-1.1762795,50.7291302]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ladies Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1830408,50.7315827],[-1.182956,50.7315762]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ladies Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1843575,50.7316798],[-1.183151,50.7315861],[-1.1830408,50.7315827]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ladies Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1851886,50.7317327],[-1.1851123,50.7317273],[-1.1846179,50.7317],[-1.1843575,50.7316798]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ladies Walk","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1762795,50.7291302],[-1.1760579,50.7290328],[-1.1756973,50.7288534],[-1.175685,50.7288318],[-1.175586,50.7287769]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Spencer Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1753802,50.7287875],[-1.175449,50.7287545]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1773474,50.7280378],[-1.177137,50.72842],[-1.1770073,50.7286384]]]}}
+]
+}

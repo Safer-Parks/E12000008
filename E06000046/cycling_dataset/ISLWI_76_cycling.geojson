@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_76_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1840115,50.5983431],[-1.1841067,50.5982078]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1964444,50.5997134],[-1.1978478,50.5994227],[-1.1981398,50.5991142],[-1.1984616,50.5986273]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1964444,50.5997134],[-1.1970531,50.5994326],[-1.1972647,50.5992868],[-1.1975356,50.5990984],[-1.197548,50.5990818],[-1.1974678,50.5988568]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1990134,50.5938725],[-1.1990393,50.5939038],[-1.1992333,50.594117],[-1.199292,50.5941985],[-1.1993015,50.594279],[-1.1992947,50.5943184]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2043412,50.5978601],[-1.2038777,50.59792],[-1.203131,50.5981107],[-1.2023928,50.5982905],[-1.201791,50.598512],[-1.2009418,50.5986539],[-1.2000925,50.5986828]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1911593,50.5969188],[-1.1912412,50.5968949],[-1.1913054,50.5968878],[-1.1914251,50.5969594],[-1.1914755,50.5969695]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1929996,50.5965128],[-1.1929528,50.5965476],[-1.1927695,50.5966104],[-1.1927285,50.5966458],[-1.1926601,50.596715],[-1.1920038,50.5969103],[-1.1915846,50.5968774],[-1.1915362,50.5969196],[-1.1914755,50.5969695],[-1.1914818,50.5970122],[-1.1915394,50.5970491],[-1.1916148,50.5970887],[-1.1916631,50.5971392],[-1.1917698,50.5971524],[-1.1919548,50.597169],[-1.1920319,50.5971614],[-1.1923077,50.5970889],[-1.1925096,50.5970387],[-1.1926727,50.5969881],[-1.1928363,50.596943],[-1.1929881,50.5969048],[-1.1930537,50.5969022]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1878974,50.5971972],[-1.1879698,50.5973283]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1876226,50.5981253],[-1.1871978,50.5981489],[-1.1870368,50.5981404],[-1.186951,50.5980536]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Blendworth Terrace","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1982648,50.5958546],[-1.1980532,50.595915],[-1.1980038,50.5959532],[-1.1979068,50.5959592],[-1.1976592,50.5960119]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2032202,50.5947171],[-1.2031605,50.5945067]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2000925,50.5986828],[-1.1999918,50.5988243],[-1.198151,50.5993207],[-1.1978478,50.5994227],[-1.1965473,50.5999979],[-1.1964875,50.6000244]]]}}
+]
+}

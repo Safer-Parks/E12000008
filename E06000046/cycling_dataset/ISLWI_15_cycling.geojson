@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_15_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2422055,50.7192564],[-1.243073,50.7196141],[-1.2437463,50.7198753],[-1.2445074,50.7200892],[-1.2451768,50.7202455],[-1.2457212,50.7203435],[-1.246239,50.7203923],[-1.2467492,50.7204297],[-1.2474774,50.7204532],[-1.248064,50.720456],[-1.2496835,50.7204714],[-1.2502092,50.7204942],[-1.2506918,50.7205151],[-1.2507792,50.7204818],[-1.2508664,50.7204826]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Packsfield Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2379302,50.7217607],[-1.2380322,50.7212877],[-1.2380635,50.7211294],[-1.2381975,50.7206426],[-1.2382669,50.7203906],[-1.2380884,50.7201253],[-1.2383844,50.7188345],[-1.2382493,50.7180159],[-1.2383057,50.7177592]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.239412,50.7165403],[-1.2394084,50.7165],[-1.2396593,50.7162127],[-1.2398871,50.7159635],[-1.2402508,50.7155402],[-1.2412288,50.7145131]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2412288,50.7145131],[-1.2413603,50.7145286],[-1.2418912,50.7137179]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2435296,50.7137228],[-1.2434065,50.7136019],[-1.2429049,50.7133726],[-1.2428003,50.7132707],[-1.2426984,50.7131009],[-1.2424838,50.7129599],[-1.242288,50.712892],[-1.2419607,50.7128648],[-1.2415516,50.7128653],[-1.2414846,50.712816],[-1.2414846,50.7127175]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.24716,50.717255],[-1.2469906,50.7172626],[-1.2466142,50.7173871],[-1.2464825,50.7174846]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2418435,50.7191539],[-1.2420045,50.7190282],[-1.2419564,50.7190064],[-1.2418032,50.7189333],[-1.2414182,50.7187515]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2461308,50.7146719],[-1.2461407,50.7147135],[-1.2461813,50.7148643]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.246224,50.7099117],[-1.2461543,50.709662],[-1.2461308,50.7094754],[-1.2461241,50.7094225]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2381975,50.7206426],[-1.2382778,50.7206545],[-1.238392,50.7206688]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2437648,50.7136934],[-1.24375,50.7136695],[-1.2436773,50.7135514]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2413603,50.7145286],[-1.2413512,50.7145442],[-1.2413035,50.7146078]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2453214,50.716758],[-1.2454547,50.7166602]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Littletown lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2447542,50.7150953],[-1.2447159,50.7148958],[-1.2446602,50.7147263],[-1.2445203,50.7144788],[-1.244253,50.7141969],[-1.2439168,50.7137977],[-1.2438825,50.7137603],[-1.2438338,50.7137412],[-1.243546,50.7137784],[-1.2418912,50.7137179]]]}}
+]
+}
