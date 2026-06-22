@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_132_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9593329,51.3800922],[-0.9592874,51.3801099],[-0.9592498,51.380097],[-0.9592406,51.380107],[-0.9591992,51.3801521]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9673668,51.3819678],[-0.9669513,51.3823643],[-0.9666663,51.3826067],[-0.9666293,51.3826427],[-0.966548,51.382722],[-0.9664585,51.3827484]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9673668,51.3819678],[-0.9673505,51.381873]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_231_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Buchan Country Park", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 122, "park_offical_id": "HORSH_231" }, "geometry": { "type": "Point", "coordinates": [ -0.222446322, 51.097177126 ] } },
+{ "type": "Feature", "properties": { "name": "Bewbush Community Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 122, "park_offical_id": "HORSH_231" }, "geometry": { "type": "Point", "coordinates": [ -0.222902298, 51.103270996 ] } }
+]
+}

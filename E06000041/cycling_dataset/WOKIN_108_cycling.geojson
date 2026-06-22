@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_108_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9270339,51.370603],[-0.9266074,51.3696666],[-0.9261848,51.369248],[-0.9259516,51.3691069],[-0.9256601,51.3689886],[-0.9246835,51.3686657],[-0.9243476,51.3684818],[-0.9240276,51.3683563],[-0.9227013,51.3681925],[-0.9216803,51.3679384],[-0.9210555,51.3675164],[-0.9208356,51.367419],[-0.9198217,51.3666231],[-0.9195791,51.3665572],[-0.9194233,51.3665495]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9276486,51.3698721],[-0.9283381,51.3696206],[-0.9286214,51.3692662],[-0.9287093,51.3678985],[-0.9286917,51.3672552]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Raggett's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9292876,51.3762169],[-0.9304386,51.3755985],[-0.9311682,51.3752637],[-0.9314128,51.3752503],[-0.932314,51.375344],[-0.9332153,51.3754512],[-0.933344,51.3742457],[-0.9332582,51.3738171],[-0.9322411,51.372491],[-0.932593,51.3720623],[-0.9331423,51.3715533],[-0.9332648,51.3705817],[-0.9328271,51.3701584]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9349094,51.3794042],[-0.9332369,51.3794287],[-0.9323357,51.3793885],[-0.931649,51.3792144],[-0.930898,51.3788394],[-0.9307478,51.3785715],[-0.9306834,51.378317],[-0.9308337,51.3778483],[-0.9305363,51.3773441],[-0.9304156,51.3771062]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.917757,51.3832803],[-0.9185553,51.3830437],[-0.9186856,51.3829807],[-0.9187507,51.382902],[-0.9189324,51.3823848],[-0.9189646,51.3817419],[-0.9188895,51.3814473],[-0.9186427,51.3810321],[-0.9184496,51.3807844],[-0.9180204,51.3801147],[-0.9178765,51.3799072],[-0.9174737,51.379511],[-0.9174726,51.3793247]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9190176,51.3792711],[-0.9184211,51.3797533],[-0.9178765,51.3799072]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.920791,51.3744285],[-0.9222893,51.37419],[-0.9230026,51.3741937]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Kiln Hill","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9269924,51.3806636],[-0.9258848,51.3803231]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9175253,51.3793247],[-0.9175353,51.3792827],[-0.9175402,51.3792629]]]}}
+]
+}

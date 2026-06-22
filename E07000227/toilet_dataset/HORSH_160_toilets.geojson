@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_160_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ifield West Community Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "HORSH_160" }, "geometry": { "type": "Point", "coordinates": [ -0.229994059, 51.111177681 ] } },
+{ "type": "Feature", "properties": { "name": "SubwayShell Garage toilet", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "HORSH_160" }, "geometry": { "type": "Point", "coordinates": [ -0.215016603, 51.11581981 ] } },
+{ "type": "Feature", "properties": { "name": "Ifield Parade Automatic Toilet", "payment_info": "10p", "accessible": "True", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 69, "park_offical_id": "HORSH_160" }, "geometry": { "type": "Point", "coordinates": [ -0.2125928, 51.1222467 ] } }
+]
+}

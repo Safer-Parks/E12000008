@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_52_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Capstone Farm Country Park", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 114, "park_offical_id": "MEDWA_52" }, "geometry": { "type": "Point", "coordinates": [ 0.5551873, 51.3588976 ] } },
+{ "type": "Feature", "properties": { "name": "Chatham Ski and Snowboard Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 114, "park_offical_id": "MEDWA_52" }, "geometry": { "type": "Point", "coordinates": [ 0.559680462, 51.35564629 ] } }
+]
+}

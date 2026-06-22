@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_88_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riverside Country Park", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 147, "park_offical_id": "MEDWA_88" }, "geometry": { "type": "Point", "coordinates": [ 0.5966511, 51.3850038 ] } },
+{ "type": "Feature", "properties": { "name": "Riverside Country Park", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 147, "park_offical_id": "MEDWA_88" }, "geometry": { "type": "Point", "coordinates": [ 0.596523285, 51.385486381 ] } }
+]
+}

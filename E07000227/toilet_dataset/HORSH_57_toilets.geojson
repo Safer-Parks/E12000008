@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_57_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Broadbridge Heath Leisure Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 263, "park_offical_id": "HORSH_57" }, "geometry": { "type": "Point", "coordinates": [ -0.358375311, 51.06435108 ] } },
+{ "type": "Feature", "properties": { "name": "Homebase  Horsham", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 263, "park_offical_id": "HORSH_57" }, "geometry": { "type": "Point", "coordinates": [ -0.355854034, 51.067439045 ] } },
+{ "type": "Feature", "properties": { "name": "Newbridge Nursery Cafe", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 263, "park_offical_id": "HORSH_57" }, "geometry": { "type": "Point", "coordinates": [ -0.371941924, 51.066034991 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra  Horsham", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 263, "park_offical_id": "HORSH_57" }, "geometry": { "type": "Point", "coordinates": [ -0.356626511, 51.065975996 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 263, "park_offical_id": "HORSH_57" }, "geometry": { "type": "Point", "coordinates": [ -0.353611708, 51.069829043 ] } }
+]
+}

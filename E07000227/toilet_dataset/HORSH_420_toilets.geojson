@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_420_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "RSPB  Bird Sanctury  Pulborough Brooks", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 205, "park_offical_id": "HORSH_420" }, "geometry": { "type": "Point", "coordinates": [ -0.493719578, 50.937884855 ] } }
+]
+}

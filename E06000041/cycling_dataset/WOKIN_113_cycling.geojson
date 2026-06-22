@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_113_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Hatch Ride","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8115674,51.3844245],[-0.8065281,51.3830912]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Hatch Ride","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8000867,51.3814497],[-0.8023862,51.3820529],[-0.8053015,51.3828176],[-0.80614,51.3830258]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8068799,51.3782137],[-0.8060639,51.3769781]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.806234,51.3830115],[-0.80614,51.3830258]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Hatch Ride","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8065281,51.3830912],[-0.8063387,51.3831254]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.80614,51.3830258],[-0.8061187,51.3830546],[-0.8061305,51.3831094]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8079454,51.37954],[-0.8071683,51.3793241],[-0.8070639,51.3792116],[-0.8070845,51.3787598],[-0.8067326,51.3782243]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.810709,51.3815469],[-0.8103309,51.3813373],[-0.8098513,51.381028],[-0.8094569,51.3808988],[-0.8090996,51.3806495],[-0.8087371,51.3804735],[-0.808445,51.3803265],[-0.8082495,51.3801185],[-0.8081439,51.3800422]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"horsepath east","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8115697,51.3822784],[-0.8102594,51.3824425],[-0.8089838,51.3825964],[-0.8080533,51.3827194],[-0.8079116,51.3827041],[-0.8078298,51.3826881],[-0.8076682,51.3826675],[-0.8074525,51.3826733],[-0.8073324,51.3826733],[-0.8072399,51.3826137],[-0.8072184,51.3825714],[-0.8070366,51.3825348],[-0.8069811,51.3825521],[-0.80695,51.3825621]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8070366,51.3825348],[-0.806888,51.3824733]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8110229,51.3814858],[-0.8110178,51.381623]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8113357,51.3813915],[-0.8110229,51.3814858],[-0.810891,51.381511]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7971972,51.3820009],[-0.7974626,51.3818854],[-0.7980232,51.3818165],[-0.7981045,51.3817603],[-0.7980668,51.3816407],[-0.7979622,51.3815192],[-0.7980703,51.3813843]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7981045,51.3817603],[-0.7981772,51.3818582],[-0.7982643,51.382529],[-0.7980221,51.3827794]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"New Wokingham Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8040117,51.3741019],[-0.8039681,51.3739107],[-0.8038927,51.3736224],[-0.8038747,51.3735571]]]}}
+]
+}

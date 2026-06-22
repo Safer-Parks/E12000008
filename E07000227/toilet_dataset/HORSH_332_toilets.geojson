@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_332_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Horsham Hospital  Main Lobby", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 147, "park_offical_id": "HORSH_332" }, "geometry": { "type": "Point", "coordinates": [ -0.324150324, 51.069891403 ] } },
+{ "type": "Feature", "properties": { "name": "Horsham Hospital  Minor Injuries Unit", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 147, "park_offical_id": "HORSH_332" }, "geometry": { "type": "Point", "coordinates": [ -0.32450974, 51.070511636 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1669_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Fred  Ginger Coffee", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 219, "park_offical_id": "BUCKI_1669" }, "geometry": { "type": "Point", "coordinates": [ -0.562040806, 51.759380716 ] } }
+]
+}

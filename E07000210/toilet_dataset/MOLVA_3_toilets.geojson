@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_3_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Esso Filling Station  Great Bookham", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 426, "park_offical_id": "MOLVA_3" }, "geometry": { "type": "Point", "coordinates": [ -0.366024971, 51.277528244 ] } },
+{ "type": "Feature", "properties": { "name": "Bookham Lower Shott", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 426, "park_offical_id": "MOLVA_3" }, "geometry": { "type": "Point", "coordinates": [ -0.3731597, 51.2773253 ] } }
+]
+}

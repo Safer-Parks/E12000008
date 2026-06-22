@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_81_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Street High Halstow Kent", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 143, "park_offical_id": "MEDWA_81" }, "geometry": { "type": "Point", "coordinates": [ 0.562280864, 51.448964857 ] } }
+]
+}

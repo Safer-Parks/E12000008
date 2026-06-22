@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_133_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7426487,52.1212895],[-0.7434212,52.1216957],[-0.7443976,52.1221964],[-0.7447141,52.1223775],[-0.7453149,52.1227003],[-0.7455992,52.1228353],[-0.7457923,52.1228748],[-0.7458674,52.1229209]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "High Street Car Park", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 227, "park_offical_id": "HORSH_50" }, "geometry": { "type": "Point", "coordinates": [ -0.330040455, 50.889040381 ] } },
+{ "type": "Feature", "properties": { "name": "The Steyning Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 227, "park_offical_id": "HORSH_50" }, "geometry": { "type": "Point", "coordinates": [ -0.325555801, 50.888119922 ] } }
+]
+}
