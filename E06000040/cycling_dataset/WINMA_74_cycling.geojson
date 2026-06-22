@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_74_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Primrose Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7162405,51.4822923],[-0.7157696,51.4829911],[-0.7156838,51.4831321],[-0.7155505,51.483235],[-0.7152654,51.4834091],[-0.7149462,51.4836243],[-0.7143883,51.4841792],[-0.7137616,51.4847799],[-0.7133648,51.4852058],[-0.7132734,51.4853236],[-0.713149,51.4857321],[-0.7131823,51.4860526],[-0.7134827,51.4873026],[-0.7135492,51.4874296],[-0.7138532,51.4876309],[-0.7141104,51.4878508],[-0.7144108,51.4883318],[-0.7144381,51.489082],[-0.7143898,51.4896704],[-0.714422,51.4898374],[-0.71454,51.4899576],[-0.7147299,51.4900914]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7104491,51.4932526],[-0.7116026,51.4936008],[-0.7121851,51.4937786]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Gays Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.711372,51.491206],[-0.7111788,51.4911125],[-0.7107711,51.4906683],[-0.7106156,51.4904762]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7120103,51.4912895],[-0.7119781,51.4914031],[-0.7116563,51.4915868]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7116402,51.491844],[-0.7124985,51.492365],[-0.7127805,51.4924609]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Manor Way","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7132495,51.4922347],[-0.7138828,51.4923298],[-0.7139986,51.4924001],[-0.7144603,51.4921025]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7185683,51.4915681],[-0.7181422,51.4912964],[-0.7180251,51.4912756],[-0.7175498,51.4915198]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Gays Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7056304,51.4827494],[-0.7057022,51.4828316],[-0.707027,51.4845305],[-0.7070895,51.4846102],[-0.7071451,51.4847041],[-0.707942,51.4860485]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Gays Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7106156,51.4904762],[-0.71046,51.4902841],[-0.7102454,51.4900804],[-0.7096339,51.4889581],[-0.7092991,51.4882472],[-0.707942,51.4860485],[-0.7080455,51.4860167],[-0.7081357,51.4860112],[-0.7082192,51.4860236],[-0.7083314,51.4860564],[-0.708415,51.4860687],[-0.7085799,51.4860865]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7138441,51.4951389],[-0.7136328,51.4951288],[-0.7134703,51.4952266],[-0.7130694,51.4954526],[-0.7127488,51.4956458],[-0.7125664,51.4960399],[-0.712325,51.4963498]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7032725,51.4892648],[-0.7029024,51.4891462],[-0.7025322,51.4890444],[-0.7016364,51.4889291],[-0.7013494,51.4888707],[-0.7007003,51.4886669],[-0.7002108,51.4885066],[-0.7000217,51.488444],[-0.6999546,51.4884364],[-0.6999134,51.4884531]]]}}
+]
+}

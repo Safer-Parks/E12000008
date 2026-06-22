@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESBE_4_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2352015,51.3967048],[-1.2351723,51.3966863],[-1.2351448,51.3966528]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2403175,51.3967002],[-1.239819,51.3966135],[-1.2392987,51.3965783],[-1.239164,51.396552]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2271157,51.3990129],[-1.2271285,51.3989788],[-1.2271672,51.3989239]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2280308,51.3990332],[-1.2279284,51.3990046]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2279284,51.3990046],[-1.2278832,51.3990567],[-1.2278376,51.3990751],[-1.2277545,51.3990701],[-1.2271672,51.3989239]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2351448,51.3966528],[-1.2334165,51.3967405],[-1.23305,51.3967503],[-1.2329166,51.3967081]]]}}
+]
+}

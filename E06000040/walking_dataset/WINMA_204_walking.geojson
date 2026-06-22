@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_204_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5904982,51.4568074],[-0.590523,51.4568471],[-0.5905456,51.4568907],[-0.5905558,51.4569295]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5908883,51.4567752],[-0.5908884,51.4567635],[-0.590842,51.4567648],[-0.5907863,51.4567271]]]}}
+]
+}

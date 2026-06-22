@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_4_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6466053,51.4819551],[-0.6467736,51.4815032],[-0.6468455,51.4811215],[-0.647032,51.4806112],[-0.647412,51.4799558],[-0.6476448,51.4795104],[-0.6477765,51.4794642]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6481287,51.4800658],[-0.6476019,51.4799914],[-0.647412,51.4799558]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6533143,51.4708139],[-0.6531769,51.4703802],[-0.6529991,51.4698563],[-0.6529092,51.46975]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6532708,51.4708206],[-0.6532311,51.4709701],[-0.6541558,51.4709403],[-0.6542418,51.470945],[-0.6542687,51.4711054],[-0.6543089,51.4713377],[-0.6543569,51.4716113],[-0.6543652,51.4716584],[-0.6544028,51.4718857],[-0.654443,51.4722432],[-0.6545261,51.472716],[-0.6545798,51.4730652],[-0.6546522,51.4733693],[-0.654274,51.4733826],[-0.6534399,51.4734261],[-0.6533647,51.4734528],[-0.6533755,51.4735447],[-0.6533567,51.4738939],[-0.6531153,51.4738688],[-0.6528976,51.4738617]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.634985,51.4727121],[-0.6348966,51.472804],[-0.6347064,51.4730277],[-0.63469,51.4731082],[-0.6347274,51.4731731],[-0.6348009,51.4732281]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6470398,51.4745695],[-0.6464931,51.4744805]]]}}
+]
+}

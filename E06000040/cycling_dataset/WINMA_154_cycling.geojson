@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_154_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6975169,51.5408987],[-0.6969319,51.5409676]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Green Way East","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7143332,51.5471099],[-0.713485,51.545764],[-0.7130171,51.5450713],[-0.7129902,51.5450379]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7069451,51.5506355],[-0.7080329,51.5489581],[-0.7088296,51.5483293],[-0.7126741,51.545295],[-0.7130171,51.5450713]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7071449,51.5393256],[-0.7073904,51.5392646],[-0.7079998,51.5393256],[-0.7082481,51.5390724],[-0.708381,51.5389789]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7051727,51.5491055],[-0.705302,51.5490668],[-0.7054576,51.5490084],[-0.7056963,51.5489517],[-0.7060664,51.5488917],[-0.7062998,51.5488583],[-0.7069945,51.5487199],[-0.7076892,51.5485564],[-0.7083731,51.548443],[-0.7088296,51.5483293],[-0.709341,51.5482347],[-0.7096866,51.5481462],[-0.7104956,51.5480059],[-0.7108879,51.5479035],[-0.7115667,51.5476699],[-0.7118251,51.5475703],[-0.7121502,51.5474371],[-0.7125405,51.5473321],[-0.7127763,51.5472715],[-0.7130019,51.5472108],[-0.7134207,51.5471261],[-0.7136524,51.5471223],[-0.7140569,51.5470882],[-0.7142744,51.5470882],[-0.7143332,51.5471099]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7068862,51.5509731],[-0.7069923,51.5509554],[-0.7070208,51.5509213],[-0.7069984,51.5508315],[-0.7069802,51.5507089],[-0.7069451,51.5506355]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Green Way East","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7145571,51.5511384],[-0.7149832,51.550402],[-0.7159367,51.549318],[-0.7165182,51.5487365],[-0.7170144,51.5482581],[-0.7143332,51.5471099]]]}}
+]
+}

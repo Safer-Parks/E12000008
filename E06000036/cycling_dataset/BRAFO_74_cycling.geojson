@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BRAFO_74_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6808229,51.4390877],[-0.681013,51.4391157],[-0.6811846,51.4391492],[-0.6813187,51.4391592],[-0.6814582,51.4391592],[-0.6816406,51.4391324],[-0.6818284,51.4390689],[-0.6819625,51.4390254],[-0.6820805,51.4389987],[-0.6822092,51.4389853],[-0.6823219,51.4389719]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6660228,51.4415786],[-0.6657084,51.4414156],[-0.665517,51.4413168]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6658655,51.4412752],[-0.6656803,51.4411724],[-0.6651642,51.4408858],[-0.6649529,51.4410099],[-0.6649053,51.440986]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6656803,51.4411724],[-0.6655133,51.4412955]]]}}
+]
+}

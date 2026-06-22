@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SLOUG_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5283323,51.5088516],[-0.5284213,51.5088625],[-0.5285477,51.508875]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5285221,51.5083293],[-0.5283185,51.5082899],[-0.5281315,51.5082408]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5296936,51.5013325],[-0.5297288,51.5014507],[-0.5297411,51.5014921],[-0.5289005,51.5016052],[-0.5285811,51.502518],[-0.5288691,51.5027531]]]}}
+]
+}
