@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "NEWFO_170_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6110183,50.7580928],[-1.6097371,50.7575803],[-1.6093357,50.7579167],[-1.6063223,50.7567898],[-1.6040987,50.7571882]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Agars Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6120342,50.7685587],[-1.6116246,50.7681949],[-1.6111578,50.7679207],[-1.6101388,50.7677076],[-1.6099243,50.7672326],[-1.6100316,50.7667305],[-1.6103963,50.7663912],[-1.6106753,50.765699],[-1.6104308,50.765042]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6102993,50.7639732],[-1.6106427,50.763994],[-1.6108959,50.7640107]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6183884,50.758814],[-1.6188574,50.7585503],[-1.6190222,50.7584456]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.6189056,50.7583092],[-1.618868,50.7582525],[-1.6186915,50.758074],[-1.618678,50.7579802]]]}}
+]
+}

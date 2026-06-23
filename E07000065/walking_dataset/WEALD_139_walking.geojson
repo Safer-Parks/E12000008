@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "WEALD_139_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":"School Lane","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.160936,51.0512502],[0.1613877,51.051134],[0.161564,51.0510886],[0.1620883,51.0509573],[0.1628837,51.0507581],[0.1630331,51.0507245]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1636508,51.046337],[0.1638105,51.0463071],[0.1638698,51.0462987],[0.1644368,51.0462188],[0.1647197,51.0461789],[0.1648324,51.0461536],[0.1649066,51.0461427],[0.1649303,51.0461392],[0.1657041,51.0460254],[0.165511,51.0456882],[0.1655393,51.0456339],[0.1655418,51.0456055]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1514145,51.0450909],[0.1506503,51.044706],[0.1498658,51.0444007],[0.1495856,51.0440836],[0.1481438,51.0436413]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1560214,51.041538],[0.1546051,51.0420777],[0.1528671,51.0421182],[0.1510432,51.0418078]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1560214,51.041538],[0.1562053,51.0406872],[0.1563003,51.0399864],[0.1563082,51.0388813],[0.1562788,51.0375308],[0.156062,51.0368469]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1606823,51.0408668],[0.1618793,51.041511],[0.1620532,51.0415497],[0.1626505,51.0416857]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1577928,51.0366683],[0.1578002,51.0365692],[0.1577941,51.0364335],[0.1577386,51.0362979],[0.1576215,51.0362127],[0.1574244,51.0361468],[0.1571779,51.0361003],[0.1568821,51.0360887],[0.1566726,51.0360848],[0.1565062,51.0360267],[0.1563275,51.0359337],[0.1562597,51.0358601],[0.1561858,51.0357438],[0.1561303,51.0356508],[0.1560687,51.0355888],[0.1560194,51.0355888],[0.1559578,51.0355229],[0.1559639,51.0352982]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1576263,51.0510184],[0.1576622,51.050943],[0.1575377,51.0505864],[0.1569682,51.0499472]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1581277,51.041844],[0.1578924,51.0418143],[0.1560214,51.041538]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1581921,51.0450264],[0.1583177,51.0446954]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1578074,51.0446281],[0.1582909,51.0446928],[0.1583177,51.0446954],[0.1585643,51.0447194],[0.1589325,51.0447589]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.164468,51.0446942],[0.1646476,51.0445559]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.164284,51.044593],[0.164468,51.0446942],[0.1646825,51.0448121]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1536744,51.0474362],[0.1550692,51.047598],[0.1556427,51.0477006]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"Aldervale Cottages","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1674195,51.0425432],[0.168492,51.0424478],[0.1690905,51.0423746],[0.1694382,51.0422782],[0.1694867,51.0423299]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1663975,51.0404225],[0.1665974,51.0404478],[0.1668173,51.0405093],[0.1669648,51.0406105]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HAVAN_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9625153,50.8305484],[-0.9625179,50.8303862],[-0.9624877,50.8302179],[-0.9624001,50.8301623]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.962815,50.8272657],[-0.9626813,50.8272856]]]}}
+]
+}

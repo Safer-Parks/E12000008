@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WEALD_30_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2200561,51.0050405],[0.2211686,51.0040194],[0.2215819,51.0037124],[0.2219002,51.0035277]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1950298,50.9975327],[0.1952728,50.9976516],[0.1969019,50.9987774],[0.1969596,50.9988538],[0.1969712,50.9991527],[0.1971259,50.9994204],[0.1978178,51.0000559],[0.1979965,51.0001559],[0.1984439,51.0002558],[0.1988327,51.0004267],[0.1993094,51.000708],[0.2000132,51.0009241],[0.200588,51.0011652],[0.2006568,51.0011907]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1900077,50.9969675],[0.189786,50.9974907],[0.1881452,50.9994151],[0.1850622,51.000014],[0.1852481,51.0011749]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.219439,51.0072078],[0.2192792,51.0072451],[0.2187876,51.0073891],[0.2183215,51.0075787],[0.218238,51.0076126]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1943261,51.0028949],[0.1938548,51.0032035],[0.1934497,51.0033714]]]}}
+]
+}

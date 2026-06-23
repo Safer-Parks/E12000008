@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1671_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.681548,51.6027841],[-0.6818288,51.6026143],[-0.682088,51.6025315],[-0.6825622,51.6024079],[-0.6832059,51.6021813],[-0.6841516,51.6019152]]]}}
+]
+}

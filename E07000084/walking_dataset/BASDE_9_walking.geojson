@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BASDE_9_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1134968,51.3097005],[-1.1132538,51.3090996],[-1.1134893,51.3088152],[-1.1138407,51.3085677],[-1.1139694,51.3084557],[-1.1139189,51.3082904]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_55_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5783538,51.4447744],[0.5785153,51.4447583],[0.5789609,51.4446714],[0.5794607,51.4445529],[0.5800966,51.4443492],[0.5800842,51.4441825],[0.5801537,51.4440694],[0.5801617,51.4440056],[0.5800958,51.4439426],[0.5801101,51.4438685],[0.5801214,51.443831],[0.5800622,51.443819],[0.5800247,51.4437905],[0.5799891,51.4437208],[0.5799349,51.4436788],[0.5798435,51.4436605]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5688745,51.4520634],[0.5703117,51.4524031],[0.5711063,51.4525025],[0.5729465,51.4526561],[0.5756319,51.4525478]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5725467,51.4458063],[0.5725088,51.4457363]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5742119,51.4408882],[0.5739419,51.4409839],[0.5736244,51.4407452],[0.5733495,51.4406411]]]}}
+]
+}

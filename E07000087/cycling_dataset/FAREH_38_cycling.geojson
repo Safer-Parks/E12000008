@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FAREH_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Marsh Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2308332,50.8223825],[-1.2309863,50.8224304],[-1.2315197,50.8226082],[-1.2316508,50.8226406],[-1.2323116,50.8228822],[-1.2325849,50.8229861],[-1.2333838,50.8232531],[-1.2338608,50.8234051],[-1.2343695,50.8235403],[-1.2345056,50.8235715]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2460636,50.8187994],[-1.2461415,50.8189414],[-1.2461315,50.8189887]]]}}
+]
+}

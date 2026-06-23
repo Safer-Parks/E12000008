@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1651_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4964399,51.7656533],[-0.4959351,51.7654566],[-0.4955395,51.7652662],[-0.4949888,51.7649813],[-0.494635,51.7647983],[-0.4945677,51.7647665],[-0.4939732,51.7644858],[-0.4936319,51.7643375],[-0.4934683,51.7642679],[-0.4924594,51.7638684],[-0.4922173,51.7637495],[-0.4921082,51.763683],[-0.4920202,51.7636636]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Berkhamsted Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5024143,51.7645382],[-0.5025305,51.7646026],[-0.5029677,51.764561],[-0.5040188,51.7642204],[-0.5043107,51.7641258],[-0.5049812,51.7636677]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Berkhamsted Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5049812,51.7636677],[-0.5051619,51.7635573]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4919882,51.7635868],[-0.491917,51.7635796],[-0.4915731,51.7634],[-0.4914415,51.7633166],[-0.4913846,51.7632793],[-0.4911615,51.7631457],[-0.4908496,51.7629778],[-0.4900494,51.7627109],[-0.4895139,51.7623618],[-0.4892122,51.7622561],[-0.4891853,51.7622703],[-0.4891372,51.7622418]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4920202,51.7636636],[-0.4920071,51.7636296],[-0.4919882,51.7635868]]]}}
+]
+}

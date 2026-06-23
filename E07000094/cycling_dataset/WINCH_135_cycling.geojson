@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_135_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3145134,51.1022603],[-1.314279,51.1015616]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.314279,51.1015616],[-1.3141615,51.1012361],[-1.3138894,51.1004824],[-1.3134619,51.0996071],[-1.3130381,51.0990036],[-1.3118499,51.0975593],[-1.3114418,51.0971342]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3145134,51.1022603],[-1.3140421,51.1016337]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3145801,51.1018428],[-1.3141615,51.1012361]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3152439,51.1088671],[-1.3152372,51.1087771],[-1.314988,51.1054327],[-1.3150276,51.1042022],[-1.3148547,51.1033451],[-1.3146871,51.1026833],[-1.3145134,51.1022603]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3266394,51.10959],[-1.3253744,51.1094066],[-1.3241434,51.1092228],[-1.3231497,51.1090393],[-1.3224616,51.1089122],[-1.3220845,51.1089648],[-1.3204036,51.1086786],[-1.3195629,51.1085453],[-1.3188344,51.1084458],[-1.316374,51.1080938]]]}}
+]
+}

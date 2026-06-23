@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASHA_85_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9165698,51.0270705],[-0.9164228,51.0269528],[-0.916332,51.0268978],[-0.916214,51.026872],[-0.915227,51.0268544],[-0.9149098,51.0268896],[-0.9147247,51.0269161],[-0.9145661,51.026969],[-0.9144515,51.0270306],[-0.9143134,51.027242]]]}}
+]
+}

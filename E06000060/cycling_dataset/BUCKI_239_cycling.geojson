@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_239_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Watcombe Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0038867,51.6444079],[-1.0036858,51.6446143],[-1.0035795,51.6447194]]]}}
+]
+}

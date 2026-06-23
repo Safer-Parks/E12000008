@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BASDE_17_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0685978,51.3440565],[-1.0685509,51.3441576],[-1.0688297,51.3444995],[-1.0691222,51.3449159],[-1.0682317,51.3465845],[-1.0678025,51.347315],[-1.0679527,51.3477036],[-1.0681544,51.3477805]]]}}
+]
+}

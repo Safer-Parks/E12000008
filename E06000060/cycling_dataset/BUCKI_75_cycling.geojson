@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_75_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7624373,51.6312296],[-0.7625698,51.6313358],[-0.762348,51.6316006],[-0.7624666,51.6316005],[-0.7625484,51.6316671],[-0.7625402,51.631728],[-0.762661,51.6317586],[-0.7626438,51.6318424]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7603861,51.6276756],[-0.7603244,51.6277164],[-0.760189,51.6278255],[-0.7600831,51.6278846],[-0.760016,51.6279453],[-0.7599762,51.6279808]]]}}
+]
+}

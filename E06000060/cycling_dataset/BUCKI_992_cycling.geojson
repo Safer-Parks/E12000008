@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_992_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5722063,52.0119763],[-0.5719166,52.0117765],[-0.5716908,52.0117575],[-0.5713299,52.0117228]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5614613,52.0102764],[-0.5677535,52.0089355]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5782671,52.0208102],[-0.5766149,52.0203746],[-0.5757235,52.0201222],[-0.5751734,52.0199854],[-0.5747746,52.0199346],[-0.5710878,52.0196335],[-0.570634,52.0196406],[-0.5690693,52.0197535]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5681858,52.0128823],[-0.5680244,52.0127975]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5692975,52.0124596],[-0.5692402,52.0124711]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5697652,52.0108272],[-0.5694986,52.0117133]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5677535,52.0089355],[-0.571832,52.0073104]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5649218,52.0127515],[-0.5643278,52.0130839],[-0.5632199,52.0137332],[-0.5630228,52.0138395],[-0.5629963,52.0139146],[-0.5630309,52.0139609],[-0.5631285,52.0140472],[-0.5632504,52.0141861],[-0.5632931,52.0145401],[-0.5633063,52.0146856]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWFO_52_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5119587,50.8972947],[-1.5123508,50.8971702],[-1.5119443,50.8967369]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5138211,50.8969595],[-1.5137289,50.8969199],[-1.5132245,50.8963829]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5132316,50.8962197],[-1.5128761,50.8957567]]]}}
+]
+}

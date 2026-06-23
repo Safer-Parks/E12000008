@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "LEWES_25_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.03429,50.8311758],[0.0345753,50.8311295],[0.0346838,50.8311119],[0.0350806,50.8310269],[0.0357787,50.830849]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0328363,50.8318843],[0.0328119,50.8314753],[0.0327663,50.8313249],[0.0328245,50.8313121],[0.0328979,50.8312852],[0.0329963,50.8312127],[0.033053,50.8311326],[0.0330952,50.8310353],[0.0331044,50.8309172],[0.0331303,50.8308283],[0.0331726,50.8307393],[0.0332232,50.8306705],[0.0332929,50.8306012],[0.0334141,50.8305277],[0.033541,50.8304631]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Itford Bridge","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.033541,50.8304631],[0.0337885,50.8303754],[0.0340652,50.8303512],[0.0342886,50.8303671]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0327663,50.8313249],[0.0327392,50.8311513],[0.0326917,50.8307933],[0.0326195,50.8303932],[0.0324805,50.8299385],[0.0323802,50.8295317],[0.0323027,50.8291771],[0.0322675,50.8290926],[0.0316393,50.8285468],[0.0310603,50.8279532],[0.031018,50.8278998],[0.031018,50.8277653]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0340176,50.8313798],[0.0340519,50.8315508],[0.0340843,50.8317122],[0.03409,50.8317406],[0.0339375,50.831755],[0.0338218,50.8318232]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0340122,50.8320357],[0.0339371,50.8321845],[0.0339532,50.8325284]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0339371,50.8321845],[0.0336501,50.832281]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0332312,50.8323374],[0.0331481,50.8321925],[0.0330703,50.8321163],[0.0329751,50.8320358],[0.0329509,50.8319799],[0.0329322,50.8318817]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0253742,50.8301004],[0.0255665,50.8301193],[0.0256504,50.8301181],[0.0257215,50.8301402],[0.0257482,50.8301605],[0.0257469,50.8302122],[0.0256962,50.830297]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Egrets Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0255095,50.8302846],[0.0254043,50.8301694],[0.0253742,50.8301004],[0.0253678,50.8300543],[0.0253659,50.8299945],[0.0253649,50.8299727]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0257584,50.8300005],[0.0257827,50.829958],[0.0258046,50.8299267],[0.0258525,50.8298182],[0.0258391,50.8297259],[0.0258337,50.8295793],[0.0258605,50.8293955],[0.0260738,50.8285374],[0.0264171,50.8271295]]]}}
+]
+}

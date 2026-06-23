@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5890951,51.3587658],[0.5891384,51.3589149],[0.5891776,51.3590369],[0.5892111,51.3591528]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5964773,51.361545],[0.5965357,51.3614261],[0.5966469,51.3612163],[0.5964872,51.3611886],[0.5962398,51.3612768],[0.5961725,51.3613017]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_106_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"White Road","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5621661,51.4522456],[0.5619587,51.4521885],[0.5616489,51.452069],[0.5591697,51.4511139]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5549115,51.457266],[0.5562802,51.45714]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Buckhole Billy Boulevard","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5587069,51.4516491],[0.5571051,51.4513283]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5688745,51.4520634],[0.5703117,51.4524031],[0.5711063,51.4525025],[0.5729465,51.4526561],[0.5756319,51.4525478]]]}}
+]
+}

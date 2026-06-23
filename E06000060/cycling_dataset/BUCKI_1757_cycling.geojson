@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1757_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6183469,51.7214355],[-0.6180976,51.7215155],[-0.6172943,51.7216369],[-0.616665,51.7217029],[-0.6164286,51.7217204],[-0.6158935,51.7217601],[-0.6153718,51.7218456],[-0.615344,51.7218527],[-0.6150193,51.7219132],[-0.6146906,51.7219486],[-0.6139917,51.7220061],[-0.6134614,51.722036],[-0.6129518,51.7220335],[-0.6119127,51.7219779],[-0.6112503,51.72197],[-0.6096147,51.7220252],[-0.6087013,51.722009],[-0.6082876,51.7219892],[-0.6078845,51.7219529],[-0.6077715,51.7219108]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6132754,51.7193193],[-0.6132151,51.719293],[-0.6129395,51.7192756],[-0.6128617,51.7192291],[-0.6128161,51.7191178]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6172943,51.7216369],[-0.617269,51.7215397]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6073272,51.7236039],[-0.6071851,51.7233439],[-0.6071002,51.7231598],[-0.6070789,51.7229977],[-0.6070683,51.7226184],[-0.6070966,51.7222896],[-0.6070893,51.7218747],[-0.6070731,51.7217667],[-0.6070358,51.7216198],[-0.6070375,51.721429],[-0.6071609,51.7207311],[-0.6071448,51.7203855],[-0.6071127,51.7202725],[-0.6069008,51.7197254],[-0.6066996,51.7192057],[-0.6076628,51.7190547]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6164286,51.7217204],[-0.6163299,51.7213345]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6062787,51.7152933],[-0.6061993,51.7152842]]]}}
+]
+}

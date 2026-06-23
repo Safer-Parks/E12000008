@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_121_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.583765,51.6070454],[-0.5830266,51.6071762],[-0.58311,51.6073937],[-0.5820677,51.6076216],[-0.5818426,51.6068396],[-0.5813923,51.6069432],[-0.5812755,51.6065393],[-0.580892,51.6059748]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5739246,51.6074531],[-0.5736783,51.6070432]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5730716,51.607592],[-0.5728536,51.6071856]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5752631,51.6071719],[-0.5752655,51.606872]]]}}
+]
+}

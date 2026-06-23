@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_14_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5628716,51.4171617],[0.5626994,51.4171361],[0.5626162,51.4171209],[0.5625411,51.4171016],[0.5624753,51.4170827],[0.5624022,51.4170624],[0.5623536,51.4170556],[0.5623253,51.4170547],[0.5622843,51.4170601],[0.5622245,51.4170675],[0.562309,51.4166946],[0.5623469,51.4165391]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5731053,51.4257609],[0.5733494,51.4254642],[0.5744437,51.4235843],[0.5749474,51.4228476],[0.575017,51.4216971],[0.5750809,51.4215483],[0.5750902,51.4215268],[0.5773956,51.4201121]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5692522,51.4289074],[0.5695381,51.4287265],[0.5701867,51.4283013],[0.5705276,51.4280073],[0.5709846,51.4275053],[0.5713256,51.4271886],[0.5717463,51.4267024],[0.5719349,51.4264853],[0.5721296,51.4262278],[0.5723211,51.4259601],[0.5725649,51.4256512]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5533178,51.4230222],[0.5533144,51.4229522],[0.5533663,51.4228698],[0.5535396,51.4226364],[0.5535442,51.4226295],[0.5535692,51.4225915],[0.5535818,51.4225695]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5571688,51.4317391],[0.5599167,51.4298353],[0.5616543,51.4291121],[0.5633218,51.4278562],[0.5649429,51.4266514],[0.5650341,51.4265978],[0.565504,51.4262764],[0.5664852,51.4255166]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5573806,51.4318026],[0.5571688,51.4317391],[0.5560003,51.4313542]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5535442,51.4226295],[0.55366,51.4226517],[0.5537204,51.4226331],[0.5537272,51.4226201],[0.5535692,51.4225915]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5669288,51.422838],[0.567,51.4228129],[0.5669164,51.4227193],[0.5668286,51.422622],[0.5668032,51.4225938]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_164_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.713795,51.6083908],[-0.7137712,51.608384],[-0.7137473,51.6083771]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7140214,51.6147403],[-0.7138481,51.6146574],[-0.7105338,51.6129273],[-0.7101966,51.6127544]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Fairview Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7159491,51.6042515],[-0.7160666,51.6043439],[-0.7160322,51.6043954]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7081896,51.6118559],[-0.708033,51.6118172]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7101966,51.6127544],[-0.7091763,51.6122195]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7091763,51.6122195],[-0.7090872,51.6122231],[-0.7086902,51.6121539],[-0.7081948,51.6118572],[-0.7081896,51.6118559]]]}}
+]
+}

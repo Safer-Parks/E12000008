@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1605_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7229508,51.5510347],[-0.7229548,51.5509992],[-0.723007,51.5505353],[-0.7230499,51.5500443],[-0.723007,51.5494305],[-0.7228353,51.5488968],[-0.7227759,51.5482419],[-0.7232517,51.5474768],[-0.7234662,51.5472766],[-0.7236164,51.5471232],[-0.7237988,51.5469764],[-0.7238739,51.5468229],[-0.723871,51.5461067],[-0.7238739,51.5453484],[-0.7237881,51.545255],[-0.7236258,51.5452301],[-0.7233274,51.5452578]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7290129,51.5520218],[-0.7290303,51.5523995],[-0.7291431,51.5523983],[-0.7291779,51.5524358]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7186302,51.5620595],[-0.7184986,51.5620453],[-0.7181882,51.562035],[-0.7176518,51.5620136]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.720312,51.5512996],[-0.720237,51.5506973]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Strande Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.722776,51.5510421],[-0.7226609,51.5509944],[-0.7203455,51.5507101],[-0.720237,51.5506973],[-0.720117,51.550584],[-0.7171194,51.5504298]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7227759,51.5482419],[-0.7224754,51.5484249],[-0.7221213,51.5487117],[-0.7216707,51.548992]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.70685,51.5542558],[-0.7076371,51.554189],[-0.7132593,51.5537119],[-0.7135812,51.5537219],[-0.7138601,51.5538553],[-0.7142893,51.5538887],[-0.7146648,51.5539087]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7146648,51.5539087],[-0.7148579,51.5538954]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7171194,51.5504298],[-0.7160526,51.5504324]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7182762,51.5625081],[-0.7181807,51.5625014],[-0.7154596,51.5623139]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7183074,51.5658887],[-0.7189178,51.5655474],[-0.7190238,51.565434],[-0.7194462,51.5645595],[-0.7204051,51.5627087]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7194798,51.5587609],[-0.7192464,51.5587651],[-0.7191619,51.5587446],[-0.7190821,51.5586133],[-0.7189862,51.5585754],[-0.7182862,51.5587592]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Poundfield Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7194798,51.5587609],[-0.7195139,51.5592525],[-0.719548,51.559744]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7148579,51.5538954],[-0.7155555,51.5539132]]]}}
+]
+}

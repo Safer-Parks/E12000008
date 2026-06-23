@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_8_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8281609,51.6747797],[-0.82807,51.6747541],[-0.8279962,51.6747668],[-0.8278791,51.674812],[-0.8276097,51.6749171],[-0.8272192,51.6750785]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8282987,51.6746487],[-0.8282922,51.6747177],[-0.8282712,51.6747377]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8282712,51.6747377],[-0.828259,51.6747522],[-0.8282275,51.6747768],[-0.8281609,51.6747797]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wycombe Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8287918,51.6817095],[-0.8287829,51.6815064],[-0.8287137,51.6811862],[-0.828507,51.6808762],[-0.8282267,51.6805448],[-0.827815,51.6801207],[-0.8270865,51.6795549]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wycombe Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8270865,51.6795549],[-0.8270117,51.6794968],[-0.8265281,51.6790531],[-0.826269,51.6788224],[-0.8260533,51.6786336],[-0.825893,51.6784853],[-0.8255094,51.6781307],[-0.8252621,51.6778328],[-0.8250524,51.6775243],[-0.8246158,51.6768089],[-0.8244253,51.6764544],[-0.8241404,51.6760861],[-0.823812,51.6757553],[-0.823436,51.675425]]]}}
+]
+}

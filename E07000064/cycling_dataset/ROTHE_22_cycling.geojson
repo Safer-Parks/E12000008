@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ROTHE_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4479905,50.8410169],[0.4480118,50.8409378],[0.4481613,50.8403955],[0.4482243,50.8403407],[0.4482962,50.8403157],[0.4483745,50.8403183],[0.4486048,50.8403492],[0.4488403,50.8403654],[0.4490246,50.8403792],[0.4492051,50.8403756],[0.4493693,50.8403449],[0.4494531,50.8402951]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Cooden Drive","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.430283,50.8335566],[0.4307262,50.8336462],[0.4309232,50.833685],[0.4310662,50.8337133],[0.4324347,50.8339837],[0.4328156,50.834059],[0.4381062,50.8350994],[0.4439132,50.8362433],[0.4447616,50.8364078]]]}}
+]
+}

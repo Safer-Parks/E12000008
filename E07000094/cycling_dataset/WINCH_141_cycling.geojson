@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_141_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Vear's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3129154,50.9945124],[-1.3132771,50.9943571]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Vear's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3134882,50.9944581],[-1.3133831,50.9943711],[-1.313357,50.9943614],[-1.3133154,50.9943583],[-1.3132771,50.9943571]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3162873,50.9907159],[-1.3163302,50.9907547],[-1.3163571,50.9908071],[-1.3163839,50.9908425],[-1.3164295,50.9908662],[-1.3164938,50.9908881],[-1.3165394,50.9909168],[-1.3165636,50.990959],[-1.3166225,50.9911457],[-1.3166301,50.9911697]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.309373,50.991819],[-1.3092117,50.991831],[-1.3086846,50.9918073],[-1.3080972,50.9917795],[-1.3075266,50.9918128]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3153662,50.9938998],[-1.3152875,50.9938494],[-1.3150706,50.9936322]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3166515,50.9934121],[-1.3167886,50.9934901],[-1.3168679,50.9935083],[-1.3169592,50.9934988]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3166301,50.9911697],[-1.3166824,50.9913357]]]}}
+]
+}

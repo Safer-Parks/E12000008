@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "FAREH_18_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2194682,50.8496896],[-1.2194253,50.8495812],[-1.219494,50.8494294],[-1.2194115,50.8491105]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Highlands Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2137189,50.85753],[-1.2139095,50.8574101],[-1.2142626,50.857178],[-1.2144192,50.857075],[-1.2144392,50.8570618],[-1.2154851,50.8564554]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Highlands Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2132886,50.8577924],[-1.2137189,50.85753]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Highlands Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.222049,50.850309],[-1.2220271,50.8502032]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Highlands Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2088494,50.8602604],[-1.2091842,50.8600541],[-1.2093202,50.8599702],[-1.2095641,50.8598372],[-1.2096503,50.8597865],[-1.2097525,50.8597263],[-1.2106029,50.859266],[-1.2113049,50.8588686],[-1.2118824,50.858548],[-1.2122586,50.8583553],[-1.2124146,50.8582709],[-1.2127036,50.8581186],[-1.2130791,50.8579116]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Highlands Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2154851,50.8564554],[-1.2156988,50.8563184],[-1.2168452,50.8555795],[-1.2174497,50.8552488],[-1.2181729,50.8548412],[-1.2185236,50.8546869],[-1.2187831,50.8546186],[-1.2190128,50.8545748],[-1.2192193,50.8545131],[-1.2194166,50.854433],[-1.2195849,50.8543372],[-1.2197495,50.8541995],[-1.2199388,50.8540088],[-1.2200041,50.8539441],[-1.2203609,50.8535909],[-1.2205373,50.853434],[-1.2208824,50.8531342],[-1.2211953,50.8528557],[-1.2213898,50.8526682],[-1.2215298,50.8525011],[-1.2216697,50.8522657],[-1.2217547,50.8520662],[-1.2218702,50.851719],[-1.2219364,50.8513871],[-1.2219728,50.8511523],[-1.2219874,50.8509912],[-1.2220009,50.8508417],[-1.2220293,50.8505273]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Highlands Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2220293,50.8505273],[-1.222049,50.850309]]]}}
+]
+}

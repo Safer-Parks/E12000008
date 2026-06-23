@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EASHA_58_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9978455,50.9193233],[-0.9976025,50.9194671],[-0.9975541,50.9198209],[-0.9975005,50.9202267],[-0.9975649,50.9206596],[-0.9976534,50.9209727],[-0.9976507,50.9213292],[-0.9975783,50.922508],[-0.997471,50.9234007],[-0.9973288,50.9242914],[-0.9970588,50.9256114],[-0.9970526,50.9256528],[-0.9968353,50.9266854],[-0.9965161,50.9276274],[-0.9962635,50.9283923]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0006741,50.9303066],[-1.0000574,50.9302441],[-0.9994781,50.930164]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.9970588,50.9256114],[-0.9968175,50.9256841],[-0.9966409,50.925767],[-0.9965544,50.9258253],[-0.9964592,50.9258701],[-0.9962981,50.9259059]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.0025712,50.9308356],[-1.002815,50.930921]]]}}
+]
+}
