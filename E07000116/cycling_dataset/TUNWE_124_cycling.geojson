@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_124_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4108902,51.1557535],[0.4110567,51.156558],[0.4103586,51.1572036],[0.4098224,51.1578121]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4084618,51.1589125],[0.408801,51.1589585],[0.4090006,51.1589437],[0.4091915,51.1589155],[0.4093378,51.1589267],[0.409428,51.1589691],[0.4095771,51.1590694]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4030661,51.1549488],[0.4031289,51.1550442],[0.4031796,51.1550684],[0.4032669,51.1550898],[0.403329,51.1550881],[0.4033797,51.1550705],[0.4034177,51.1550274],[0.403447,51.1549293]]]}}
+]
+}

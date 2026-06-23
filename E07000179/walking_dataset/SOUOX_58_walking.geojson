@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUOX_58_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2048909,51.6882933],[-1.204934,51.6883559],[-1.2043539,51.688463],[-1.2042472,51.6885221],[-1.2034318,51.6896182],[-1.2031739,51.689901],[-1.2026495,51.6900699]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1942307,51.6943801],[-1.1945741,51.694295],[-1.1949689,51.6942099],[-1.1953122,51.6941034],[-1.1956641,51.693997],[-1.1960246,51.693896],[-1.1963336,51.6938108],[-1.1965138,51.6937417],[-1.1966512,51.6936725],[-1.1968743,51.6935448],[-1.1970889,51.6933958],[-1.1973035,51.6932628],[-1.197458,51.6931671],[-1.1977755,51.6929808],[-1.1984021,51.6926084],[-1.1990201,51.6922307],[-1.1996295,51.6918955],[-1.200196,51.691523],[-1.2008655,51.6910761],[-1.2015264,51.6906611],[-1.2019894,51.6903725]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2054831,51.6881071],[-1.205569,51.6881869]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2019894,51.6903725],[-1.2025318,51.6900597],[-1.2026495,51.6900699]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.2019894,51.6903725],[-1.2016322,51.6900046],[-1.2013014,51.6896713],[-1.197295,51.6909526],[-1.1967238,51.6911481],[-1.1948105,51.691764]]]}}
+]
+}

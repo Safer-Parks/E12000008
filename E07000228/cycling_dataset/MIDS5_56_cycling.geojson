@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1760544,50.9425412],[-0.1765605,50.9424012],[-0.1766748,50.9423436],[-0.1767597,50.9421975],[-0.1768443,50.942183]]]}}
+]
+}

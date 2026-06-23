@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_58_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Piper's Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1053447,51.2691881],[0.1043425,51.2685454],[0.1034511,51.2682963],[0.1026874,51.2674644],[0.1013249,51.2662634],[0.1010309,51.2660673],[0.0993267,51.2652484],[0.0985415,51.2647401],[0.0983687,51.264236],[0.0978223,51.2633169],[0.0975998,51.2625587],[0.0969652,51.2617211]]]}}
+]
+}

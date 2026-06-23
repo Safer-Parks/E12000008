@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_953_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.571332,51.1070401],[-0.5717414,51.1070257],[-0.5719684,51.1071148],[-0.5719008,51.1073434],[-0.5717366,51.107626],[-0.5716988,51.1077569],[-0.5718033,51.1080644],[-0.572009,51.1085231],[-0.5720879,51.1086548],[-0.5720837,51.108808]]]}}
+]
+}

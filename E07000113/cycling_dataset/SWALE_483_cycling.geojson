@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_483_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8562801,51.2729686],[0.8563209,51.2729941],[0.8564507,51.2730237],[0.8568015,51.2730478],[0.8570569,51.2730831],[0.857199,51.273126],[0.8572875,51.2731911]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8572875,51.2731911],[0.8572929,51.2732804],[0.8572344,51.2733717],[0.8570622,51.2737029],[0.8568493,51.2741154],[0.8567414,51.2744067],[0.8566701,51.2745731],[0.8565542,51.2747248],[0.8565033,51.2748309],[0.8564507,51.2750295],[0.8564169,51.2751973],[0.8563901,51.2755645],[0.8563992,51.275892],[0.8564271,51.2761386],[0.8564909,51.2763209]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8525147,51.2652783],[0.8523958,51.2653763],[0.8522908,51.2657185],[0.8516294,51.2676043]]]}}
+]
+}

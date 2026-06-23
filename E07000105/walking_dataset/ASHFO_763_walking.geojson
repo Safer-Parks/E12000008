@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_763_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.666936,51.1514598],[0.6668377,51.1514534],[0.6667692,51.1513861],[0.6666405,51.151275],[0.6665654,51.1511909],[0.6665246,51.1511509]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6665246,51.1511509],[0.6664796,51.1510344]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6664796,51.1510344],[0.6664629,51.1509868]]]}}
+]
+}

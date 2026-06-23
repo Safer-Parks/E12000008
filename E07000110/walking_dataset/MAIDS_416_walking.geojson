@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_416_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5987013,51.2318212],[0.5988735,51.2313311],[0.599036,51.2308283],[0.5985125,51.2297272],[0.5990457,51.2281214],[0.5984159,51.2270683],[0.5979851,51.2268751],[0.5976171,51.2265456],[0.597504,51.2254594],[0.5969631,51.2248538],[0.5966197,51.2244775],[0.5964229,51.2214777]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5986377,51.2357768],[0.598653,51.235707],[0.5987512,51.2355197],[0.5987013,51.2318212]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5987512,51.2355197],[0.5988496,51.2353876],[0.6004302,51.2351946],[0.6021761,51.2347965],[0.6042856,51.2343833],[0.6047253,51.2342019],[0.6048221,51.2340774],[0.6051279,51.2339302],[0.6076599,51.2340027],[0.6085337,51.233885],[0.6091888,51.233871],[0.609693,51.2337997],[0.6110928,51.2338302],[0.6118441,51.2339171],[0.611946,51.2341534]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5982662,51.2335882],[0.5980106,51.2333997]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5974717,51.2343712],[0.597509,51.234289],[0.597631,51.2341101],[0.5976538,51.2340656],[0.5976672,51.2340312],[0.5977745,51.23388],[0.5982662,51.2335882],[0.5982882,51.2335752],[0.5983821,51.2335534],[0.5984652,51.2335559]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5946038,51.232565],[0.5947873,51.2324823],[0.5950649,51.2321837],[0.5951589,51.232066],[0.5951895,51.2320277],[0.595225,51.2316422]]]}}
+]
+}

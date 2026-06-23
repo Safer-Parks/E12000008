@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_313_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bowhill Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8415648,50.8740399],[-0.8415038,50.8747634],[-0.8414472,50.874997],[-0.8411489,50.8753268],[-0.8404926,50.8757906],[-0.8402498,50.8760153],[-0.8399459,50.87632],[-0.8396881,50.8765673],[-0.8396231,50.8766074],[-0.8395221,50.8767015]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"The Broadwalk","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8313494,50.8694052],[-0.8332258,50.8696908],[-0.8341827,50.8698371],[-0.835693,50.8700942],[-0.8443592,50.8714087],[-0.8498696,50.8722107],[-0.8515046,50.8724682],[-0.8517637,50.8725426]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8425224,50.8685758],[-0.8424392,50.8685839],[-0.8412884,50.8686961],[-0.8409394,50.8686411],[-0.8395978,50.8683795],[-0.8369254,50.8680147],[-0.8366418,50.8680009],[-0.8359328,50.8681799],[-0.8353875,50.8684828],[-0.8351911,50.8687925],[-0.8346567,50.869178],[-0.8341242,50.869389],[-0.8332258,50.8696908],[-0.8328133,50.8698319],[-0.8307409,50.8707475],[-0.8294417,50.8712233]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.835693,50.8700942],[-0.8365655,50.8687344],[-0.8369254,50.8680147]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.84706,50.8618693],[-0.8419217,50.8606716],[-0.8386197,50.8614213],[-0.8383377,50.861477],[-0.8381709,50.8615686],[-0.8379875,50.8617363],[-0.8378433,50.8618021]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8444567,50.8658189],[-0.8443546,50.8660011]]]}}
+]
+}

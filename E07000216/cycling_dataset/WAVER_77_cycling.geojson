@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4356585,51.1445501],[-0.4357684,51.1446213],[-0.4359963,51.1447702],[-0.4363137,51.1449267],[-0.4365648,51.1450076],[-0.4366619,51.1450408],[-0.4370501,51.1452109],[-0.437312,51.145323],[-0.4374907,51.1454312],[-0.4378635,51.1455636],[-0.4379856,51.1455765]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4410809,51.1436549],[-0.4407648,51.1436704],[-0.4403222,51.1437242],[-0.4399861,51.143806],[-0.4395614,51.143938],[-0.4391936,51.1440329],[-0.4390074,51.1440354],[-0.4385783,51.1440344]]]}}
+]
+}

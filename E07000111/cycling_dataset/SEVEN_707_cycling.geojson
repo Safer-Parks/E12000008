@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_707_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3364348,51.3550261],[0.3367444,51.3556808],[0.3367884,51.3556922],[0.3368795,51.3557157]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3242846,51.3456394],[0.3231327,51.3464794],[0.3221036,51.3464465],[0.3217938,51.3465196],[0.3217061,51.3470272],[0.3218225,51.3474455],[0.321402,51.348331],[0.3214196,51.3493316],[0.3199221,51.3512128],[0.3198504,51.3512501]]]}}
+]
+}

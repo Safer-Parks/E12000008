@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "RUNNY_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5126747,51.3445899],[-0.5128016,51.3446415]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5146078,51.3437231],[-0.5145765,51.3438228],[-0.5136956,51.3441823],[-0.5128016,51.3446415],[-0.5126854,51.3446794]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Basingstoke Canal towpath","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4993724,51.3436848],[-0.499342,51.3438039]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4991482,51.3437512],[-0.4990108,51.3438777],[-0.4989085,51.3439496],[-0.4988221,51.3439906],[-0.4987319,51.344028],[-0.4986888,51.3440374],[-0.4986663,51.3440424]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5128016,51.3446415],[-0.5129859,51.3447164],[-0.5134722,51.3448781],[-0.5147742,51.3451035],[-0.5153153,51.3452112],[-0.5157232,51.3453239],[-0.5160021,51.3454187],[-0.5173148,51.3462524],[-0.5183614,51.34709],[-0.5183547,51.3473882],[-0.5183704,51.3476919],[-0.518451,51.3478235],[-0.5186475,51.3479732],[-0.5187889,51.3481157],[-0.5190652,51.3484105],[-0.5191947,51.3486477],[-0.5192741,51.348793],[-0.5192905,51.3493036],[-0.5192885,51.3494653],[-0.5191993,51.3497088]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Basingstoke Canal towpath","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.499342,51.3438039],[-0.4992141,51.3439039]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.500178,51.3434859],[-0.5001241,51.3434335]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Basingstoke Canal towpath","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4992141,51.3439039],[-0.4990884,51.3439367],[-0.4990072,51.3439654],[-0.4989404,51.3440066],[-0.4987623,51.3440851],[-0.4987085,51.3441046]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Basingstoke Canal towpath","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4986639,51.3441282],[-0.4981388,51.3443144],[-0.4976379,51.3444408]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Basingstoke Canal towpath","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4987085,51.3441046],[-0.4986943,51.3441122],[-0.4986639,51.3441282]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4986663,51.3440424],[-0.4986321,51.3440523],[-0.4978723,51.3442529],[-0.4968584,51.3445289],[-0.4964687,51.3446439],[-0.4956283,51.3448696],[-0.4947342,51.3451186],[-0.4938537,51.3453641],[-0.4911017,51.3461124],[-0.491132,51.3462321]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Basingstoke Canal towpath","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5026741,51.342546],[-0.50246,51.3426055],[-0.5013808,51.3429209],[-0.5006825,51.3431443],[-0.5004809,51.3432236],[-0.5000967,51.3433886],[-0.5000882,51.3433912],[-0.5000726,51.3433959]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5129504,51.3503345],[-0.5119118,51.3513071]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5119118,51.3513071],[-0.5118965,51.3514469],[-0.5119582,51.3515768],[-0.5120848,51.3516875],[-0.5119932,51.3518329]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5001241,51.3434335],[-0.5000967,51.3433886]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5158543,51.352147],[-0.5159298,51.3521078],[-0.516111,51.3520139],[-0.5164424,51.351842]]]}}
+]
+}

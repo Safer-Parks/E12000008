@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_216_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4647736,51.163493],[-0.4656379,51.1640359],[-0.4674585,51.1642909]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_414_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9705153,51.0781239],[0.970831,51.0781681],[0.9711052,51.0782373],[0.9714393,51.0785608],[0.972591,51.0797084]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.972591,51.0797084],[0.9735772,51.0807611],[0.9737852,51.0809007],[0.9738987,51.0809779],[0.9739807,51.0810889]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9775283,51.0810069],[0.977507,51.081135],[0.9773006,51.0812685],[0.9770171,51.0815937],[0.9759233,51.0825189],[0.9752578,51.0831189],[0.9750853,51.0832989]]]}}
+]
+}

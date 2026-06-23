@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_85_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3089946,51.3677053],[1.3101141,51.3674244]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3087261,51.3639315],[1.3086882,51.3638955],[1.30869,51.3638571],[1.3087189,51.3637985],[1.3087912,51.3636981],[1.3088779,51.3636169],[1.3089447,51.363574],[1.3089953,51.363556],[1.3090531,51.3635549],[1.3090911,51.3635587],[1.3091821,51.3635865],[1.309599,51.363743]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3055089,51.3640339],[1.3056672,51.3640808],[1.3058495,51.3642047],[1.3064477,51.3647373],[1.3071504,51.3654406],[1.3072336,51.3655679],[1.3072067,51.3657069],[1.3071209,51.365866],[1.307161,51.3659503]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3093702,51.3640478],[1.3092174,51.3640466],[1.3091181,51.3640432],[1.3090621,51.3640342],[1.3088724,51.3639902],[1.3087261,51.3639315]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3087261,51.3639315],[1.3085881,51.3639929],[1.3084084,51.3640096],[1.3060346,51.3639887],[1.3056806,51.3640373],[1.3055089,51.3640339],[1.3052085,51.3640339],[1.3047123,51.3640758],[1.3036689,51.364116],[1.3022608,51.364188]]]}}
+]
+}

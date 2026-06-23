@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_138_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7827022,50.7301581],[-0.782815,50.7298842]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7840511,50.7252638],[-0.7841942,50.7252934]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7761902,50.7315706],[-0.776239,50.7314163],[-0.7761652,50.7312785],[-0.7759911,50.7311504],[-0.7759513,50.7309755],[-0.7761122,50.730695],[-0.7762655,50.7305429],[-0.7767026,50.7303572],[-0.7768086,50.7303201],[-0.7769862,50.730324]]]}}
+]
+}

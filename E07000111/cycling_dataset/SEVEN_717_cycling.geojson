@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_717_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3364348,51.3550261],[0.3367444,51.3556808],[0.3367884,51.3556922],[0.3368795,51.3557157]]]}}
+]
+}

@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "SURHE_33_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6377298,51.3669839],[-0.6368487,51.3664069]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6368487,51.3664069],[-0.6359547,51.3667081],[-0.6342688,51.3673024]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6397251,51.3678603],[-0.6390225,51.367482],[-0.6381881,51.36714],[-0.6377298,51.3669839]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6409088,51.3683602],[-0.6405777,51.3682695],[-0.6402451,51.3681297]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.643347,51.3696907],[-0.6426117,51.3684908],[-0.6424926,51.3684464],[-0.6409088,51.3683602]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6342688,51.3673024],[-0.6336826,51.367497],[-0.6334049,51.3675798],[-0.6333626,51.3675744],[-0.6332578,51.3675611]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6402451,51.3681297],[-0.6397251,51.3678603]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Scutley Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6503715,51.3570928],[-0.6502105,51.3572938],[-0.649878,51.3576489],[-0.6497176,51.3577634],[-0.6495024,51.3579169],[-0.6490518,51.3584327],[-0.6487407,51.3588481],[-0.6485583,51.3591362],[-0.6486334,51.3593841],[-0.6487943,51.3596654],[-0.6488007,51.3597827],[-0.6487495,51.359862]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6478841,51.3596326],[-0.647991,51.359404],[-0.647991,51.3592197],[-0.6482393,51.3590061],[-0.6484931,51.358901],[-0.6492277,51.3579195],[-0.649527,51.3577387],[-0.64965,51.3576471],[-0.6500363,51.3572377],[-0.6501774,51.3570451],[-0.6501872,51.3568976],[-0.6499871,51.3558233],[-0.6499117,51.3556983],[-0.6496722,51.3556266],[-0.6493015,51.3555856],[-0.6491112,51.3555897]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6462607,51.3621603],[-0.6457145,51.362499],[-0.645418,51.3626549],[-0.6452502,51.3629131],[-0.6452502,51.3632785]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6395567,51.3619815],[-0.6407356,51.3618709],[-0.6414547,51.3618034],[-0.6418125,51.3616308],[-0.6418624,51.3613452],[-0.6420843,51.3613197],[-0.6421358,51.3608505],[-0.6421409,51.3602319]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6407356,51.3618709],[-0.6406537,51.3609796],[-0.6403981,51.3607464],[-0.6404846,51.3606015],[-0.6406065,51.3605917],[-0.6407009,51.3604861],[-0.6406497,51.3603756],[-0.6405396,51.3603854],[-0.6404216,51.3604566],[-0.6404177,51.3605573],[-0.6404846,51.3606015]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6348787,51.3683844],[-0.6350202,51.3683882],[-0.6354311,51.3682951],[-0.6356855,51.368305],[-0.6360431,51.368377],[-0.6362736,51.3684638],[-0.6364644,51.3686871],[-0.6369333,51.3693346],[-0.6382289,51.3691262]]]}}
+]
+}

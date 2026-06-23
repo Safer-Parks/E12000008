@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_371_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.849115,50.850368],[-0.8492652,50.8503026]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8489701,50.8504755],[-0.849115,50.850368]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8488703,50.8505513],[-0.8489701,50.8504755]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8499907,50.8507947],[-0.8499183,50.850782],[-0.8498485,50.8507312],[-0.8497815,50.8507084],[-0.8497292,50.8506305],[-0.8496393,50.8505526],[-0.849414,50.8503849],[-0.8493148,50.8503392],[-0.8492652,50.8503026],[-0.8491968,50.850252],[-0.849072,50.8501479],[-0.8489996,50.850075],[-0.8488628,50.8500259],[-0.8488226,50.8500429],[-0.8487368,50.8501275],[-0.8486938,50.8502317],[-0.8485866,50.8502689]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8494248,50.8502715],[-0.8491565,50.8500725],[-0.8489889,50.8499218],[-0.8487006,50.8497033],[-0.8486751,50.8496102],[-0.8484954,50.8494773],[-0.8482969,50.8494976],[-0.848203,50.8495357],[-0.8479723,50.8495983],[-0.8479361,50.8496373],[-0.8478785,50.8499201]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_351_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6824514,51.200311],[0.6825452,51.2001284],[0.6820522,51.1994488],[0.6816701,51.1981437],[0.6807951,51.1965759],[0.6799601,51.1946161],[0.6799977,51.1944364],[0.6796683,51.1937227],[0.6774799,51.1921427]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6749075,51.1980922],[0.6743496,51.1974023],[0.6741154,51.1957959],[0.6754182,51.1937264],[0.676368,51.1926983],[0.6774799,51.1921427]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6807951,51.1965759],[0.6781276,51.195319],[0.6774864,51.1947915],[0.6741154,51.1957959],[0.6731342,51.1967299]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6776795,51.1942298],[0.6779187,51.1946263],[0.6774864,51.1947915]]]}}
+]
+}

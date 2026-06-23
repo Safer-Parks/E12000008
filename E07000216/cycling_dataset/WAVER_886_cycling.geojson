@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_886_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6378074,51.1243994],[-0.63758,51.1242995],[-0.6373983,51.1242108],[-0.6372695,51.1241401]]]}}
+]
+}

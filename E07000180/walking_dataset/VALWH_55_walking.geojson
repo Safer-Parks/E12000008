@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "VALWH_55_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3714128,51.7042659],[-1.3700702,51.7040093],[-1.3696006,51.7039252],[-1.369234,51.7038595],[-1.3685963,51.7038297],[-1.3683516,51.7039577],[-1.3678598,51.703825],[-1.3662296,51.703452],[-1.3654623,51.703282],[-1.3653272,51.7033741],[-1.3651381,51.703282],[-1.3649894,51.7032653],[-1.3649651,51.7031569]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_792_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1466615,51.1539603],[1.1469469,51.1544702],[1.1474304,51.1551225],[1.1505366,51.1595186],[1.1510788,51.1603802],[1.1517429,51.161615],[1.1522568,51.1627682],[1.1524673,51.1630287],[1.1524812,51.1630477]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1469469,51.1544702],[1.1468415,51.1547069],[1.1470629,51.1552216]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1470629,51.1552216],[1.1474304,51.1551225]]]}}
+]
+}

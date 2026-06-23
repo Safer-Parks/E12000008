@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_266_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1856654,51.3313958],[1.1856214,51.331229],[1.1855564,51.3308501],[1.1855114,51.3301799],[1.1852606,51.3298338],[1.1846744,51.329337],[1.1843739,51.3289987],[1.183976,51.3283489],[1.1839359,51.3281779],[1.1837953,51.327579],[1.1833031,51.3270077],[1.1828623,51.3266194],[1.1828378,51.3263598],[1.1827069,51.3262621]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1827069,51.3262621],[1.1827188,51.3262005]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.1827188,51.3262005],[1.1828058,51.3260537],[1.1832209,51.3254921],[1.1834649,51.3252693],[1.183656,51.3250286],[1.1838154,51.3248939],[1.1840766,51.3245702]]]}}
+]
+}

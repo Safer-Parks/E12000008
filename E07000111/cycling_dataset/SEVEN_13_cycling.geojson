@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Priory Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2299719,51.371877],[0.229661,51.3719351],[0.2280832,51.372127],[0.2260069,51.3722717],[0.2229161,51.3725831],[0.2225944,51.3726033],[0.2225438,51.3726064],[0.2224734,51.3726109],[0.2214806,51.3726731],[0.2210958,51.3726958],[0.2206279,51.3726762]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2217955,51.3804777],[0.2217754,51.3804448],[0.2217574,51.380424],[0.2217191,51.3803542],[0.2217191,51.3802779],[0.2217322,51.3801935]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.220008,51.381461],[0.2201966,51.3815428],[0.2205538,51.3817101],[0.2206295,51.3818028]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2217322,51.3801935],[0.2221045,51.3801704],[0.2224647,51.3801383]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2225944,51.3726033],[0.2225389,51.3725908],[0.2224734,51.3726109]]]}}
+]
+}

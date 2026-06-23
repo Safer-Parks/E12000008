@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_314_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"The Broadwalk","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8313494,50.8694052],[-0.8332258,50.8696908],[-0.8341827,50.8698371],[-0.835693,50.8700942],[-0.8443592,50.8714087],[-0.8498696,50.8722107],[-0.8515046,50.8724682],[-0.8517637,50.8725426]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8297516,50.860586],[-0.8286417,50.8606845]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8326502,50.8618284],[-0.8325738,50.8618191],[-0.8325014,50.8617446],[-0.832547,50.8615288]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8319944,50.8649146],[-0.8318979,50.864979],[-0.8319032,50.8650518],[-0.8319676,50.8651127],[-0.8321768,50.8651076],[-0.8322814,50.8650602],[-0.8323029,50.8649654],[-0.8323458,50.864593],[-0.8324075,50.8640326],[-0.8325563,50.8628214],[-0.8325282,50.8626969],[-0.8325194,50.8626656],[-0.8325081,50.862625],[-0.8326341,50.8618995],[-0.8326502,50.8618284],[-0.8329104,50.8618386],[-0.8332457,50.861809],[-0.8334575,50.8618242],[-0.8335367,50.8617963],[-0.8335702,50.861627],[-0.8334605,50.8615341]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8349303,50.8646414],[-0.8348107,50.8646187],[-0.8323458,50.864593]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8377802,50.861003],[-0.8378477,50.8609612],[-0.8380026,50.8606391],[-0.8380817,50.8605688]]]}}
+]
+}

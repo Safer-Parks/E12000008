@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_239_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7008253,51.2680037],[0.7009777,51.2679056],[0.7012354,51.2677856],[0.7015419,51.2676903],[0.7019865,51.2676089],[0.702365,51.2675558],[0.7027148,51.2674905]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6949837,51.2628422],[0.6948948,51.2628899],[0.6948665,51.2631708],[0.6948099,51.2632735],[0.6946553,51.2634206],[0.6944554,51.2635386],[0.69428,51.263695],[0.694016,51.2640808]]]}}
+]
+}

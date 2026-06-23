@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUOX_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1517399,51.569863],[-1.1517219,51.5697547],[-1.1516036,51.5690784],[-1.1514381,51.568487],[-1.1513147,51.5678967],[-1.151244,51.5673328],[-1.1512738,51.5669124],[-1.1512635,51.5667218],[-1.1509971,51.5659085],[-1.1509096,51.5654798]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Silly Bridge","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1509493,51.5653597],[-1.1513707,51.5650927]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1515463,51.5649001],[-1.1513707,51.5650927]]]}}
+]
+}

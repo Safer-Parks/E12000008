@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESOX_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3840072,51.8751727],[-1.3853392,51.8750268],[-1.3872231,51.87469],[-1.3875772,51.8747165],[-1.3884291,51.8748546],[-1.3899096,51.8749606],[-1.3909933,51.8749871],[-1.3919803,51.8748877],[-1.3936969,51.8747553],[-1.3945014,51.8747252],[-1.3949948,51.8747566]]]}}
+]
+}

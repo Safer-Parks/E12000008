@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_174_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8596006,50.7658313],[-0.8587279,50.7655465],[-0.8583479,50.7654225],[-0.8576581,50.7651983],[-0.8574108,50.7651377]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8512914,50.7661564],[-0.8521357,50.7663068],[-0.8526506,50.7663981],[-0.8528046,50.7664254]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8537049,50.7649125],[-0.8536836,50.7648789],[-0.8536792,50.7648355],[-0.8536915,50.7648118],[-0.8537116,50.7647792]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8510364,50.7662706],[-0.8511639,50.7662135],[-0.8512914,50.7661564],[-0.8513199,50.7660915]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8537452,50.7647018],[-0.8536796,50.7646002]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8537116,50.7647792],[-0.8537452,50.7647018]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8582874,50.7649608],[-0.8582664,50.7648753],[-0.8581383,50.7647472],[-0.8581104,50.7647038],[-0.8580824,50.764597]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.857878,50.7645356],[-0.8580824,50.764597]]]}}
+]
+}

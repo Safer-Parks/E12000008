@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_209_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8762774,51.2060976],[0.876147,51.2061111],[0.8758525,51.2061416],[0.8741161,51.2064567],[0.8735295,51.2065469],[0.8727103,51.2066815],[0.8705132,51.2070215],[0.8692895,51.2072039],[0.8688949,51.2072552],[0.8684655,51.2073047],[0.8680992,51.2073511],[0.8678951,51.207395],[0.8677663,51.2074253],[0.8675176,51.2074882],[0.8672085,51.207593],[0.866201,51.2079984],[0.8659732,51.2080852],[0.8658333,51.2081255],[0.8655645,51.2081963],[0.8649718,51.2083305],[0.864688,51.2083422],[0.8642988,51.2083212],[0.8638603,51.2082855],[0.8634998,51.2082296],[0.863402,51.2082073],[0.8629059,51.2080942],[0.8623742,51.2079327],[0.8621672,51.2079121],[0.8620339,51.2079255],[0.8619336,51.207967],[0.8618875,51.2079861]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8618875,51.2079861],[0.8615216,51.2080749],[0.8605595,51.2083229]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8619336,51.207967],[0.8627367,51.210964],[0.8638463,51.2142573],[0.863966,51.2145407],[0.8643973,51.2160167],[0.8641794,51.2160673],[0.8642822,51.216354]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.869647,51.217799],[0.8702251,51.2178565]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8689117,51.2175245],[0.8687773,51.2175424],[0.8684263,51.2174955],[0.868189,51.2174137]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8729774,51.2211692],[0.8731448,51.2207459],[0.8736847,51.2198324],[0.8738857,51.2195218]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8646921,51.2186297],[0.8670156,51.21907],[0.8670703,51.2190986]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8612498,51.2208502],[0.8625933,51.2195774],[0.8633058,51.2194545],[0.8638512,51.2190057],[0.8662895,51.2192938],[0.8670156,51.21907]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8630436,51.2147971],[0.8635068,51.2146464],[0.863966,51.2145407]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":"AE91","category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8737111,51.2132059],[0.8728579,51.2148547],[0.8728418,51.2150529],[0.8726424,51.215999],[0.8725298,51.2165464],[0.8723965,51.2171636]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8633384,51.2076071],[0.8633079,51.2077727],[0.8632856,51.2079892],[0.8632835,51.2080681],[0.863314,51.2081343],[0.8633506,51.20817],[0.863402,51.2082073]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8670037,51.2168979],[0.8674204,51.2166314]]]}}
+]
+}

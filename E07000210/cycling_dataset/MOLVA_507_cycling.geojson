@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_507_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4103681,51.151471],[-0.410363,51.1513721],[-0.4104644,51.1512572],[-0.4105991,51.1512298],[-0.4106873,51.1512277],[-0.4108495,51.1512005],[-0.411188,51.1511048],[-0.411631,51.1509115],[-0.4117418,51.1508439],[-0.4118349,51.150787],[-0.411931,51.1506606],[-0.4120173,51.1505649],[-0.4121966,51.150526],[-0.4123309,51.150538]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4123662,51.1556271],[-0.4127381,51.1555953],[-0.4127442,51.1555098],[-0.4132094,51.1553815],[-0.4132524,51.1553696],[-0.413411,51.1553492],[-0.413411,51.1551044],[-0.4134529,51.1550564]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.413228,51.1556386],[-0.4132186,51.1555085],[-0.4132094,51.1553815]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4135594,51.1555863],[-0.4134598,51.1555851],[-0.4134028,51.1555086],[-0.4132186,51.1555085]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4122357,51.1508943],[-0.412049,51.1508703],[-0.4118276,51.1508424],[-0.4117418,51.1508439]]]}}
+]
+}

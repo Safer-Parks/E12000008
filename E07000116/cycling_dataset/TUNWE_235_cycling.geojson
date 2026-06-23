@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_235_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5341935,51.1036053],[0.5341801,51.1034173],[0.534326,51.1031316],[0.5344633,51.1028514],[0.5346951,51.1026358],[0.5348293,51.1025119]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.543183,51.1095826],[0.5433894,51.1100333],[0.5434994,51.1102653],[0.5435081,51.1103126],[0.543502,51.11036],[0.5434894,51.110406],[0.5434471,51.110452],[0.5433626,51.1105115],[0.5429493,51.1107105],[0.5423943,51.110892]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5408999,51.1103313],[0.5410106,51.1105158],[0.541037,51.1105546],[0.5412791,51.1109102],[0.5414799,51.1111887],[0.5422831,51.1109297],[0.5423943,51.110892]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5338406,51.105887],[0.5339667,51.1057727],[0.5340741,51.1057287],[0.5341581,51.105714],[0.5360802,51.1059803]]]}}
+]
+}

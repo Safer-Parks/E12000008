@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_169_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2769053,51.2770779],[1.2768825,51.2770147]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2768825,51.2770147],[1.2768917,51.2768079],[1.2768698,51.2767115],[1.2767867,51.2765886],[1.2765242,51.2763605],[1.2761751,51.2760516]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2767518,51.2776012],[1.2769053,51.2770779]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.290558,51.2806122],[1.2904364,51.2804848],[1.2902847,51.2803634],[1.2900482,51.2801945],[1.2898201,51.2800783],[1.289455,51.2798871],[1.2891295,51.2797332],[1.2887624,51.2795657],[1.2884965,51.279449],[1.2882723,51.2793832],[1.2881076,51.2793311],[1.287927,51.2792566],[1.2877842,51.2791759],[1.2876572,51.2790654],[1.2875758,51.2789525],[1.287556,51.278873],[1.287555,51.2787373]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2924338,51.2692958],[1.2918444,51.2697314],[1.2913912,51.2701017],[1.2912369,51.270147],[1.2910103,51.2703794],[1.2908327,51.2706151],[1.2904864,51.2710405],[1.2902472,51.2713556],[1.2900615,51.2715624],[1.2899859,51.2716766],[1.2899702,51.2719819],[1.2900174,51.2724408],[1.2900389,51.2726487]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Burford's Alley","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2834616,51.2803238],[1.2838221,51.281141]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2861337,51.2820223],[1.2856228,51.2815573],[1.2850722,51.2811735],[1.2844642,51.2807497],[1.2841926,51.2806343],[1.2834616,51.2803238]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Burford's Alley","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.2834616,51.2803238],[1.2832904,51.2800285],[1.2830828,51.2798601],[1.2823728,51.2794566]]]}}
+]
+}

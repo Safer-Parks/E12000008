@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_543_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7657826,51.1182297],[0.7656889,51.1183338],[0.7654578,51.1186856],[0.7652925,51.1189079],[0.7652084,51.1190226],[0.7649481,51.119049],[0.7648093,51.1190853]]]}}
+]
+}

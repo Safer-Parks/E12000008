@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "GUILD_6_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5449639,51.2605136],[-0.5463874,51.2609515],[-0.5474536,51.2614751]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5433457,51.2605346],[-0.5433089,51.2604904],[-0.543459,51.2603441],[-0.5436107,51.2602582]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5332601,51.2556044],[-0.5331196,51.2557302]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5340505,51.2554986],[-0.5340385,51.2554337],[-0.5339339,51.2554387],[-0.5337381,51.2553917],[-0.5333733,51.2552155],[-0.5329976,51.2549436],[-0.5329075,51.2548805],[-0.5325857,51.2546552],[-0.5324907,51.2545454],[-0.5325128,51.2544887]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5450296,51.2591482],[-0.5449065,51.259273],[-0.5448502,51.2593771],[-0.5447027,51.259508],[-0.5445815,51.2596033],[-0.5444704,51.2596892],[-0.5444041,51.2597859],[-0.5443708,51.2598853],[-0.5443615,51.2599955],[-0.5443897,51.2600709],[-0.5444256,51.2601463],[-0.5444635,51.2602177],[-0.5445141,51.2602876],[-0.5446097,51.260358],[-0.5447129,51.2604205],[-0.5448114,51.2604658],[-0.5449639,51.2605136]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5453381,51.2589731],[-0.5450296,51.2591482]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5443615,51.2599955],[-0.5442486,51.2600152],[-0.5440702,51.2600319],[-0.5438613,51.2600124]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5438858,51.2603981],[-0.543861,51.2603559],[-0.5437939,51.2602594],[-0.543685,51.2601853]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.544898,51.260602],[-0.5447585,51.2605684]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5447585,51.2605684],[-0.5447022,51.2606204],[-0.5446646,51.2606657]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5449639,51.2605136],[-0.5449275,51.2605634],[-0.544898,51.260602]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5446646,51.2606657],[-0.5445553,51.2606153],[-0.5444885,51.2605825],[-0.5444207,51.260535],[-0.5443479,51.26049],[-0.5442526,51.2604522],[-0.5441458,51.260428],[-0.5440107,51.2604063],[-0.5438858,51.2603981],[-0.5437686,51.2604042],[-0.5437175,51.2603668]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5438613,51.2600124],[-0.5441469,51.2597319],[-0.5442043,51.2596879]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.544552,51.2555361],[-0.5445493,51.2555706],[-0.5445436,51.255755],[-0.5445096,51.2559714],[-0.5445218,51.2560087]]]}}
+]
+}

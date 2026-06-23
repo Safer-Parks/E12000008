@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_608_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6915808,51.0603495],[0.6915676,51.0604518],[0.6914741,51.0620518],[0.6915497,51.0622009],[0.6905097,51.064324],[0.6904201,51.0645145],[0.690373,51.0647309]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6956208,51.0610339],[0.6960514,51.0607567],[0.696755,51.0604219],[0.6986631,51.0599251],[0.6986573,51.0596812],[0.6987412,51.0595193],[0.6990047,51.0592481],[0.6993232,51.059108],[0.6997373,51.0589624],[0.7005683,51.0588114],[0.7006841,51.0587204],[0.7007159,51.0585857],[0.7007014,51.0580943],[0.7007308,51.0580682]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6916197,51.0603558],[0.6918437,51.0609068],[0.6920382,51.0612392],[0.6924033,51.061599],[0.6929899,51.0621732]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6932788,51.0613482],[0.6931482,51.0613026],[0.6927455,51.0612713],[0.6920537,51.0612224],[0.6920776,51.0611711]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6938711,51.060305],[0.6938941,51.0602587],[0.6939876,51.0601204],[0.6940369,51.0600435],[0.6942121,51.059792],[0.6942494,51.0597551],[0.6943133,51.0597459],[0.6943919,51.059756],[0.6947637,51.0597903],[0.6954459,51.0598205]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6747892,51.0547223],[0.6751388,51.0541991],[0.6756189,51.0534539],[0.6758925,51.0529194],[0.6764746,51.0517527],[0.6765436,51.0516844],[0.6767515,51.0515858],[0.6783843,51.0510167],[0.6785363,51.0509603]]]}}
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_394_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5397409,50.9025465],[-0.5397197,50.9024996],[-0.5397318,50.9018578],[-0.5397368,50.9017105],[-0.5397406,50.9015503],[-0.5397133,50.9015271],[-0.5396242,50.9015249]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5397409,50.9025465],[-0.5396055,50.9025548]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.541808,50.9023941],[-0.5402555,50.9025144],[-0.5397409,50.9025465]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5397469,50.8986012],[-0.5398297,50.8985954],[-0.5398838,50.8988083],[-0.5398966,50.8988944],[-0.5399057,50.8990576],[-0.539887,50.899236],[-0.5398443,50.899438],[-0.539789,50.8997161],[-0.5397487,50.9000079],[-0.5397041,50.9003536],[-0.539649,50.9003626]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5396242,50.9015249],[-0.5395391,50.9015236],[-0.5395186,50.9015059],[-0.5395171,50.9012429],[-0.5395191,50.9007189],[-0.5395295,50.900491],[-0.539481,50.9004588],[-0.5393626,50.9004465],[-0.5393205,50.9003888]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5401211,50.9089417],[-0.5404588,50.9089628],[-0.5405141,50.9089654]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.539874,50.9086113],[-0.5399925,50.9086501],[-0.5405545,50.9086845],[-0.5408397,50.9087038]]]}}
+]
+}

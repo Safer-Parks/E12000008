@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_313_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Bowhill Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8415648,50.8740399],[-0.8415038,50.8747634],[-0.8414472,50.874997],[-0.8411489,50.8753268],[-0.8404926,50.8757906],[-0.8402498,50.8760153],[-0.8399459,50.87632],[-0.8396881,50.8765673],[-0.8396231,50.8766074],[-0.8395221,50.8767015]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"The Broadwalk","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8313494,50.8694052],[-0.8332258,50.8696908],[-0.8341827,50.8698371],[-0.835693,50.8700942],[-0.8443592,50.8714087],[-0.8498696,50.8722107],[-0.8515046,50.8724682],[-0.8517637,50.8725426]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8444567,50.8658189],[-0.8443546,50.8660011]]]}}
+]
+}

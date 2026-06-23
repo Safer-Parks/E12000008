@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_565_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7308435,51.1034203],[0.7320624,51.1048495]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7405667,51.1011589],[0.7404336,51.1011095],[0.7404619,51.1010604],[0.7404313,51.1010227],[0.7401867,51.1008876],[0.739873,51.1006885],[0.7395809,51.1004424],[0.7392751,51.1002021],[0.7392343,51.1001402],[0.7393521,51.0999155],[0.7396329,51.0993334],[0.7396053,51.099279],[0.7395083,51.0992584],[0.7390427,51.0991997],[0.7389302,51.0992736],[0.7388437,51.0993584],[0.7386914,51.099729],[0.7386141,51.0999535],[0.7385893,51.1000257],[0.7385927,51.100067],[0.7387537,51.1001007],[0.7390064,51.1001431],[0.7391189,51.1001551],[0.7392343,51.1001402]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7390427,51.0991997],[0.7389562,51.0990793],[0.7389033,51.0990311]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7386141,51.0999535],[0.7378293,51.09985],[0.7377455,51.0998064],[0.7377332,51.0997512],[0.7379621,51.0990685]]]}}
+]
+}

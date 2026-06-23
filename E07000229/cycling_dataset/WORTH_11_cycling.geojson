@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WORTH_11_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4046896,50.8208053],[-0.404652,50.8207618],[-0.404606,50.8207488],[-0.4045246,50.8207177],[-0.404471,50.8206906],[-0.4044227,50.820633],[-0.404412,50.8205584],[-0.4043208,50.8196603],[-0.40428,50.8194265],[-0.4040328,50.8182815]]]}}
+]
+}

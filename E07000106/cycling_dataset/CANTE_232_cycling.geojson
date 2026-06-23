@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_232_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0404018,51.2996294],[1.0404592,51.2995146],[1.0405599,51.2994003],[1.0408264,51.2991218],[1.041085,51.2989418],[1.0412968,51.2987875],[1.0415224,51.2984917],[1.0416331,51.2982871],[1.0419704,51.298306]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0446706,51.2993393],[1.0443917,51.2992984],[1.0442309,51.2992572],[1.0440596,51.2992265],[1.0437882,51.2991372],[1.0432614,51.2990022],[1.0428261,51.2988547],[1.042386,51.2986488],[1.0416331,51.2982871]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0450457,51.3061415],[1.0451371,51.30666],[1.0450963,51.30686],[1.0450774,51.3069341]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.044465,51.2967578],[1.0442932,51.2967645],[1.044183,51.2967716],[1.0439533,51.2968127],[1.0437293,51.2968572],[1.0435156,51.2969462],[1.0432639,51.2970655],[1.0431781,51.2971221]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0403672,51.2971488],[1.0400648,51.2967681],[1.0398036,51.2963482],[1.0394586,51.2959108],[1.0393695,51.2957866],[1.0390812,51.2953843]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0419704,51.298306],[1.0422937,51.2981595],[1.0423969,51.2980926],[1.0425449,51.2978422],[1.0427622,51.2975186],[1.0429291,51.2972995],[1.0431781,51.2971221]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0416331,51.2982871],[1.0413275,51.2980405],[1.0410543,51.2977532],[1.0407938,51.2975184],[1.0404788,51.2972495],[1.0403672,51.2971488]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0404503,51.305998],[1.0404285,51.3064436],[1.0403856,51.3066682],[1.0403534,51.3067756],[1.040273,51.3069432],[1.0401737,51.3071528],[1.0401684,51.3072283],[1.0402193,51.3073356],[1.0403588,51.3075452],[1.0403937,51.3076106],[1.0404182,51.3077024]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0493361,51.2951713],[1.0493882,51.2952972],[1.0494816,51.2952833],[1.0495247,51.2952698]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0386537,51.3071447],[1.0389731,51.3072494],[1.0397145,51.3074922],[1.0404182,51.3077024],[1.0404945,51.3077252]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0433048,51.3045038],[1.0432395,51.3045158],[1.042144,51.3047176]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0451158,51.3025193],[1.0452846,51.3023295],[1.0453922,51.302018]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0441293,51.3025541],[1.0435416,51.3025466],[1.0425416,51.3029948],[1.0424158,51.3031045],[1.0424291,51.3042349],[1.04229,51.3044005],[1.0420615,51.3044937],[1.042144,51.3047176]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.0434815,51.3006651],[1.0428616,51.3005946],[1.0414267,51.3005862],[1.040673,51.3004135],[1.0401446,51.300286],[1.0398281,51.3002508],[1.0395572,51.3001519],[1.0392407,51.3000362],[1.0389751,51.2999691],[1.0385084,51.2999121],[1.0381235,51.2998992]]]}}
+]
+}

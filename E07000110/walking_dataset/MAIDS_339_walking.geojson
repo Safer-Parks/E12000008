@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_339_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4480858,51.1704384],[0.4495503,51.1708703],[0.4498678,51.1725152],[0.4499181,51.1729331],[0.450599,51.1730702]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4478518,51.1703546],[0.4480858,51.1704384]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4611448,51.1694873],[0.461142,51.1693634],[0.4609102,51.1690352],[0.4604982,51.1686239],[0.4602847,51.1683763],[0.4600787,51.1676205],[0.4599972,51.1675102],[0.4589059,51.1669215],[0.4575155,51.1663026],[0.4553642,51.1653567],[0.4552538,51.165249]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4552538,51.165249],[0.4551337,51.1651239]]]}}
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_346_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.817407,51.333271],[0.817683,51.333376],[0.8183498,51.3335792],[0.8191141,51.3337214],[0.8198458,51.3338738],[0.8201873,51.3340059],[0.8210655,51.3344936],[0.8215046,51.3348085],[0.8218786,51.335093],[0.822155,51.3352149],[0.822369,51.3352591]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.831506,51.3338096],[0.8321983,51.3340354],[0.8330056,51.334399],[0.8336574,51.3347258],[0.8336762,51.3348029],[0.8335233,51.3348917],[0.8332416,51.3349872],[0.8332416,51.3350409],[0.8333409,51.3351163],[0.8337915,51.334937]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8300954,51.3229068],[0.8308706,51.3237935],[0.8308142,51.323936],[0.8309878,51.3240679]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8331895,51.3202269],[0.8331372,51.3204367],[0.8333184,51.3209696],[0.8334853,51.3212765],[0.8340926,51.3229707],[0.8342815,51.3234697],[0.8340343,51.323567],[0.8340259,51.3236296],[0.8340944,51.323861]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8340944,51.323861],[0.8342815,51.3234697]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8320689,51.3308529],[0.8322274,51.3309275],[0.8323875,51.3313872]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8147114,51.3292619],[0.8145452,51.3292954],[0.8142948,51.3291495],[0.814054,51.3288873],[0.8139277,51.3286537],[0.8137989,51.32839],[0.8138824,51.3283155],[0.8145428,51.3282991]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8145452,51.3292954],[0.8146524,51.3294865],[0.8146811,51.3296816],[0.8146811,51.3298544],[0.8149648,51.3304038]]]}}
+]
+}

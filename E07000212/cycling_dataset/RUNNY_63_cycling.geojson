@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "RUNNY_63_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Guildford Road cycle path","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.511411,51.3857412],[-0.5113452,51.3856927]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Guildford Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5110565,51.3857239],[-0.5110219,51.3859131],[-0.5109585,51.3860455],[-0.5109074,51.3860757],[-0.510795,51.3861355]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5106128,51.3861815],[-0.5106051,51.3862235]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Guildford Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.512427,51.3858959],[-0.5123325,51.3859047],[-0.5120422,51.3859024],[-0.5119225,51.3858845],[-0.5117009,51.3858405],[-0.5116241,51.3858226],[-0.511411,51.3857412]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5113452,51.3856927],[-0.5112417,51.3857102],[-0.511144,51.3857267],[-0.5110565,51.3857239]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5076325,51.3881915],[-0.5076603,51.3881498],[-0.5075637,51.3881182]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Eastworth Road cycle path (south)","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5076526,51.3879898],[-0.5077528,51.3880039],[-0.5077629,51.3879889]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Guildford Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5134889,51.3856765],[-0.5133714,51.3857063],[-0.5130707,51.385735],[-0.5129228,51.3857612],[-0.5126908,51.3858571],[-0.512427,51.3858959]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Guildford Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.510795,51.3861355],[-0.5107287,51.3861653],[-0.5106128,51.3861815]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5078273,51.3880062],[-0.5077629,51.3879889]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5076944,51.3882093],[-0.5076325,51.3881915]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.507418,51.3879273],[-0.5075246,51.3879759],[-0.5075016,51.3880492]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Eastworth Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.507418,51.3879273],[-0.5068987,51.387757]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Eastworth Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5076526,51.3879898],[-0.507418,51.3879273]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5035844,51.3799504],[-0.5035806,51.3800974],[-0.5035633,51.380214],[-0.503386,51.3806901],[-0.5027381,51.3819436],[-0.502398,51.3826134],[-0.5022466,51.3829719],[-0.5021674,51.3830479]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5106051,51.3862235],[-0.5105744,51.3863278]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5095962,51.3862779],[-0.5095535,51.3862697],[-0.5095159,51.3862625]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5110614,51.384442],[-0.5114019,51.3841243]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5095306,51.3874546],[-0.5094775,51.3873964]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5110614,51.384442],[-0.5110553,51.384349]]]}}
+]
+}

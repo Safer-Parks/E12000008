@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESOX_63_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Singe Wood","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4955198,51.8234982],[-1.4956647,51.8233863],[-1.4964523,51.8224938],[-1.4970589,51.8219426]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Wood Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4970589,51.8219426],[-1.4980593,51.822519],[-1.4985075,51.8227232],[-1.4987434,51.8228349],[-1.498966,51.8229382],[-1.4994264,51.8231541],[-1.5006305,51.823571],[-1.5007708,51.8236046],[-1.5009879,51.8236219]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.498966,51.8229382],[-1.4987586,51.8231079],[-1.4987235,51.8231404],[-1.4987028,51.823168],[-1.4986964,51.8231927],[-1.4987028,51.8232193],[-1.4987299,51.82324]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4987434,51.8228349],[-1.4984747,51.8230833]]]}}
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESOX_29_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":"Harry Shells","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5102635,51.8072613],[-1.510413,51.8073564],[-1.5104974,51.8074431],[-1.5105448,51.8075348],[-1.5105839,51.8076293]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"West Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.512187,51.8054034],[-1.5123004,51.8053591],[-1.5127658,51.8051869],[-1.513228,51.8049928],[-1.5139004,51.8047696],[-1.5144888,51.8045816],[-1.5149288,51.8044181],[-1.5150203,51.8043554],[-1.5158163,51.8035972],[-1.5159844,51.8034703],[-1.5161747,51.8033801],[-1.5164096,51.8032915]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5091959,51.805341],[-1.5092441,51.805195]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"West Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.5106358,51.8058433],[-1.5107019,51.8057989],[-1.5107659,51.8057689],[-1.51122,51.8056376],[-1.5116692,51.8055306],[-1.5120143,51.8054544],[-1.512187,51.8054034]]]}}
+]
+}

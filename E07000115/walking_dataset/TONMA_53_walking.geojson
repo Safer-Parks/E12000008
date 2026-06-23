@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_53_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4905435,51.3328877],[0.49053,51.3328369],[0.490461,51.3328053],[0.4899865,51.3326615],[0.4892926,51.3324443],[0.4869748,51.331483],[0.4848243,51.33075],[0.4831334,51.3296973]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4913821,51.3351099],[0.4913391,51.3347614],[0.4915567,51.3343253],[0.4921985,51.3334693],[0.4929092,51.3330671],[0.493095,51.3328274],[0.4931621,51.3326699],[0.493154,51.3323213],[0.4933713,51.3320029],[0.4934111,51.3318619],[0.4933065,51.3316474],[0.4926766,51.3311063],[0.4917593,51.3304628],[0.4916279,51.3302499],[0.4911719,51.3298527],[0.4898925,51.3291304],[0.48964,51.3290262],[0.4881889,51.3282737],[0.4873681,51.3275044],[0.4870421,51.3269698],[0.4868826,51.3267083]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4786953,51.3319674],[0.4792187,51.3322051]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4868826,51.3267083],[0.4870011,51.3266633],[0.4873333,51.3266413],[0.4881061,51.32637],[0.4883073,51.3261773],[0.4885246,51.3260398],[0.4887548,51.32582],[0.4890163,51.3255577],[0.4891444,51.3254524]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4854897,51.3261577],[0.4855806,51.3262267],[0.485735,51.3261991]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4868826,51.3267083],[0.4860337,51.3261493],[0.4858648,51.3260555]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4853806,51.3275288],[0.4855317,51.3275048],[0.4856884,51.3274655],[0.4858152,51.3273973],[0.4859336,51.327356],[0.4860687,51.3273153],[0.4862013,51.3272712],[0.4863466,51.3271997],[0.4864962,51.3271381],[0.486642,51.3270881],[0.4867924,51.3270474],[0.4869406,51.3269944],[0.4870421,51.3269698]]]}}
+]
+}

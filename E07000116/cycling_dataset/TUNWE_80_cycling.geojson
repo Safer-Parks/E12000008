@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_80_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4248505,51.0767781],[0.4251628,51.0767363],[0.426085,51.076331],[0.42692,51.0759988],[0.4275119,51.0757108],[0.4278499,51.0756441],[0.4301222,51.0754219],[0.4302116,51.0754001],[0.4303181,51.0753779],[0.4309017,51.0752458],[0.4315318,51.0752062],[0.4321096,51.0752019],[0.4326052,51.0751977],[0.4328724,51.0752268]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4331253,51.0680843],[0.4329032,51.0684063],[0.4328334,51.0685075]]]}}
+]
+}

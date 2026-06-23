@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_65_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3244341,51.3700765],[1.3258493,51.3702265],[1.3292422,51.3705827],[1.3346373,51.3711484],[1.3399972,51.371691],[1.3402055,51.3717297],[1.3403905,51.3717935]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3494491,51.376745],[1.3493063,51.3766077],[1.3490918,51.3764569],[1.347974,51.375882],[1.3455912,51.3745983],[1.3451786,51.3743762],[1.3427293,51.3730579],[1.3403905,51.3717935]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.339484,51.37756],[1.3391312,51.3758721]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3340066,51.3750766],[1.3339933,51.3753935],[1.3339398,51.3757813],[1.3338964,51.3761858],[1.3338215,51.3767863],[1.3338146,51.3768259]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3303633,51.3758063],[1.3310173,51.3758234]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_56_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8278211,50.794095],[-0.8271581,50.7924275]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8354224,50.7908756],[-0.8354976,50.7909586],[-0.8355232,50.7909664],[-0.8358652,50.79107],[-0.83599,50.7910584]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.832432,50.7835492],[-0.8331172,50.7834508],[-0.8340976,50.7832593],[-0.8350202,50.7830914],[-0.8351007,50.7831101],[-0.8351865,50.7831406],[-0.8357538,50.7831422],[-0.8369769,50.7831609],[-0.8372934,50.7831185],[-0.8377682,50.7830727],[-0.8381289,50.7830778],[-0.8382563,50.7830828],[-0.8386613,50.7832355],[-0.8390141,50.7835035],[-0.8393373,50.7836984],[-0.839557,50.7838327],[-0.8397664,50.7839104],[-0.8398013,50.7840054],[-0.8398067,50.7841156],[-0.8397369,50.7841699],[-0.8397315,50.7842343],[-0.8397825,50.7842631],[-0.8411269,50.7845542]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8421642,50.787587],[-0.8424151,50.7876074]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8374572,50.7914924],[-0.8373546,50.7914861],[-0.8372699,50.7915093],[-0.8371085,50.7914974],[-0.8370897,50.7915237]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8365291,50.7925399],[-0.8366622,50.7925842]]]}}
+]
+}

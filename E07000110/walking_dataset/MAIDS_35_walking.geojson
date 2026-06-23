@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_35_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4427627,51.2441958],[0.4427294,51.2441141],[0.4426362,51.2440317],[0.44258,51.2439391],[0.4425593,51.2438594],[0.442583,51.2437353],[0.4426451,51.2435825],[0.4427235,51.2434566],[0.4429069,51.2430834],[0.4429424,51.2429871],[0.4430416,51.2427509],[0.4431211,51.2423607],[0.4431629,51.2421145],[0.4431796,51.2416823],[0.4432034,51.2415328],[0.4432175,51.2415083],[0.443241,51.2414673]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4434513,51.2471375],[0.4439791,51.2471822],[0.4440272,51.2469868],[0.4440395,51.246936],[0.443634,51.2468074]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4439791,51.2471822],[0.444651,51.2472338],[0.4447171,51.2469978],[0.4440395,51.246936]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4501048,51.2456923],[0.4494367,51.2455459],[0.4467245,51.2449394],[0.4447594,51.2445629],[0.4440396,51.2444769],[0.4439217,51.2444699]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.447915,51.2469107],[0.445402,51.246752],[0.4437084,51.2466375]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4399851,51.2375761],[0.4402097,51.238238],[0.4395467,51.2403117],[0.4404373,51.2404961],[0.4410964,51.2407727],[0.4424931,51.241299],[0.4432175,51.2415083]]]}}
+]
+}

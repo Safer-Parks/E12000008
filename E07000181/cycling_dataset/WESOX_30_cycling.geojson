@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WESOX_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.440937,51.8181695],[-1.4410078,51.8181867],[-1.4415304,51.8184272],[-1.4416001,51.8184379],[-1.441664,51.8184343],[-1.4419921,51.81821]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4377105,51.8133971],[-1.4376825,51.8135275],[-1.4374753,51.8140378]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Perrotts Hill Farm","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4264168,51.8165034],[-1.4264085,51.8164071],[-1.4263985,51.8163212],[-1.4262521,51.8158902],[-1.4260958,51.8153272],[-1.4260264,51.8152321],[-1.4258161,51.8150307],[-1.4257706,51.8149931]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4345079,51.8115809],[-1.4343075,51.8114198]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4430666,51.8107033],[-1.4434449,51.8104906]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.4302021,51.8138612],[-1.4301079,51.8138156],[-1.430027,51.8137566],[-1.4299366,51.8137134],[-1.4298692,51.8137171],[-1.4297991,51.8137316],[-1.4286854,51.8141536],[-1.4286773,51.8142446],[-1.4285858,51.814292],[-1.4284966,51.814329],[-1.4283299,51.8142982],[-1.4277646,51.8144693],[-1.426411,51.8148297],[-1.4261118,51.8149147],[-1.4258161,51.8150307],[-1.4255539,51.8151475],[-1.4253169,51.8152748],[-1.4248124,51.8155677],[-1.4238858,51.8161649],[-1.4227778,51.8168496],[-1.422658,51.8169225],[-1.4215888,51.817496],[-1.4203386,51.8181201],[-1.4200353,51.8184029]]]}}
+]
+}

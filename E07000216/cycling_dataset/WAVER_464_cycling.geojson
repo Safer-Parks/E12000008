@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_464_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Arkell Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7896814,51.1754447],[-0.7898313,51.1753271],[-0.7899857,51.1750453],[-0.7903076,51.1747695],[-0.7907148,51.1743912],[-0.7911579,51.174235],[-0.7912917,51.1740437],[-0.7914424,51.1737827],[-0.7913506,51.1735845],[-0.7910264,51.1735251],[-0.7908442,51.1732752]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7990963,51.1722264],[-0.7988585,51.1724819],[-0.7984503,51.1726598],[-0.797946,51.172828],[-0.7977277,51.1728748],[-0.7973994,51.1729864],[-0.7970341,51.1730298],[-0.796873,51.1730498]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7935606,51.1731683],[-0.7935614,51.1731415],[-0.7935493,51.1730463],[-0.7930265,51.1730665],[-0.7927335,51.1730897],[-0.7926251,51.1730754],[-0.7925026,51.173052],[-0.7922511,51.1730328]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.791439,51.1814516],[-0.7902858,51.1822864],[-0.7899648,51.1823089],[-0.7886124,51.1813875]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7922511,51.1730328],[-0.7919625,51.1727387],[-0.7918235,51.1724331]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7850873,51.1759409],[-0.7850546,51.1759138],[-0.7850324,51.1758934],[-0.7849495,51.1758266]]]}}
+]
+}

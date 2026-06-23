@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_266_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.4024403,51.1744146],[1.4023242,51.1741042]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.4011025,51.1705202],[1.4012446,51.170389],[1.4012473,51.1703066],[1.4012654,51.1702826],[1.4012929,51.1702461],[1.4013358,51.1701838],[1.4013385,51.1701082],[1.4012285,51.1698576],[1.4009603,51.1694203],[1.4008638,51.1692252],[1.4007618,51.1690436],[1.400609,51.1688603],[1.4005043,51.1687341]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.4008343,51.170505],[1.4009523,51.1703974],[1.4010193,51.1703638],[1.4011481,51.1703217],[1.4012654,51.1702826]]]}}
+]
+}

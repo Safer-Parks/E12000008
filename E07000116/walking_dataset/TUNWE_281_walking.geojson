@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_281_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"High Weald Landscape trail","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4118463,51.1494703],[0.4128071,51.1496278],[0.4131209,51.1496777],[0.4138499,51.1497974],[0.41511,51.1490432],[0.4162349,51.1483936],[0.4164039,51.1483875],[0.4174757,51.1477924],[0.4196194,51.1465522],[0.4199984,51.146537],[0.420684,51.1455239],[0.4208336,51.145483],[0.4209664,51.1454482],[0.4215433,51.1450711],[0.4216252,51.1449597]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4045607,51.1457916],[0.408403,51.1457922],[0.4105131,51.1458551],[0.4117244,51.1462157],[0.4122902,51.1463795],[0.4129786,51.1465788],[0.4133803,51.1466503],[0.4139003,51.146682],[0.4141656,51.1469109],[0.4153953,51.1477767],[0.4162349,51.1483936],[0.4168027,51.1487585],[0.4175554,51.1492762]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4199625,51.1588211],[0.4202571,51.1586387],[0.4198816,51.1579524],[0.4207936,51.1575217],[0.4213407,51.1574679],[0.4214588,51.1574141],[0.4201619,51.1552554]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4248713,51.1539645],[0.4247525,51.1535784],[0.4248813,51.1530037],[0.424553,51.1523038],[0.4246345,51.1515326],[0.4248459,51.1510144],[0.4251173,51.1506308],[0.4249885,51.1505164],[0.4243448,51.1504962],[0.4243234,51.1501866],[0.4236944,51.1501316]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4222874,51.1444723],[0.4225121,51.1445141]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"High Weal Landscape trail","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4222874,51.1444723],[0.4220157,51.1442163],[0.4215719,51.1438972],[0.4213044,51.1437096],[0.4209278,51.1434445],[0.4208481,51.1431962],[0.421034,51.1419376],[0.4209085,51.140623],[0.4205777,51.1397763],[0.4202977,51.1392992],[0.420346,51.1391387],[0.4205246,51.1389357],[0.4206695,51.1386934],[0.4207334,51.1383867]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"High Weald Landscape trail","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4216815,51.1448831],[0.4220504,51.1446696],[0.4222655,51.1446362],[0.4222874,51.1444723]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"High Weald Landscape trail","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4216252,51.1449597],[0.4216815,51.1448831]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4231276,51.1458127],[0.4234598,51.1458288],[0.4235264,51.1457912],[0.4235899,51.1456619]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4236281,51.1455844],[0.423786,51.1452635]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4235899,51.1456619],[0.4236281,51.1455844]]]}}
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_392_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5031375,50.925339],[-0.5060285,50.9270294],[-0.5086368,50.9286196],[-0.5086712,50.9286724],[-0.5084889,50.9293365],[-0.5084566,50.929587],[-0.5084931,50.9298825],[-0.5087064,50.9302495],[-0.5088085,50.9304609],[-0.508881,50.9306873],[-0.5088957,50.9307632],[-0.508873,50.9308697],[-0.508901,50.9309171]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5083047,50.9310439],[-0.5080713,50.9306975],[-0.507176,50.9307701],[-0.5034352,50.9287544],[-0.5029886,50.928478],[-0.5026456,50.9283376]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Quell Farm","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5328156,50.9338109],[-0.5327436,50.9338433],[-0.5311584,50.93444],[-0.5310578,50.9344988]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Quell Farm","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5305417,50.9354666],[-0.5306323,50.9353959],[-0.530753,50.9351414],[-0.5308908,50.934826],[-0.5310578,50.9344988]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.515808,50.9339253],[-0.5157735,50.9338572],[-0.515717,50.9338051],[-0.5158531,50.9327529],[-0.5158602,50.9326874]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5094326,50.9315847],[-0.5095508,50.931657],[-0.5095875,50.9316822]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5173555,50.9309276],[-0.5175245,50.9311405]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_557_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7312148,51.0784778],[0.7278682,51.0788266],[0.7273961,51.0787996],[0.7263805,51.0790167],[0.7262128,51.0790059],[0.7245914,51.0789016],[0.7239307,51.0788536],[0.7233406,51.0789681],[0.7226433,51.0790355],[0.7218386,51.079076],[0.7207657,51.0791636],[0.7188881,51.0794291],[0.7189301,51.0798479],[0.7192104,51.0805733],[0.7154257,51.0812005]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7083378,51.0739967],[0.7123843,51.0756167]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7160156,51.0781797],[0.7166153,51.0782803],[0.7184457,51.0783042],[0.7188662,51.0790558],[0.7188881,51.0794291]]]}}
+]
+}

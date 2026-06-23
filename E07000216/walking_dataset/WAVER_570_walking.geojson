@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_570_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6722372,51.1336735],[-0.6720861,51.1336697],[-0.6712959,51.1336869]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6778236,51.133242],[-0.6778163,51.133236],[-0.6740518,51.1320806],[-0.6739236,51.1320461]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6729581,51.1324055],[-0.6731567,51.1321983],[-0.6734893,51.1320149],[-0.67364,51.131916]]]}}
+]
+}

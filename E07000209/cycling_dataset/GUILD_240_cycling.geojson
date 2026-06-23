@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GUILD_240_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.4367657,51.1956277],[-0.4365186,51.1955813],[-0.4360569,51.1954135],[-0.4358329,51.1951835],[-0.4353335,51.1948668],[-0.4349103,51.1942052],[-0.4339178,51.1930891],[-0.4328472,51.1913574]]]}}
+]
+}

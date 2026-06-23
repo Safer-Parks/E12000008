@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_503_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8082982,51.2902701],[0.8068335,51.289113],[0.8055055,51.2880786],[0.8053911,51.2880309],[0.8052218,51.2879981],[0.8051221,51.2879447],[0.8049039,51.287796],[0.8045457,51.2875738],[0.8039015,51.2871743],[0.8031548,51.2868044],[0.8030545,51.286808]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.816345,51.2787007],[0.8164007,51.2786686],[0.816173,51.2784955],[0.8159804,51.2785926]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8160212,51.2783735],[0.8159769,51.2783188],[0.8159512,51.278237],[0.8158441,51.2780728],[0.8158253,51.2780635],[0.8157792,51.2780647]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.816173,51.2784955],[0.8160212,51.2783735]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8158608,51.2774403],[0.8157845,51.2774703],[0.8150783,51.2777473]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8172132,51.2789083],[0.8165567,51.2793417],[0.8164055,51.2793442]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8082901,51.2819631],[0.8088231,51.2817239],[0.8090833,51.2815154],[0.8091592,51.2814646],[0.8093544,51.2814306],[0.8096335,51.2812679],[0.8098852,51.2811024]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8091592,51.2814646],[0.8092064,51.2814076],[0.8092353,51.2811494],[0.8092045,51.2809926],[0.809222,51.280859],[0.8093369,51.2806717]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8009512,51.2840249],[0.8008501,51.2843384],[0.8005505,51.2844157]]]}}
+]
+}

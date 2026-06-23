@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_754_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2638811,51.4066099],[0.2640224,51.4062435],[0.2640353,51.40621],[0.2640492,51.4061694]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2617541,51.4091914],[0.2617514,51.4090108],[0.2616495,51.4088016],[0.2616441,51.4085741],[0.2617407,51.4080989],[0.2616978,51.4071737],[0.2617031,51.4066893],[0.2617179,51.4066032],[0.2618171,51.4065413],[0.2619633,51.4065128],[0.2623871,51.4064861],[0.2627358,51.4065028],[0.2637845,51.4066366],[0.2638811,51.4066099]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2821993,51.4077776],[0.2821121,51.4077802],[0.2816842,51.4077944]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.280232,51.4072375],[0.2802171,51.4072126],[0.280197,51.4071754]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2811009,51.4071687],[0.2810593,51.4070842],[0.2810419,51.4070457]]]}}
+]
+}

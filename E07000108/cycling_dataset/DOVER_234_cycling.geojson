@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_234_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3524029,51.2072784],[1.3524935,51.2073977],[1.3527791,51.2076004],[1.353245,51.2079207],[1.3535668,51.2081139],[1.3538762,51.2082723],[1.3546612,51.2086373]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3388025,51.2100215],[1.3387822,51.2099583],[1.3387437,51.2098389],[1.3380657,51.2092797]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3391092,51.2091443],[1.3395444,51.2095233]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3396099,51.2093438],[1.3395444,51.2095233],[1.3395571,51.2096261],[1.3394872,51.2097231]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3395571,51.2096261],[1.3396454,51.2097099]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3391092,51.2091443],[1.3386515,51.2091503],[1.3382287,51.2090872],[1.3377329,51.2086716]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3491906,51.2106636],[1.3496767,51.2102639],[1.349932,51.210055],[1.3500221,51.2099354],[1.3500179,51.209688]]]}}
+]
+}

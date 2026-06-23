@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_226_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4587167,51.0935273],[0.4593489,51.0942257]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4662589,51.0956829],[0.4669561,51.0952121],[0.4674172,51.0946245],[0.4675454,51.0944974],[0.4679907,51.0940558],[0.4681366,51.0935222],[0.468253,51.0934332]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4675454,51.0944974],[0.4672522,51.094382],[0.4671879,51.0942499],[0.4671063,51.0940612],[0.4671707,51.0938564]]]}}
+]
+}

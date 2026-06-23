@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUOX_92_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1908789,51.6279395],[-1.1931194,51.6297373]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.1931194,51.6297373],[-1.1931901,51.629794],[-1.193273,51.6298605],[-1.1933481,51.6299204],[-1.1933266,51.6299937]]]}}
+]
+}

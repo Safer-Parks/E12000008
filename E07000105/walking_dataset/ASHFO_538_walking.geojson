@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_538_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7857812,51.1079119],[0.7856036,51.1070414],[0.7858343,51.1068932],[0.7858691,51.1066978],[0.7857645,51.1064587],[0.7854346,51.1059147],[0.7850954,51.1055162],[0.7850479,51.1054242]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7850479,51.1054242],[0.7850028,51.105332]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7850028,51.105332],[0.7838226,51.103631],[0.7836885,51.103375],[0.7831574,51.1029371],[0.7818539,51.101327],[0.7809848,51.0995618],[0.7804108,51.0978438]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7746143,51.1095689],[0.7744236,51.1095907],[0.77424,51.109619]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.7803835,51.1103447],[0.7814615,51.110662],[0.7816729,51.1107283],[0.78209,51.111116],[0.7828279,51.1114193]]]}}
+]
+}

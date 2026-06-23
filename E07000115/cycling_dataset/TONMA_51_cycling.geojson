@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_51_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3255317,51.2856796],[0.3262071,51.2858735],[0.3264012,51.2857034]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.3160583,51.282965],[0.3169305,51.2831637],[0.3184939,51.2836206],[0.3198252,51.2842569],[0.321177,51.2848718],[0.3229795,51.2856746],[0.3253889,51.2861447]]]}}
+]
+}

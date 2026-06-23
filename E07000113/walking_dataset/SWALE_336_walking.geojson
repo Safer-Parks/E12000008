@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_336_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8136305,51.4212964],[0.8138036,51.4208612],[0.814002,51.4204196],[0.8143735,51.4198889],[0.8155322,51.4191964],[0.8156181,51.4186879],[0.8158891,51.4185776],[0.8163905,51.4183734],[0.8177408,51.4172751],[0.8194702,51.4160453],[0.8196615,51.4159895]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8246934,51.4124722],[0.8245298,51.4122195],[0.824554,51.4118247],[0.8243421,51.4116039],[0.8249482,51.4113797]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8280658,51.4179004],[0.8278284,51.4175697],[0.8275978,51.4174968],[0.827381,51.4171746],[0.8273918,51.4170856],[0.8277501,51.4169839]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8235298,51.4181462],[0.8234801,51.4180529],[0.8234054,51.4180552],[0.8226973,51.4181475],[0.8226501,51.4182292]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8204848,51.4215584],[0.819895,51.4205074]]]}}
+]
+}

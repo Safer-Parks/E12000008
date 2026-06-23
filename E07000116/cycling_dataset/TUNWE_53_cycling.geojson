@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_53_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Rusthall Park","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2431981,51.1370949],[0.2428977,51.136866],[0.2425544,51.1365698],[0.2424685,51.136314],[0.2427729,51.1346218],[0.2426013,51.1343121]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2300474,51.1390419],[0.2298415,51.1388484],[0.2294783,51.1383616]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2344368,51.131215],[0.2346447,51.1310359],[0.2350524,51.1307599],[0.235283,51.1305175],[0.2353313,51.1302886],[0.2354332,51.1301068],[0.2357605,51.1300496],[0.2359911,51.130063],[0.2361735,51.1301203],[0.2363507,51.130107]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_134_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1106948,51.1524028],[-0.1101235,51.1523539]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1108743,51.1524246],[-0.1108605,51.1524246],[-0.1108475,51.1524246],[-0.1108073,51.1524221],[-0.1107283,51.1524135],[-0.1107143,51.152411],[-0.1107034,51.1524073],[-0.1106948,51.1524028],[-0.1106907,51.1523996],[-0.1106852,51.152393],[-0.1106814,51.1523876],[-0.1106773,51.1523808],[-0.1106744,51.1523727],[-0.1106733,51.1523674],[-0.110672,51.152359],[-0.1106679,51.152306]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1117527,51.1553616],[-0.1119286,51.1553108],[-0.1120836,51.1552685]]]}}
+]
+}

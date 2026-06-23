@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_387_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5031375,50.925339],[-0.5060285,50.9270294],[-0.5086368,50.9286196],[-0.5086712,50.9286724],[-0.5084889,50.9293365],[-0.5084566,50.929587],[-0.5084931,50.9298825],[-0.5087064,50.9302495],[-0.5088085,50.9304609],[-0.508881,50.9306873],[-0.5088957,50.9307632],[-0.508873,50.9308697],[-0.508901,50.9309171]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5248268,50.9280536],[-0.522225,50.9278503],[-0.5220548,50.9278326]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.515808,50.9339253],[-0.5157735,50.9338572],[-0.515717,50.9338051],[-0.5158531,50.9327529],[-0.5158602,50.9326874]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.5173555,50.9309276],[-0.5175245,50.9311405]]]}}
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_121_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4414421,51.1465866],[0.4411027,51.1463919],[0.440188,51.1458063],[0.4378009,51.1433445]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.438509,51.1379072],[0.4387556,51.1380969],[0.4388657,51.1381816],[0.4391223,51.1384394],[0.4391332,51.1384504],[0.4392583,51.1385761],[0.4395255,51.1388446],[0.4395492,51.1388815],[0.4403594,51.140142],[0.4403919,51.1401926],[0.4405206,51.141549],[0.4405689,51.1417392],[0.4409498,51.1425132],[0.4410866,51.1425654],[0.441674,51.1426916]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4329791,51.1438823],[0.4331751,51.1438235],[0.4331987,51.143798],[0.43313,51.1435907],[0.4331343,51.1433753]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4323757,51.1414636],[0.4323833,51.1413872],[0.432534,51.1412764]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4371858,51.1430258],[0.4375227,51.1431146],[0.4383638,51.1428696],[0.439514,51.1426839],[0.4408057,51.1425519],[0.4425456,51.1429394]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.434293,51.1484182],[0.4339291,51.1482559]]]}}
+]
+}

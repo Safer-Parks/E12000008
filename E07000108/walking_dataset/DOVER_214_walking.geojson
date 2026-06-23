@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_214_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3446059,51.2368497],[1.3429586,51.2371607],[1.3417951,51.2377479],[1.3361081,51.2368782],[1.3336597,51.2376712]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3094369,51.245366],[1.3098433,51.2451678],[1.3104525,51.2450188],[1.3108355,51.244928],[1.3114796,51.2448082],[1.3117407,51.2448336],[1.3119209,51.2448981],[1.3126853,51.2440799],[1.3126807,51.2439953],[1.3132836,51.2436887],[1.3135612,51.2435802],[1.313623,51.243425],[1.3137641,51.2430649],[1.3143104,51.2428152],[1.3160287,51.2422037],[1.3165014,51.242004],[1.3166786,51.2419204],[1.3170035,51.2419022],[1.3175838,51.2415934],[1.3210099,51.2399391],[1.3211033,51.2401703],[1.3212111,51.2402922],[1.3234257,51.2419709]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3336597,51.2376712],[1.3333695,51.2377852],[1.3332294,51.2378805],[1.3325661,51.2382698],[1.3318498,51.2385398],[1.3307454,51.238966],[1.329277,51.2395302],[1.3278069,51.2400917],[1.327101,51.2403598]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3371778,51.239935],[1.3369555,51.2398696]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3312632,51.2445327],[1.3311581,51.2445797],[1.3311109,51.2446656],[1.331216,51.2447758],[1.3313641,51.2448604],[1.3317203,51.2449437]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3346278,51.2385048],[1.33471,51.2384109],[1.3347202,51.2380963]]]}}
+]
+}

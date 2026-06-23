@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_34_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3962557,51.3265727],[1.3971349,51.326602]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3964571,51.3283532],[1.3964237,51.3280684],[1.3963616,51.327498],[1.3963592,51.3274786],[1.3962937,51.3269498],[1.3962557,51.3265727]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3971349,51.326602],[1.3973126,51.3266073]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Prince Edward Promenade","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3979824,51.3266009],[1.3980116,51.3266004],[1.398157,51.3266008],[1.3994111,51.3265969],[1.4001581,51.3266064],[1.4002275,51.3265999],[1.4002982,51.32661],[1.4013325,51.3266285],[1.4017357,51.3266601],[1.4021435,51.3266921],[1.4026245,51.3267213],[1.4028336,51.326734],[1.4035896,51.3267937],[1.4043474,51.3268668],[1.4044042,51.3268729],[1.4044918,51.3268823],[1.4059339,51.3270353],[1.4066016,51.3271278],[1.4067382,51.3271474],[1.4079919,51.3273306],[1.4086988,51.3274469],[1.4094099,51.3275212]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3889828,51.330707],[1.3889223,51.3307105],[1.388889,51.3305315],[1.3886243,51.3305483],[1.3886092,51.3304048],[1.388768,51.3303807],[1.3888061,51.3303284],[1.3888233,51.3298618],[1.388952,51.3294462],[1.3892267,51.3289742]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Prince Edward Promenade","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[1.3973126,51.3266073],[1.3976663,51.3266058],[1.3979824,51.3266009]]]}}
+]
+}

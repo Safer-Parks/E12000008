@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_335_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4758144,51.1752389],[0.4760323,51.1751892]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4756066,51.1753089],[0.4758144,51.1752389]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4871048,51.1744415],[0.4868223,51.1745791],[0.4866783,51.1748424],[0.4864832,51.1749202]]]}},
+{"type":"Feature","properties":{"highway":"path","name":"Plantation Lane","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4883296,51.1740865],[0.4882132,51.1741164],[0.4874222,51.1743196],[0.4871048,51.1744415]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4873427,51.1712765],[0.4873748,51.1713252],[0.4883176,51.1711091],[0.4885107,51.1710326],[0.4886314,51.170983],[0.4887186,51.1709611],[0.4888031,51.170951],[0.4889211,51.1709485],[0.4890458,51.1709502],[0.4890459,51.1709293]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.4785895,51.1710591],[0.4784098,51.1710501],[0.4782982,51.170999],[0.4779313,51.1707111],[0.4778197,51.1706734],[0.4768744,51.1706626],[0.4767189,51.1705538],[0.4762511,51.1700573],[0.4762404,51.1699981],[0.476603,51.1696652]]]}}
+]
+}

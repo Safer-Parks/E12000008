@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_89_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5038012,51.2956382],[0.5039226,51.2956304],[0.5047352,51.2955961]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5047809,51.2955639],[0.5047352,51.2955961],[0.5049585,51.2956003],[0.5056736,51.295575],[0.505857,51.2955685],[0.5061175,51.2955507],[0.5061454,51.2955684]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5016565,51.2894917],[0.5016812,51.2894629],[0.5030354,51.2886915],[0.5034652,51.2883948],[0.5034878,51.288358],[0.5033412,51.2880253]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.502895,51.2892343],[0.5027558,51.2892639],[0.5025288,51.2894031],[0.5023408,51.2895222],[0.502226,51.2895874]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5009635,51.2890625],[0.5010268,51.289008],[0.5010793,51.2888952]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5046476,51.2888657],[0.5047869,51.2887645]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5030278,51.2901633],[0.5030447,51.2901913],[0.5031514,51.2902373],[0.5031944,51.2902949],[0.5032172,51.2903536],[0.5032364,51.2904617]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5034825,51.2921487],[0.5032763,51.2921119],[0.5029031,51.2920535],[0.5025595,51.2920198],[0.5020783,51.2921364]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.504247,51.291059],[0.5040864,51.2912491],[0.5039437,51.2914752],[0.5038458,51.2916237],[0.5035709,51.2920628],[0.5034825,51.2921487]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5033263,51.2922025],[0.5033954,51.2921187]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5025571,51.2931942],[0.5026885,51.2930594],[0.5028974,51.292836],[0.5031418,51.2925714],[0.503289,51.292343],[0.5033263,51.2922025]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5033954,51.2921187],[0.5034177,51.2920291],[0.5035728,51.2918672],[0.5037607,51.291629],[0.5039437,51.2914752],[0.5041378,51.291394],[0.5043572,51.291237],[0.5044553,51.291157]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5047655,51.2954727],[0.5049796,51.2954088]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5047809,51.2955639],[0.5048056,51.2955195],[0.5047655,51.2954727]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5047655,51.2954727],[0.5039194,51.2954962],[0.5037334,51.2955014],[0.5034246,51.295497],[0.5031822,51.2955042],[0.502639,51.2955693],[0.5018303,51.2956284],[0.5016003,51.2955797],[0.5011985,51.2956489],[0.5009271,51.2956287]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5039249,51.2956022],[0.5039418,51.2955599],[0.5039199,51.2955181]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5039226,51.2956304],[0.5039249,51.2956022]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5039199,51.2955181],[0.5039194,51.2954962]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5036954,51.2931787],[0.5038983,51.2927626],[0.5044133,51.2921274],[0.5048835,51.2915137]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5076193,51.2945664],[0.5075224,51.2947335],[0.5073274,51.2949248]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5056736,51.295575],[0.5057347,51.2956032],[0.5057803,51.2956176],[0.5058313,51.2956217],[0.5059026,51.2956153],[0.5060115,51.2956072]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5016285,51.2894743],[0.5015101,51.2894861],[0.5013198,51.2894449]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5078619,51.2886679],[0.5079667,51.2886421],[0.5082296,51.2885765]]]}}
+]
+}

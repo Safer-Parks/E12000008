@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "VALWH_61_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Stileway Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3280405,51.5784872],[-1.3280328,51.5783189],[-1.3281082,51.5780557]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Stileway Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3281082,51.5780557],[-1.3281477,51.57721]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Hungerford Road","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-1.3270795,51.5783532],[-1.3281082,51.5780557]]]}}
+]
+}

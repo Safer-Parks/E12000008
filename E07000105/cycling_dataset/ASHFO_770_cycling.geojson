@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_770_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.6560518,51.1512942],[0.6561765,51.1514134],[0.6561207,51.1520514],[0.6563524,51.1522506],[0.6579019,51.1530115],[0.6588546,51.1536413]]]}}
+]
+}

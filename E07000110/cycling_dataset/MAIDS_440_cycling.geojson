@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_440_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5823147,51.2533501],[0.5832106,51.2533971],[0.5832892,51.2533856],[0.5845678,51.253199],[0.5852437,51.2530815],[0.5859657,51.2529101]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5826419,51.252823],[0.5824274,51.2531755],[0.5823147,51.2533501],[0.5822664,51.253612],[0.5823362,51.2540484],[0.5825078,51.2543506],[0.5825722,51.2544782],[0.5825078,51.254824],[0.5822664,51.2558144],[0.5820572,51.2565899]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5859657,51.2529101],[0.5862274,51.2531945],[0.5865973,51.2535144],[0.5867191,51.2536576]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5859657,51.2529101],[0.5861771,51.2528599],[0.5871695,51.2524671]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.5907599,51.2527335],[0.5900527,51.2521578],[0.5897901,51.2519443],[0.589505,51.2516131]]]}}
+]
+}

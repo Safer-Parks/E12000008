@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_273_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7840464,50.7642078],[-0.7838684,50.7643821],[-0.7818211,50.765878],[-0.7809534,50.7665164],[-0.7817387,50.7671694],[-0.7828333,50.7679718],[-0.7828998,50.7679949]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7934002,50.7662871],[-0.7932065,50.7662031],[-0.7922329,50.7662569],[-0.7919225,50.766238],[-0.7915384,50.766136],[-0.7892774,50.7662847],[-0.7889496,50.7661598]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7828998,50.7679949],[-0.7831968,50.7682365],[-0.7832387,50.7683098]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7828333,50.7679718],[-0.7824183,50.7678928],[-0.7820203,50.7677687],[-0.7812607,50.7674901]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7828998,50.7679949],[-0.7831338,50.767835],[-0.7833086,50.7677312],[-0.7833409,50.7676802],[-0.7832225,50.7676156]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7812343,50.7742419],[-0.7828052,50.773245],[-0.7818182,50.772252],[-0.7811452,50.7711312],[-0.7807496,50.7709017],[-0.7807974,50.7702264],[-0.7806651,50.7697228],[-0.7805609,50.7694968],[-0.7804985,50.7693616],[-0.7802041,50.7689964]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7859656,50.7723346],[-0.7868053,50.772411],[-0.7867926,50.7725345]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7892435,50.7777156],[-0.7933955,50.7752664],[-0.7942967,50.7754428]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7869581,50.7838484],[-0.786926,50.783475],[-0.7869153,50.7832105],[-0.7869797,50.7828442],[-0.7871084,50.7824778],[-0.7872694,50.7821048],[-0.787441,50.7817113],[-0.7876127,50.7812365],[-0.78772,50.7808362],[-0.7877629,50.7805106],[-0.7882736,50.7778058]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.8004765,50.7775864],[-0.799629,50.7777767],[-0.798878,50.7779259],[-0.7920759,50.7782719],[-0.7916896,50.7781634],[-0.7912176,50.7780073],[-0.7907991,50.7779463],[-0.790134,50.7778581],[-0.7895331,50.7778377],[-0.7892435,50.7777156],[-0.7888993,50.7775969],[-0.7882736,50.7778058]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7881081,50.7740948],[-0.7878,50.7740955]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7881765,50.7742534],[-0.7881081,50.7740948]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7890699,50.7739101],[-0.7886875,50.7740414],[-0.7882918,50.7741364],[-0.7881081,50.7740948]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.7883471,50.7679414],[-0.7883224,50.7679988],[-0.7882668,50.7680716],[-0.7882284,50.7681224],[-0.7881657,50.768182],[-0.7880774,50.7682519]]]}}
+]
+}

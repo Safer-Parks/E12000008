@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_1051_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9063687,50.9520299],[0.9064244,50.9519908],[0.9064739,50.9519684],[0.9065916,50.9518956]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9026302,50.9652664],[0.9025126,50.9651981],[0.9024296,50.9651499]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9026718,50.9543001],[0.9025941,50.9540958],[0.9019916,50.9538395],[0.9005023,50.9533876]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.8968824,50.9627651],[0.8940902,50.9634577]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.9028542,50.9590326],[0.9027028,50.9591228],[0.8999133,50.9616873],[0.8998382,50.961787]]]}}
+]
+}

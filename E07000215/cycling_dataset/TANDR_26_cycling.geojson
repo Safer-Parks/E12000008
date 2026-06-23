@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_26_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0109379,51.2405964],[0.011263,51.2405613],[0.0113751,51.2405487],[0.011484,51.2405279]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Juniper Close","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0108799,51.2393785],[0.010891,51.2393984],[0.010893,51.2394682],[0.010891,51.2395265]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Foyle Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0030606,51.2224779],[0.0031546,51.2225424],[0.003582,51.2226801],[0.0037546,51.2227358],[0.0043585,51.2229304],[0.0048493,51.2230631],[0.0048865,51.2231144],[0.0049405,51.2231891],[0.00497,51.223347],[0.0049459,51.2235654],[0.0048493,51.2238392],[0.004675,51.2241752],[0.0043612,51.2247816],[0.0043719,51.2249344],[0.0045731,51.2251276],[0.0049137,51.2253359],[0.0051497,51.2255291],[0.0053965,51.2258986],[0.0056111,51.2262413],[0.0058257,51.2264899],[0.0064855,51.2272054],[0.0067939,51.2275531],[0.0071829,51.2279646],[0.0073962,51.2281788]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.011469,51.2404317],[0.0125589,51.2402922]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0137803,51.2401183],[0.0137738,51.2401119],[0.0137706,51.2401049],[0.0137714,51.2400976],[0.0137759,51.2400909],[0.0137838,51.2400855],[0.0137938,51.2400821],[0.013805,51.2400808],[0.0138162,51.2400819],[0.0138263,51.2400852],[0.0138342,51.2400904],[0.0138389,51.2400969],[0.0138401,51.240104],[0.0138375,51.2401109],[0.0138316,51.240117],[0.0138228,51.2401215],[0.0138121,51.240124],[0.0138007,51.2401243]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0138007,51.2401243],[0.0138087,51.2401306],[0.0138129,51.2401382],[0.0138129,51.2401463],[0.0138087,51.2401539],[0.0138007,51.2401602],[0.0137898,51.2401646],[0.0137772,51.2401664],[0.0137644,51.2401656],[0.0137528,51.2401621],[0.0137436,51.2401565],[0.0137378,51.2401493],[0.0137362,51.2401413],[0.0137388,51.2401334],[0.0137455,51.2401265],[0.0137554,51.2401213],[0.0137675,51.2401185],[0.0137803,51.2401183],[0.0138007,51.2401243]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0137714,51.2400976],[0.0136955,51.2400281]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0137436,51.2401565],[0.0137045,51.2401628]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0138389,51.2400969],[0.013885,51.2400847]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0137772,51.2401664],[0.0138537,51.2402048]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0137772,51.2401664],[0.0137599,51.240296]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.014181,51.2394941],[0.0140985,51.2394637],[0.0138899,51.239387],[0.0137461,51.2394126]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0138764,51.2397552],[0.013884,51.2395482],[0.0138899,51.239387]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.013884,51.2395482],[0.0140985,51.2394637]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0137461,51.2394126],[0.0135035,51.2391671]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.009644,51.2323627],[0.0088688,51.2323643]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0013197,51.2416813],[-0.0010579,51.2416724]]]}}
+]
+}

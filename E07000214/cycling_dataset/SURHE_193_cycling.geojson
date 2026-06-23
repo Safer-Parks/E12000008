@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SURHE_193_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Blind Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6421382,51.3526107],[-0.6415256,51.3522263],[-0.6412576,51.3520651],[-0.6402722,51.3517318],[-0.6397376,51.3516947],[-0.6390429,51.3516176],[-0.638323,51.351569],[-0.637838,51.351574],[-0.6373324,51.3516042],[-0.6368607,51.3516833],[-0.6359364,51.35196],[-0.6354937,51.3521305],[-0.6352556,51.3522772],[-0.6348362,51.3527269]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":"Blind Lane","category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6348362,51.3527269],[-0.6343936,51.3530502],[-0.6338954,51.3533134],[-0.6335863,51.3534967],[-0.6334168,51.3535299]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Blind Lane","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6334168,51.3535299],[-0.6330578,51.3536002],[-0.6327332,51.3536244],[-0.6324276,51.3536478],[-0.6321301,51.3537137]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.6321011,51.3528259],[-0.632794,51.3526775],[-0.6328562,51.3526187],[-0.6329138,51.3525031],[-0.6329214,51.3523856],[-0.6328516,51.3523174]]]}}
+]
+}
