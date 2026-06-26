@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HASTI_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8574321576, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5915494, 50.8573738 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8574321575, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5915841, 50.8573796 ] } }
+]
+}

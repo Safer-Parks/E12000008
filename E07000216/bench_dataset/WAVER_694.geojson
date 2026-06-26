@@ -3,9 +3,6 @@
 "name": "WAVER_694",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 11299908235, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5581166, 51.1945168 ] } },
-{ "type": "Feature", "properties": { "osm_id": 11299908234, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5581181, 51.1945251 ] } },
-{ "type": "Feature", "properties": { "osm_id": 11299908233, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5581229, 51.1945296 ] } },
 { "type": "Feature", "properties": { "osm_id": 11299908232, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5581374, 51.1945303 ] } }
 ]
 }
