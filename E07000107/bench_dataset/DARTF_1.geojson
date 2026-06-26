@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "DARTF_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12602219636, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3110061, 51.437962 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219637, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3110276, 51.4379653 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219638, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111164, 51.4379703 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219639, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111292, 51.437976 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219640, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111389, 51.4379839 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219577, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3110117, 51.4380097 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219552, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111156, 51.4380139 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219578, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3110179, 51.4380177 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219551, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111047, 51.4380226 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219579, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3110279, 51.4380234 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219550, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.311094, 51.4380307 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219635, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3107852, 51.4380691 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219518, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111439, 51.4383665 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219517, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111335, 51.4383768 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602219516, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3111204, 51.4383828 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12602165694, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3110227, 51.43842 ] } }
+]
+}

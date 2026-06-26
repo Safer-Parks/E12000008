@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_14",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8094523287, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.752019, 51.1834422 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3649311716, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7520511, 51.1834808 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3649311715, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7535387, 51.1837183 ] } }
+]
+}

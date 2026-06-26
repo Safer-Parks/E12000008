@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TESVA_44",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4665035542, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4640483, 51.205168 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUOX_236",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9182532458, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9512846, 51.4657103 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9182532460, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9513061, 51.4657168 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9182532459, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.949697, 51.465755 ] } }
+]
+}

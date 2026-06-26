@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BASDE_127",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2319799228, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0942389, 51.192284 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2580192119, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0939843, 51.1925087 ] } }
+]
+}

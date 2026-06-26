@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RUSHM_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11878694296, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7672403, 51.2506392 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11878695820, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7673639, 51.2507235 ] } }
+]
+}

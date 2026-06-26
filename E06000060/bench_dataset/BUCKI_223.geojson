@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_223",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5949406910, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7340837, 51.6416697 ] } }
+]
+}

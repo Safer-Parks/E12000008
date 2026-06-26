@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 513799469, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9416907, 51.4254669 ] } },
+{ "type": "Feature", "properties": { "osm_id": 527371175, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9421237, 51.4258793 ] } },
+{ "type": "Feature", "properties": { "osm_id": 527371176, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9419731, 51.4259358 ] } }
+]
+}

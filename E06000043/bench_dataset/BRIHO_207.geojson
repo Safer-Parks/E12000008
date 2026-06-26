@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRIHO_207",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8630062488, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1121317, 50.819398 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8630062486, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1120676, 50.8194093 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8394689674, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1121118, 50.8194445 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_36",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2963262208, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1686964, 51.2807306 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2963330477, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1700787, 51.2800132 ] } }
+]
+}

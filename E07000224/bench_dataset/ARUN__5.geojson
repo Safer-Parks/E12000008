@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ARUN__5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12077078196, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6362852, 50.8277264 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12117486648, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6371199, 50.8284674 ] } }
+]
+}

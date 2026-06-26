@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_32",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8260039741, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.528974, 51.2662623 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8260039742, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5285001, 51.266496 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8252782814, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5282148, 51.2665139 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8260039743, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5288323, 51.2668528 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT5_50",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5634961553, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3889276, 50.9316291 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5634961554, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3890464, 50.9317167 ] } }
+]
+}

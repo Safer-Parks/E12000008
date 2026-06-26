@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_325",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11212477466, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1783076, 50.6261543 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11212477468, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1783826, 50.6261899 ] } }
+]
+}

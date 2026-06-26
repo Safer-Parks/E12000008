@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SPELT_47",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9295624235, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4551841, 51.4352799 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9295624234, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4551602, 51.4355174 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9295613503, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.45393, 51.4357193 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9295624236, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4551873, 51.4349374 ] } }
+]
+}

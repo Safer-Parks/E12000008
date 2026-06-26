@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_118",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4332343499, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7699176, 52.0064176 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4332404094, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7700372, 52.0067028 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4332404095, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.770313, 52.0075322 ] } }
+]
+}

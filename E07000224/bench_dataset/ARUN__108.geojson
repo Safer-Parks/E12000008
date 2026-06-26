@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "ARUN__108",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1374846432, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5424324, 50.8040631 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1374846428, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5423658, 50.8040665 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1374846420, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5424723, 50.8040955 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6647298775, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5413872, 50.8041237 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1374833546, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5414448, 50.8044379 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1374846287, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5424243, 50.8045548 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1374846271, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5423268, 50.804579 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1374846279, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5424105, 50.8045926 ] } }
+]
+}

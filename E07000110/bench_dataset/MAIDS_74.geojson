@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_74",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12770348414, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.552133, 51.246191 ] } }
+]
+}

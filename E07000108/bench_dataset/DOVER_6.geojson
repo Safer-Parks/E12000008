@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 977988669, "name": "Charles Wake", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3970103, 51.195406 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10768990121, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3965927, 51.1954853 ] } },
+{ "type": "Feature", "properties": { "osm_id": 977988663, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3970304, 51.1958505 ] } },
+{ "type": "Feature", "properties": { "osm_id": 977988671, "name": "Ted Wilby", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3970304, 51.1966573 ] } },
+{ "type": "Feature", "properties": { "osm_id": 977988672, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3970519, 51.1974574 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10768990136, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3970966, 51.1986612 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10768990133, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3966717, 51.1988627 ] } }
+]
+}

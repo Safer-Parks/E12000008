@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_333",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13046335956, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4464792, 51.3373701 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13042788690, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4470671, 51.3374762 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13042788688, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4463535, 51.3375086 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13042788689, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4466175, 51.3375568 ] } }
+]
+}

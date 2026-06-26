@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "OXFOR_56",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11694599445, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2089802, 51.7270267 ] } }
+]
+}

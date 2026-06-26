@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_50",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12164450786, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.0418198, 51.3633111 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12164450787, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.0416838, 51.3633248 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12164450784, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.0418175, 51.363416 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12164450785, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.0418058, 51.3634828 ] } }
+]
+}

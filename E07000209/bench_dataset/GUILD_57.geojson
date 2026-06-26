@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "GUILD_57",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 806655551, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6032357, 51.240328 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13022408772, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6030923, 51.2404914 ] } },
+{ "type": "Feature", "properties": { "osm_id": 922782272, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6034138, 51.2410373 ] } }
+]
+}

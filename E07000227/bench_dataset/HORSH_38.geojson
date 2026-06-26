@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11768874906, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3692246, 51.0651716 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11768874905, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3687003, 51.0654008 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11768874904, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3686225, 51.0654362 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OXFOR_537",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13565409612, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2643039, 51.7596713 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13565409613, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2642774, 51.7596749 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13565409611, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.264331, 51.7596788 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13565409610, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2643348, 51.7596924 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GOSPO_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6062721356, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1399643, 50.7957052 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6062721352, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1400702, 50.7959339 ] } }
+]
+}

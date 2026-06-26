@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESBE_128",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13796983741, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5260166, 51.5032937 ] } }
+]
+}

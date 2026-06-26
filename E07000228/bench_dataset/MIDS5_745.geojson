@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_745",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13327010681, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1892208, 51.0834737 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13327010680, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1892548, 51.0843411 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ADUR__13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5123926992, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3317309, 50.8438496 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5123926994, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.331752, 50.8437271 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5123932480, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3306756, 50.8437732 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5123926990, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3318287, 50.8437946 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT5_18",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6060248115, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3611884, 50.8938939 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6060248110, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.36151, 50.8941084 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6060248109, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3615655, 50.8941317 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_22",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6775097477, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8464615, 51.1302455 ] } }
+]
+}

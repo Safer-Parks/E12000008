@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "HAVAN_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8545173805, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0353567, 50.8688459 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551725243, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.034936, 50.8689042 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551701443, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0331647, 50.8698466 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551713107, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0332001, 50.8698488 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551668303, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0331569, 50.8698682 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551716468, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0331933, 50.8698758 ] } }
+]
+}

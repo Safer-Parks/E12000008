@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LEWES_55",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6398773479, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.004163, 50.9715767 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6398773476, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0049438, 50.9740593 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6398773599, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0023489, 50.9741876 ] } }
+]
+}

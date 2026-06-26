@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "VALWH_20",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10772250430, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4205562, 51.61182 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12192814322, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4220416, 51.6119237 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12192814323, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4220271, 51.6119507 ] } }
+]
+}

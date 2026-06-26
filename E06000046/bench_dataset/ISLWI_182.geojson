@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_182",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3214019361, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2960683, 50.7024885 ] } }
+]
+}

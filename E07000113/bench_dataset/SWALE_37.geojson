@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_37",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13228587432, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.804113, 51.4244966 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13228587433, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8043253, 51.4245657 ] } }
+]
+}

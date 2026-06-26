@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_55",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10269930469, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5069232, 51.2707242 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10269930468, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5073882, 51.2717233 ] } }
+]
+}

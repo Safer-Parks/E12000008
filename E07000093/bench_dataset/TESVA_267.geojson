@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TESVA_267",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4267012903, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5381715, 51.0419052 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4267012904, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5390863, 51.0419286 ] } }
+]
+}

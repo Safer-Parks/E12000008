@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHERW_122",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9130156962, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2755551, 51.8752336 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9130156963, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2757825, 51.8755268 ] } }
+]
+}

@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9674206708, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2740732, 51.1455873 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9626615973, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2682313, 51.1474224 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9626615971, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2653433, 51.1474268 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9626615976, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.2690594, 51.1476044 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9626615978, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.270553, 51.1476266 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9626615977, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.270645, 51.1476533 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9626615979, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.269831, 51.1479463 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FAREH_32",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8551643275, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.263645, 50.8606762 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551618195, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2626393, 50.8609549 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8551537333, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.2624675, 50.8613381 ] } }
+]
+}
