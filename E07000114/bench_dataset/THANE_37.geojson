@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "THANE_37",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8330243237, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3375057, 51.3852122 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8330243238, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3374453, 51.3852448 ] } }
+]
+}

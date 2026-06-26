@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3126869068, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5291377, 50.7017529 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3644927029, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5226935, 50.7063751 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5383599495, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5221255, 50.7066216 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3644927028, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5221034, 50.7066726 ] } }
+]
+}

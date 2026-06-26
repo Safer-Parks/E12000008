@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ROTHE_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3946169933, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4707521, 50.8412589 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3946169948, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4706444, 50.8412769 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3946169955, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4708573, 50.8412924 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3946170466, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4710169, 50.8413195 ] } }
+]
+}

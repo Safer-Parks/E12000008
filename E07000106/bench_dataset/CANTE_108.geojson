@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_108",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3036881998, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.0770234, 51.3673928 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5533932702, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.0775674, 51.3676751 ] } }
+]
+}

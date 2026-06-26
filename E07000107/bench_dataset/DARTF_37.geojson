@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DARTF_37",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5820162583, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.2097305, 51.4309132 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5820162582, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.2101481, 51.4309816 ] } }
+]
+}

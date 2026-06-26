@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BASDE_147",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 462024916, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.0517833, 51.2673303 ] } }
+]
+}

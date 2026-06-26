@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CRAWL_628",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13154199867, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1781095, 51.1101595 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13154199868, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.176374, 51.1116726 ] } }
+]
+}

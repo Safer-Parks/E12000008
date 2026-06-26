@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MEDWA_42",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12603659720, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5009352, 51.3895133 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12010778004, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5022835, 51.3900864 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12603599491, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5008901, 51.3901369 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12010778005, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.502199, 51.3902046 ] } }
+]
+}

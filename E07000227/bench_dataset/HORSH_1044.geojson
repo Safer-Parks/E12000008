@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_1044",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9276254055, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4330478, 50.9360852 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9276254056, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4331618, 50.9361029 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9281168968, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4321481, 50.9375316 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9281168981, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4327905, 50.9377319 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9281168982, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4328388, 50.9377513 ] } }
+]
+}

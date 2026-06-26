@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "VALWH_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12236365349, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4368156, 51.6079019 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12236365348, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4368945, 51.6079299 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12236365346, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4367878, 51.6079462 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12236365347, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4368629, 51.6079691 ] } }
+]
+}

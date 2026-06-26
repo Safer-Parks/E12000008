@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1698",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3752964777, "name": "Gaz's memorial bench", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7434569, 51.7708668 ] } }
+]
+}

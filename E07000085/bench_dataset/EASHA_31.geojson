@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EASHA_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2962980762, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.8423656, 51.1626382 ] } }
+]
+}

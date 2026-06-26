@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESBE_173",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13098908262, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.5923451, 51.5390412 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5067060042, "name": "tree stump seats", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.599223, 51.5398567 ] } }
+]
+}

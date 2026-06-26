@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "READI_27",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6577673108, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9459836, 51.4783604 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6577673109, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.946001, 51.4783796 ] } }
+]
+}

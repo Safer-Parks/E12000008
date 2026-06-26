@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ELMBR_51",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8148306032, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3146824, 51.3883951 ] } }
+]
+}

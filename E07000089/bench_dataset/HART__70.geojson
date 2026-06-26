@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HART__70",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9708977690, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.8384232, 51.2552335 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9708977689, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.838347, 51.2552812 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1445",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11073906598, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6359286, 51.910328 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11073906588, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6360476, 51.9104203 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11073918635, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6363559, 51.9108389 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11073918633, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6364597, 51.9108915 ] } }
+]
+}

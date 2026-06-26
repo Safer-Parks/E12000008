@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_123",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12064414624, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1851244, 50.9237532 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12064414625, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1850974, 50.923809 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12064414626, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.1850851, 50.9238345 ] } }
+]
+}

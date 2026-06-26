@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BRAFO_70",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 6780604278, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.786885, 51.4032309 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6780604279, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7869843, 51.4032685 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6780604280, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.786944, 51.4033312 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6780604282, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7870634, 51.4033865 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6780604281, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7869709, 51.4033982 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6780604283, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7870486, 51.4034526 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_34",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12752103514, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5030313, 51.0227774 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12752064392, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5029312, 51.0229123 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12752103513, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5030369, 51.0229781 ] } }
+]
+}

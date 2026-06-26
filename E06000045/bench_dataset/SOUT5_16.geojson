@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT5_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8608557803, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3534724, 50.9005053 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8608549806, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3535222, 50.9005058 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8608524583, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3534587, 50.9006987 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8608555321, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3533288, 50.9007378 ] } }
+]
+}

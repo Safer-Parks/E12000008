@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_17",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13059847519, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5094857, 51.3304409 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13059847761, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.5086404, 51.3305913 ] } }
+]
+}

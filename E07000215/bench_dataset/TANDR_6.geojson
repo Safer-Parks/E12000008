@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9844127166, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0409305, 51.3216061 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9844127165, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0434169, 51.3262088 ] } }
+]
+}

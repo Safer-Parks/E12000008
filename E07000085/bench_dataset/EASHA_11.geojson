@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EASHA_11",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 2640329174, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9415558, 51.0985993 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2640329179, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.9408088, 51.0989838 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13296558920, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.93996, 51.0990577 ] } }
+]
+}

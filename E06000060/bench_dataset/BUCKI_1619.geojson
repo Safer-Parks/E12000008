@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1619",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5866465931, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4864542, 51.7439171 ] } },
+{ "type": "Feature", "properties": { "osm_id": 410448427, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4911674, 51.7439637 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BRAFO_68",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13456049601, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7910524, 51.3668909 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12343898401, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7915436, 51.366939 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13165074201, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7917706, 51.3670024 ] } }
+]
+}

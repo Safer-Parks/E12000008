@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8736763222, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2853911, 51.2314615 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8736763221, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2854782, 51.2315758 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5958923354, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2860467, 51.2316356 ] } }
+]
+}

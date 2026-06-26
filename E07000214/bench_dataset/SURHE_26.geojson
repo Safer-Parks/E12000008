@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SURHE_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12061684620, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7401933, 51.3175167 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12509776112, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7405239, 51.317524 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12061658350, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7398991, 51.3177363 ] } }
+]
+}

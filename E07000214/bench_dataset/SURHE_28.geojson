@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SURHE_28",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12509494569, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.7237891, 51.3156243 ] } }
+]
+}

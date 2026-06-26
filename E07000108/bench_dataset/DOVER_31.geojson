@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5470923664, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3156447, 51.1229545 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5470923663, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3155584, 51.1230392 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1200058147, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3155947, 51.123282 ] } },
+{ "type": "Feature", "properties": { "osm_id": 1200057932, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 1.3156763, 51.1233469 ] } }
+]
+}

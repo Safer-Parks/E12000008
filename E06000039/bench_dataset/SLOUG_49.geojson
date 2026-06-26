@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SLOUG_49",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5286206405, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5804796, 51.499265 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5297275752, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5722976, 51.4998335 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5297275751, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.575625, 51.5003082 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5297275750, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.5795618, 51.5005399 ] } }
+]
+}

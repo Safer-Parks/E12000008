@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_34",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9864477738, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.866057, 51.1179049 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9864477739, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8660648, 51.1180459 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9864477740, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.8660279, 51.1185399 ] } }
+]
+}

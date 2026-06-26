@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WEALD_52",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11288742991, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3914684, 51.077639 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11288742993, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3917603, 51.0787347 ] } }
+]
+}

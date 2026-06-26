@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WESOX_38",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12138203198, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3650362, 51.8367332 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12201936192, "name": "Blenheim Estate's Carved Oak Bench", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.3820887, 51.839376 ] } }
+]
+}

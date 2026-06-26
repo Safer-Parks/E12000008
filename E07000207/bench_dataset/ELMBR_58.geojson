@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ELMBR_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7124798023, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3520011, 51.3718343 ] } },
+{ "type": "Feature", "properties": { "osm_id": 6335601390, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3523954, 51.3743365 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7126049604, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3527958, 51.3766364 ] } }
+]
+}

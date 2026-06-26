@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT5_224",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12398755243, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4034901, 50.8956833 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12398755241, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4035458, 50.8956886 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12398755242, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -1.4034961, 50.8957227 ] } }
+]
+}

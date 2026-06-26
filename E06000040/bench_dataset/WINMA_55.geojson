@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_55",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10763847103, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6457575, 51.4747623 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10763847104, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.6456562, 51.4747848 ] } }
+]
+}

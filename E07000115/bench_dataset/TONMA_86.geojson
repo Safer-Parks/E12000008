@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_86",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13132945176, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.4016302, 51.2981554 ] } }
+]
+}

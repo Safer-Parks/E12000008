@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GRAVE_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9074687479, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3755172, 51.4349031 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9074687484, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.3753077, 51.4351768 ] } }
+]
+}

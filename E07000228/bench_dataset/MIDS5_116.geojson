@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_116",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5343466281, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0015024, 51.1296575 ] } }
+]
+}
