@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1591_NACH",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 60234, "nach": 0.32392886066301751 }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7019214, 51.5032412 ], [ -0.7011673, 51.5045312 ], [ -0.7008899, 51.5050015 ], [ -0.7006581, 51.5054846 ] ] } },
+{ "type": "Feature", "properties": { "id": 60235, "nach": 0.28231643356499403 }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7014746, 51.5031953 ], [ -0.7019214, 51.5032412 ] ] } }
+]
+}
