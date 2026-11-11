@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HASTI_29_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1497672512, "highway": "footway", "name": "Damnation Alley", "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5872491, 50.8817343 ], [ 0.5874154, 50.8816844 ], [ 0.5875264, 50.8816462 ], [ 0.5875864, 50.8816534 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1550343479, "highway": "footway", "name": "Damnation Alley", "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5872491, 50.8817343 ], [ 0.5873163, 50.8817428 ], [ 0.5873688, 50.8817714 ], [ 0.5874529, 50.8818291 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 854484846, "highway": "footway", "name": "Damnation Alley", "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5824905, 50.883177 ], [ 0.5825023, 50.8831488 ], [ 0.5825237, 50.8831278 ], [ 0.5826739, 50.883078 ], [ 0.5827885, 50.8830302 ], [ 0.5842712, 50.8825207 ], [ 0.5858678, 50.8820998 ], [ 0.5865463, 50.881919 ], [ 0.5871929, 50.8817495 ], [ 0.5872491, 50.8817343 ] ] } }
+]
+}

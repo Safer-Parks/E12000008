@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESBE_98_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10894342, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0583728, 51.4834367 ], [ -1.0584593, 51.4835212 ], [ -1.0592014, 51.4835819 ], [ -1.0604523, 51.483802 ], [ -1.0614061, 51.4839506 ], [ -1.0627039, 51.4841226 ], [ -1.0640486, 51.4842164 ], [ -1.0651822, 51.4843493 ], [ -1.0665347, 51.4844587 ], [ -1.0670609, 51.484491 ], [ -1.0677544, 51.4845335 ], [ -1.0695368, 51.4846542 ], [ -1.0708267, 51.4846933 ], [ -1.0719369, 51.4847089 ], [ -1.072809, 51.4847822 ] ] } }
+]
+}

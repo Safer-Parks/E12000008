@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_907_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1161169846, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5040366, 51.8712204 ], [ -0.5039979, 51.8712563 ], [ -0.5037977, 51.8714423 ], [ -0.5033381, 51.8718384 ], [ -0.5030208, 51.8721034 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1161169847, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5028902, 51.8722275 ], [ -0.5028211, 51.8722615 ], [ -0.5025128, 51.8725545 ], [ -0.5023905, 51.8726873 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1161169850, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5016219, 51.8731792 ], [ -0.501733, 51.8731554 ], [ -0.5019071, 51.8730424 ], [ -0.5023635, 51.8725743 ], [ -0.5025747, 51.8723688 ], [ -0.5027443, 51.8722196 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1161169848, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5021222, 51.8729731 ], [ -0.5023166, 51.8727556 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1161169849, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5020202, 51.8730665 ], [ -0.5018758, 51.8732273 ], [ -0.5019246, 51.8733624 ] ] } }
+]
+}

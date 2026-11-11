@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_426_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 51070099, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5850732, 51.2492292 ], [ 0.5853146, 51.2496225 ], [ 0.586511, 51.2513963 ], [ 0.5868157, 51.2518481 ], [ 0.5868315, 51.2518715 ], [ 0.5871044, 51.2522762 ], [ 0.5894487, 51.2516349 ], [ 0.589505, 51.2516131 ] ] } }
+]
+}

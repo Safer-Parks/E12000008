@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWFO_170_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 193751788, "highway": "track", "name": "Agars Lane", "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6120342, 50.7685587 ], [ -1.6116246, 50.7681949 ], [ -1.6111578, 50.7679207 ], [ -1.6101388, 50.7677076 ], [ -1.6099243, 50.7672326 ], [ -1.6100316, 50.7667305 ], [ -1.6103963, 50.7663912 ], [ -1.6106753, 50.765699 ], [ -1.6104308, 50.765042 ] ] } }
+]
+}

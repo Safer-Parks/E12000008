@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_86_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 28308870, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "restricted_byway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3945435, 51.2907754 ], [ 0.3948389, 51.2904647 ], [ 0.3953665, 51.2898404 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1268403293, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "restricted_byway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3935174, 51.2918544 ], [ 0.3945435, 51.2907754 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 23187992, "highway": "primary", "name": "London Road", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4122242, 51.2985871 ], [ 0.4138036, 51.298619 ], [ 0.4142839, 51.2986295 ], [ 0.414883, 51.2986818 ], [ 0.4156873, 51.2987824 ], [ 0.416078, 51.2988069 ], [ 0.4161475, 51.2988021 ], [ 0.4164254, 51.2987845 ], [ 0.4169006, 51.298736 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 243423183, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.416507, 51.299298 ], [ 0.4165609, 51.2990746 ], [ 0.4165685, 51.2990266 ], [ 0.4167723, 51.2989394 ], [ 0.4166275, 51.2989025 ], [ 0.4162037, 51.2988891 ], [ 0.4161822, 51.2988555 ], [ 0.416165, 51.2988477 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1544018599, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3954544, 51.2982485 ], [ 0.3938857, 51.2985323 ], [ 0.3885997, 51.2994684 ], [ 0.3825058, 51.3004289 ] ] } }
+]
+}

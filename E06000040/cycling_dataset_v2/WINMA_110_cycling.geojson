@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_110_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 244545283, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5829832, 51.4579867 ], [ -0.5832966, 51.4580359 ], [ -0.5834025, 51.4582686 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 244545175, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5852062, 51.4578423 ], [ -0.5834025, 51.4582686 ], [ -0.5831111, 51.4583375 ], [ -0.5824845, 51.4584856 ], [ -0.5802052, 51.4590242 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33116103, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5692916, 51.4638702 ], [ -0.5693378, 51.4639321 ], [ -0.5693435, 51.4640382 ], [ -0.5694173, 51.4642346 ], [ -0.5695134, 51.4643759 ], [ -0.569643, 51.4645117 ], [ -0.5698632, 51.4646953 ], [ -0.5700161, 51.4647995 ], [ -0.5705148, 51.4650764 ], [ -0.571911, 51.465904 ], [ -0.5725595, 51.4662683 ], [ -0.5727703, 51.4663979 ] ] } }
+]
+}

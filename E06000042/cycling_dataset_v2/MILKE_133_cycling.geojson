@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_133_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 232410291, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6585766, 52.1741044 ], [ -0.6582133, 52.1740218 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 255182390, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6585617, 52.17418 ], [ -0.6585766, 52.1741044 ], [ -0.6585808, 52.1740432 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_266_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 137108122, "highway": "cycleway", "name": "Otty Bottom", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3921446, 51.1722341 ], [ 1.3912868, 51.1715228 ], [ 1.390928, 51.1712636 ], [ 1.3901672, 51.1708135 ], [ 1.3893396, 51.1702675 ], [ 1.3890932, 51.1700612 ], [ 1.3888669, 51.1698718 ], [ 1.3881081, 51.1691959 ], [ 1.3871952, 51.1684065 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 764453710, "highway": "residential", "name": "Oldstairs Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3995282, 51.1773639 ], [ 1.3986726, 51.1766803 ], [ 1.3982562, 51.1763864 ], [ 1.398182, 51.1763313 ], [ 1.3978597, 51.1760917 ], [ 1.3969324, 51.1753894 ], [ 1.3954052, 51.1744331 ], [ 1.3947728, 51.1740265 ], [ 1.3937322, 51.173328 ], [ 1.393672, 51.1732848 ], [ 1.3928933, 51.172726 ], [ 1.3921446, 51.1722341 ] ] } }
+]
+}

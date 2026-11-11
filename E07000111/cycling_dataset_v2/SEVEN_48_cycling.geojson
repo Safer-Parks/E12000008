@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_48_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 44634765, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "yes", "access": null, "foot": "permissive", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1893633, 51.2685783 ], [ 0.188969, 51.2685061 ], [ 0.1886552, 51.2684591 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1361836018, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": "no", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1835561, 51.2698306 ], [ 0.1834304, 51.2699837 ], [ 0.1834435, 51.269991 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1361836017, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "permissive", "access": "no", "foot": "permissive", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1836582, 51.2698844 ], [ 0.1837057, 51.2699307 ], [ 0.1837442, 51.2699987 ], [ 0.1837463, 51.2700256 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 311798882, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1764974, 51.2749074 ], [ 0.1768218, 51.2746817 ], [ 0.1770028, 51.2744378 ], [ 0.1771466, 51.2741641 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 35480845, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1773911, 51.2741311 ], [ 0.1774757, 51.2739053 ], [ 0.1777203, 51.2735195 ], [ 0.1778897, 51.273369 ], [ 0.1782284, 51.2732796 ], [ 0.1784448, 51.2732655 ], [ 0.1787082, 51.2732843 ] ] } }
+]
+}

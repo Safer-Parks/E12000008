@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_74_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 148578688, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2872036, 51.2568549 ], [ 1.286495, 51.2572656 ], [ 1.2861767, 51.2574164 ], [ 1.2856313, 51.2576849 ], [ 1.2850251, 51.258014 ], [ 1.2846677, 51.2582523 ], [ 1.28456, 51.2583241 ], [ 1.2839455, 51.2587209 ], [ 1.2835939, 51.2588768 ], [ 1.2830236, 51.2591453 ], [ 1.2826112, 51.2593151 ], [ 1.2811551, 51.2599179 ], [ 1.2814752, 51.2603082 ], [ 1.2818793, 51.2607188 ], [ 1.2824009, 51.2611684 ], [ 1.2828794, 51.2618539 ], [ 1.2839749, 51.2643436 ], [ 1.2842015, 51.2647455 ], [ 1.2843634, 51.2648817 ], [ 1.2844944, 51.2648961 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 170598329, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.2920833, 51.2660549 ], [ 1.2925506, 51.2663456 ], [ 1.294487, 51.2670336 ], [ 1.2954353, 51.2676798 ], [ 1.2957869, 51.2680196 ], [ 1.2969488, 51.2687688 ], [ 1.2975142, 51.2691671 ], [ 1.2978525, 51.2692953 ], [ 1.2990812, 51.269351 ], [ 1.2998916, 51.2695979 ], [ 1.3002516, 51.2697088 ] ] } }
+]
+}

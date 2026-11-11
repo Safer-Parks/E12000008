@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_27_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 24753909, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1672468, 51.4146834 ], [ 0.1675223, 51.4146882 ], [ 0.1676763, 51.4146937 ], [ 0.1684226, 51.4147295 ], [ 0.1690489, 51.4147448 ], [ 0.170321, 51.4147339 ], [ 0.1711102, 51.4150743 ], [ 0.1719432, 51.4154566 ], [ 0.1728445, 51.4158153 ], [ 0.1765225, 51.4170649 ], [ 0.1765822, 51.4170852 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 614137147, "highway": "track", "name": "Rowhill Road", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1818545, 51.4152782 ], [ 0.1818632, 51.4154214 ], [ 0.1818296, 51.415674 ], [ 0.1818028, 51.4158011 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24989625, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1765822, 51.4170852 ], [ 0.1766835, 51.4171235 ], [ 0.176838, 51.4172359 ], [ 0.1770594, 51.4173954 ], [ 0.1774474, 51.4176749 ], [ 0.1776512, 51.4177619 ], [ 0.1778508, 51.4177552 ], [ 0.1780997, 51.4178301 ], [ 0.1784172, 51.4180389 ], [ 0.1790867, 51.4183011 ], [ 0.1796017, 51.4186116 ], [ 0.1804536, 51.4188618 ], [ 0.181593, 51.419284 ], [ 0.1828118, 51.4197463 ], [ 0.184346, 51.4203385 ], [ 0.1856565, 51.4207068 ], [ 0.1862418, 51.420938 ] ] } }
+]
+}

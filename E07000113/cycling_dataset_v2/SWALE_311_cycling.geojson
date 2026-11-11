@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_311_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 80499100, "highway": "cycleway", "name": "London Road", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "yes", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.9808919, 51.2914804 ], [ 0.9813224, 51.2914649 ], [ 0.9817475, 51.2914221 ], [ 0.9819999, 51.2913593 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 68579424, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.976432, 51.3008781 ], [ 0.9763691, 51.3007534 ], [ 0.976044, 51.3001831 ], [ 0.975749, 51.2996912 ], [ 0.975341, 51.2989918 ], [ 0.9750686, 51.2985887 ], [ 0.9749705, 51.2984387 ], [ 0.9746881, 51.2980069 ], [ 0.9745452, 51.2975172 ], [ 0.9744715, 51.2972157 ], [ 0.974308, 51.2967869 ], [ 0.9742053, 51.2962597 ], [ 0.9741513, 51.2960032 ], [ 0.9740096, 51.2956987 ], [ 0.9738682, 51.2954192 ], [ 0.9733284, 51.2943649 ], [ 0.9729694, 51.2936832 ], [ 0.9728735, 51.29348 ], [ 0.9728841, 51.2932208 ], [ 0.9729359, 51.2929078 ], [ 0.9729981, 51.2926219 ], [ 0.9733395, 51.2924133 ], [ 0.9734059, 51.292365 ], [ 0.9736879, 51.2921915 ], [ 0.9738976, 51.2920351 ], [ 0.973892, 51.2919574 ] ] } }
+]
+}

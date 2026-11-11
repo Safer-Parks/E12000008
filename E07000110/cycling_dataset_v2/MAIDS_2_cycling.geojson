@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_2_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 242617569, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4439217, 51.2444699 ], [ 0.4439431, 51.2443865 ], [ 0.4440378, 51.2443237 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 676694349, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4437084, 51.2466375 ], [ 0.4437376, 51.2465756 ], [ 0.4437711, 51.2463661 ], [ 0.4437669, 51.2462404 ], [ 0.4437, 51.2460152 ], [ 0.4436916, 51.2457716 ], [ 0.4439283, 51.2446995 ], [ 0.4439228, 51.2445072 ], [ 0.4439217, 51.2444699 ], [ 0.443875, 51.2443958 ], [ 0.4437609, 51.2443509 ] ] } }
+]
+}

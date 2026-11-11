@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MILKE_440_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 132239886, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7461601, 52.1133697 ], [ -0.7460172, 52.1133467 ], [ -0.743541, 52.1129165 ], [ -0.7418619, 52.1125772 ], [ -0.734856, 52.1115724 ], [ -0.7342605, 52.1114801 ], [ -0.7335032, 52.1115019 ], [ -0.7329141, 52.111635 ], [ -0.7325058, 52.1116447 ], [ -0.7319962, 52.1115492 ], [ -0.7316636, 52.1115426 ], [ -0.7302259, 52.1115195 ], [ -0.7297222, 52.111602 ], [ -0.7292877, 52.1116053 ], [ -0.7289009, 52.1115129 ], [ -0.7282975, 52.1111259 ], [ -0.7281738, 52.1110466 ], [ -0.7281714, 52.1110451 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 32211455, "highway": "bridleway", "name": "Fences Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "paved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7366441, 52.1141628 ], [ -0.7378612, 52.1141817 ], [ -0.7393199, 52.1142217 ], [ -0.7399274, 52.1142555 ], [ -0.7412099, 52.1143735 ], [ -0.7417667, 52.1144205 ], [ -0.7418604, 52.1144284 ], [ -0.7419717, 52.1144378 ], [ -0.7423269, 52.1144678 ], [ -0.7431132, 52.1145341 ], [ -0.7434247, 52.1145316 ], [ -0.7442278, 52.1144747 ], [ -0.7445746, 52.114478 ], [ -0.7454774, 52.1145832 ] ] } }
+]
+}

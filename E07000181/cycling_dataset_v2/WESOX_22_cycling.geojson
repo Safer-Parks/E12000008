@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WESOX_22_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 958404408, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3901036, 51.7467314 ], [ -1.3902349, 51.7467323 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 958404407, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3902349, 51.7467323 ], [ -1.3903179, 51.7467329 ], [ -1.390601, 51.746778 ], [ -1.3917979, 51.746839 ], [ -1.392856, 51.746636 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 41679553, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3780529, 51.7470489 ], [ -1.379583, 51.7470209 ], [ -1.384916, 51.74687 ], [ -1.3856665, 51.7468483 ], [ -1.3866393, 51.7468201 ], [ -1.389436, 51.746739 ], [ -1.3897593, 51.7467347 ], [ -1.390041, 51.7467309 ], [ -1.3901036, 51.7467314 ] ] } }
+]
+}

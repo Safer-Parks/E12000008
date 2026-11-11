@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GUILD_60_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 367810119, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6169448, 51.2078312 ], [ -0.6164578, 51.2075473 ], [ -0.6161914, 51.2073019 ], [ -0.6160286, 51.2070869 ], [ -0.6159727, 51.2069097 ], [ -0.6157945, 51.2063311 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4538926, "highway": "bridleway", "name": "BW290", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.626141, 51.2047446 ], [ -0.6261444, 51.2047662 ], [ -0.6261802, 51.2049957 ], [ -0.6262422, 51.2055421 ], [ -0.626264, 51.2070975 ], [ -0.6262231, 51.2071971 ], [ -0.6258798, 51.2073752 ], [ -0.6249571, 51.2074222 ], [ -0.624777, 51.2074327 ], [ -0.6246655, 51.2074392 ], [ -0.6245441, 51.207634 ], [ -0.624351, 51.2077886 ], [ -0.6234819, 51.2082456 ], [ -0.6232298, 51.2083532 ], [ -0.6229395, 51.2085505 ], [ -0.6227041, 51.2087061 ], [ -0.6225914, 51.2088439 ], [ -0.6222995, 51.2089703 ], [ -0.6215829, 51.2093345 ], [ -0.6214632, 51.2094975 ] ] } }
+]
+}

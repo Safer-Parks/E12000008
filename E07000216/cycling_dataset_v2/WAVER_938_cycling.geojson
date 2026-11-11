@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_938_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 134699534, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.598133, 51.1052688 ], [ -0.597793, 51.105118 ], [ -0.597066, 51.104768 ], [ -0.596642, 51.10457 ], [ -0.596373, 51.104468 ], [ -0.596048, 51.104311 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 134699672, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5998058, 51.1059605 ], [ -0.599647, 51.1058766 ], [ -0.599555, 51.105828 ], [ -0.599375, 51.105754 ], [ -0.598859, 51.10558 ], [ -0.5985184, 51.1054527 ], [ -0.598133, 51.1052688 ] ] } }
+]
+}

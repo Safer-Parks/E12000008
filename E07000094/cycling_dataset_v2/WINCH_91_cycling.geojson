@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_91_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 987797927, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1979589, 50.9328062 ], [ -1.1977504, 50.9328049 ], [ -1.19772, 50.9327921 ], [ -1.1977018, 50.9327755 ], [ -1.1976943, 50.9327623 ], [ -1.1976842, 50.9327538 ], [ -1.1976842, 50.9327214 ], [ -1.1976544, 50.9326876 ] ] } }
+]
+}

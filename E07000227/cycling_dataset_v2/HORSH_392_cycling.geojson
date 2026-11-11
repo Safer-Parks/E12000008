@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_392_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8118027, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5031375, 50.925339 ], [ -0.5060285, 50.9270294 ], [ -0.5086368, 50.9286196 ], [ -0.5086712, 50.9286724 ], [ -0.5084889, 50.9293365 ], [ -0.5084566, 50.929587 ], [ -0.5084931, 50.9298825 ], [ -0.5087064, 50.9302495 ], [ -0.5088085, 50.9304609 ], [ -0.508881, 50.9306873 ], [ -0.5088957, 50.9307632 ], [ -0.508873, 50.9308697 ], [ -0.508901, 50.9309171 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 8584324, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.5083047, 50.9310439 ], [ -0.5080713, 50.9306975 ], [ -0.507176, 50.9307701 ], [ -0.5034352, 50.9287544 ], [ -0.5029886, 50.928478 ], [ -0.5026456, 50.9283376 ] ] } }
+]
+}

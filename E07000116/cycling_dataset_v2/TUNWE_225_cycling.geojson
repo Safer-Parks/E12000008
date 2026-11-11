@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_225_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1487619340, "highway": "unclassified", "name": "Ranters Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4449345, 51.1035568 ], [ 0.4451193, 51.1038641 ], [ 0.4453287, 51.104111 ], [ 0.4454454, 51.1042486 ], [ 0.445872, 51.1047095 ], [ 0.445939, 51.1047693 ], [ 0.4467244, 51.105471 ], [ 0.4470733, 51.1058639 ], [ 0.4475583, 51.1065478 ], [ 0.4480781, 51.1072995 ], [ 0.4485914, 51.1080971 ], [ 0.4487474, 51.1084481 ], [ 0.4487625, 51.1084822 ], [ 0.4488473, 51.1087209 ], [ 0.4490983, 51.1092936 ], [ 0.4491606, 51.1094358 ], [ 0.4493501, 51.1098071 ], [ 0.449743, 51.1102694 ] ] } }
+]
+}

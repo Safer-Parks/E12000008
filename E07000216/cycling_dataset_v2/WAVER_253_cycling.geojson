@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_253_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 65769666, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4654726, 51.1397152 ], [ -0.465309, 51.138605 ], [ -0.4656177, 51.1359213 ], [ -0.4654168, 51.1357525 ], [ -0.4656687, 51.1345961 ], [ -0.4652663, 51.1343758 ], [ -0.4646044, 51.1335972 ], [ -0.4642652, 51.1329358 ], [ -0.4640427, 51.130654 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 65754684, "highway": "track", "name": "Wanborough Lane", "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4669843, 51.1426777 ], [ -0.4668954, 51.1425098 ], [ -0.466656, 51.1416291 ], [ -0.466355, 51.1409489 ], [ -0.4661922, 51.1406039 ], [ -0.4655497, 51.1398105 ], [ -0.4654726, 51.1397152 ] ] } }
+]
+}

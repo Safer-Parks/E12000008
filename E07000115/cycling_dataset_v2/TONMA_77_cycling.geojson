@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_77_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1055074408, "highway": "bridleway", "name": "Byway", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2605062, 51.2319643 ], [ 0.2602028, 51.2304092 ], [ 0.2610841, 51.2302972 ], [ 0.2616388, 51.2300807 ], [ 0.2619545, 51.2299199 ], [ 0.2625594, 51.2296683 ], [ 0.2625919, 51.2296554 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1055074407, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2631462, 51.2307217 ], [ 0.2616198, 51.2309585 ], [ 0.2611628, 51.2311281 ], [ 0.2607397, 51.2313241 ], [ 0.2605282, 51.2317215 ], [ 0.2605062, 51.2319643 ], [ 0.2604859, 51.2321878 ], [ 0.2607567, 51.2325481 ], [ 0.2609368, 51.2327855 ], [ 0.2610404, 51.2330545 ], [ 0.2611882, 51.2334383 ], [ 0.2612728, 51.2343496 ], [ 0.2613219, 51.2352702 ], [ 0.2605291, 51.2365076 ], [ 0.2600825, 51.2370004 ], [ 0.2600541, 51.2371004 ] ] } }
+]
+}

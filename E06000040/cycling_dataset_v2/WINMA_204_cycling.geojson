@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WINMA_204_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 640395326, "highway": "track", "name": "Kiln Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6295175, 51.4019747 ], [ -0.6297811, 51.4019701 ], [ -0.6309112, 51.40195 ], [ -0.6311401, 51.4019299 ], [ -0.6313011, 51.4019042 ], [ -0.6315371, 51.4018797 ], [ -0.6321178, 51.4018891 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 169225539, "highway": "residential", "name": "Buckhurst Lane", "category": "Traffic-free road", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6377711, 51.40908 ], [ -0.6369517, 51.4094432 ], [ -0.636528, 51.4096311 ], [ -0.6357786, 51.4099252 ], [ -0.6354028, 51.4101673 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HART__45_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 726552877, "highway": "cycleway", "name": "Vicarage Hill", "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8983015, 51.3025961 ], [ -0.8982735, 51.3026229 ], [ -0.8982571, 51.3026473 ], [ -0.8982218, 51.3026673 ] ] } }
+]
+}

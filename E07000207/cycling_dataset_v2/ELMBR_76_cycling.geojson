@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ELMBR_76_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 235364900, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3451303, 51.316169 ], [ -0.3443563, 51.3161134 ], [ -0.3430099, 51.316147 ], [ -0.3416312, 51.3161704 ], [ -0.3411055, 51.3162274 ], [ -0.3407989, 51.31629 ], [ -0.3406173, 51.3164152 ], [ -0.3393299, 51.3174479 ], [ -0.3390252, 51.3176634 ], [ -0.3382951, 51.3181799 ] ] } }
+]
+}

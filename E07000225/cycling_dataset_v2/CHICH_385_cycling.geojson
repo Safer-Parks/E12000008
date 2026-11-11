@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_385_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10939584, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7645112, 50.7885665 ], [ -0.7645668, 50.7885092 ], [ -0.7646118, 50.7884469 ], [ -0.7646821, 50.7884167 ], [ -0.7647829, 50.7884216 ], [ -0.7648885, 50.7884464 ], [ -0.7649704, 50.7884666 ], [ -0.7650271, 50.7884781 ], [ -0.7650758, 50.7884935 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 597807220, "highway": "unclassified", "name": "Fisher Lane", "category": "Traffic-free road", "bicycle": "yes", "access": "permissive", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7653944, 50.7920904 ], [ -0.7654642, 50.7919771 ], [ -0.7654735, 50.7918907 ], [ -0.7655151, 50.7915279 ], [ -0.7654812, 50.7914132 ], [ -0.7653774, 50.7911208 ], [ -0.7652939, 50.7908962 ], [ -0.7650902, 50.7906171 ], [ -0.7648656, 50.7903179 ], [ -0.7647057, 50.7900966 ], [ -0.7645929, 50.7899497 ], [ -0.7645472, 50.7898603 ], [ -0.7645396, 50.7896886 ], [ -0.7645484, 50.7895083 ], [ -0.7645512, 50.7892821 ], [ -0.7645501, 50.7890728 ], [ -0.7645552, 50.788862 ], [ -0.7645524, 50.7887208 ], [ -0.7645525, 50.788602 ], [ -0.7645112, 50.7885665 ] ] } }
+]
+}

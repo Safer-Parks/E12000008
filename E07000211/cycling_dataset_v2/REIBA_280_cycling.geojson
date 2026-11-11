@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "REIBA_280_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 25799210, "highway": "tertiary", "name": "Slipshatch Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2108397, 51.2198764 ], [ -0.2104261, 51.2199305 ], [ -0.2101126, 51.2200159 ], [ -0.2096136, 51.2202225 ], [ -0.2090074, 51.2206307 ], [ -0.2081411, 51.220981 ], [ -0.2074917, 51.2212383 ], [ -0.2073683, 51.2213118 ], [ -0.2071664, 51.2214844 ], [ -0.207029, 51.2215974 ], [ -0.206801, 51.2217713 ], [ -0.2067292, 51.2218246 ], [ -0.2066997, 51.2218834 ] ] } }
+]
+}

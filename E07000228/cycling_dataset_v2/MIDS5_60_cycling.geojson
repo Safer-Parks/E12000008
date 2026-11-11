@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_60_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5469733, "highway": "residential", "name": "Hatchgate Lane", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.131319, 51.0057089 ], [ -0.1312566, 51.0057528 ], [ -0.1311722, 51.0057949 ], [ -0.1309076, 51.0058903 ], [ -0.1304267, 51.0060555 ], [ -0.1303383, 51.0061128 ], [ -0.1302962, 51.006153 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 612046884, "highway": "service", "name": "Hatchgate Lane", "category": "Signed cycle route", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1284705, 51.0062853 ], [ -0.1286065, 51.0062971 ], [ -0.1289074, 51.0062975 ], [ -0.1297181, 51.0062892 ], [ -0.1298581, 51.0062748 ], [ -0.1300153, 51.006231 ], [ -0.1302962, 51.006153 ] ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_1918_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 210241400, "highway": "bridleway", "name": "Smugglers' Lane", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3954758, 51.0316224 ], [ -0.39617, 51.0318971 ], [ -0.3974606, 51.0324079 ], [ -0.3981525, 51.0328039 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 685128074, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3981525, 51.0328039 ], [ -0.3978465, 51.0331817 ], [ -0.3976321, 51.0334467 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1445973806, "highway": "service", "name": "Muntham Drive", "category": "Traffic-free road", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3976321, 51.0334467 ], [ -0.3978307, 51.0334793 ], [ -0.3979537, 51.0335054 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 210241405, "highway": "track", "name": "Smugglers' Lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4030611, 51.0351063 ], [ -0.4018742, 51.0348159 ], [ -0.4004238, 51.03451 ], [ -0.4003171, 51.0344707 ], [ -0.4002581, 51.0344609 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 210241404, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4030611, 51.0351063 ], [ -0.4058771, 51.0355753 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 271240289, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4058771, 51.0355753 ], [ -0.4074032, 51.0358824 ], [ -0.4076016, 51.0359207 ], [ -0.4076612, 51.0359363 ], [ -0.407702, 51.0359518 ], [ -0.4077472, 51.0359725 ] ] } }
+]
+}

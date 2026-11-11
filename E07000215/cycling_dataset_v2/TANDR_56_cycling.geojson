@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TANDR_56_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 236779956, "highway": "track", "name": "Rowtye Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0408152, 51.2816763 ], [ 0.0408005, 51.2815629 ], [ 0.0407146, 51.2814723 ], [ 0.0409893, 51.2809812 ], [ 0.0414227, 51.2802073 ], [ 0.0417553, 51.2795295 ], [ 0.0419281, 51.2792095 ], [ 0.0415139, 51.2789691 ], [ 0.0411652, 51.2787543 ], [ 0.0410526, 51.2783416 ], [ 0.0410901, 51.278194 ], [ 0.0410633, 51.2779893 ], [ 0.040985, 51.2776524 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 204391432, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0428907, 51.2821132 ], [ 0.0422423, 51.2833977 ], [ 0.0421434, 51.2834715 ], [ 0.0420633, 51.2836398 ] ] } }
+]
+}

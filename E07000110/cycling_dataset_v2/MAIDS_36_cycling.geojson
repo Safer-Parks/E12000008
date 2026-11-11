@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_36_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1385622278, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "yes", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4873427, 51.1712765 ], [ 0.4873748, 51.1713252 ], [ 0.4883176, 51.1711091 ], [ 0.4885107, 51.1710326 ], [ 0.4886314, 51.170983 ], [ 0.4887186, 51.1709611 ], [ 0.4888031, 51.170951 ], [ 0.4889211, 51.1709485 ], [ 0.4890458, 51.1709502 ], [ 0.4890459, 51.1709293 ] ] } }
+]
+}

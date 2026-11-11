@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_534_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 366012325, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.7595598, 51.2621461 ], [ 0.7588865, 51.2614531 ], [ 0.7578053, 51.2605652 ], [ 0.756983, 51.2597066 ], [ 0.7554953, 51.2578648 ], [ 0.7550791, 51.257163 ], [ 0.7553211, 51.2570421 ], [ 0.7555944, 51.2570014 ], [ 0.7559167, 51.2569405 ], [ 0.7560459, 51.2568296 ], [ 0.7560314, 51.2567132 ], [ 0.7560114, 51.2566154 ], [ 0.7558981, 51.2562499 ], [ 0.7558896, 51.2558933 ], [ 0.7559741, 51.2552469 ], [ 0.7560461, 51.2548406 ], [ 0.7560456, 51.2544724 ], [ 0.7560096, 51.2542707 ], [ 0.7559124, 51.2539097 ], [ 0.7558527, 51.2535328 ], [ 0.7558001, 51.2532566 ], [ 0.7557805, 51.2531533 ], [ 0.7558583, 51.2527944 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 366012344, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.759575, 51.2717693 ], [ 0.7596345, 51.2716984 ], [ 0.759508, 51.2714817 ], [ 0.7593003, 51.2713139 ], [ 0.758909, 51.2709139 ], [ 0.7567527, 51.2688377 ], [ 0.7559897, 51.2675152 ], [ 0.7549217, 51.2659504 ], [ 0.7548647, 51.2658576 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SOUOX_23_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 24918118, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9876074, 51.539472 ], [ -0.987267, 51.5389226 ], [ -0.986807, 51.5384517 ], [ -0.986577, 51.5379034 ], [ -0.9865674, 51.5372656 ], [ -0.9866693, 51.5364907 ], [ -0.9867676, 51.5361008 ], [ -0.9869641, 51.5355573 ], [ -0.9871592, 51.5349215 ], [ -0.9870945, 51.5345057 ], [ -0.9863853, 51.5335936 ], [ -0.985427, 51.5323835 ], [ -0.9841325, 51.5316762 ], [ -0.9837079, 51.5312956 ], [ -0.9835416, 51.5311603 ] ] } }
+]
+}

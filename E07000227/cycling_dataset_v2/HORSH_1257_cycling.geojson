@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_1257_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 287920846, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4567452, 50.9522482 ], [ -0.4567058, 50.9524583 ], [ -0.4566904, 50.9525099 ], [ -0.4566714, 50.9525561 ], [ -0.4566468, 50.9525952 ], [ -0.4564322, 50.9528773 ], [ -0.4557539, 50.9536919 ], [ -0.4554541, 50.9540935 ], [ -0.4550589, 50.9547089 ], [ -0.4547639, 50.9552006 ], [ -0.4546153, 50.955443 ], [ -0.4544501, 50.9557125 ], [ -0.454157, 50.9562085 ], [ -0.4537452, 50.9569351 ] ] } }
+]
+}

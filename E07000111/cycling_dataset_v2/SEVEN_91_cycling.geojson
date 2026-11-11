@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_91_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 50354581, "highway": "bridleway", "name": "SR531", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1363268, 51.1806351 ], [ 0.1368411, 51.1807138 ], [ 0.1372137, 51.1807631 ], [ 0.1373738, 51.1807871 ], [ 0.1378727, 51.1807909 ], [ 0.1380178, 51.180808 ], [ 0.1380901, 51.1808178 ], [ 0.1381618, 51.180811 ], [ 0.1382869, 51.1808114 ], [ 0.1385076, 51.1807909 ], [ 0.1385953, 51.1807852 ], [ 0.1387525, 51.1808023 ], [ 0.139285, 51.1807431 ], [ 0.1395715, 51.1807395 ], [ 0.1399609, 51.1808159 ], [ 0.1402218, 51.1809474 ], [ 0.1402906, 51.1809717 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 50354583, "highway": "service", "name": "SR531", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1402906, 51.1809717 ], [ 0.1404539, 51.1810402 ], [ 0.1407843, 51.1812496 ], [ 0.141034, 51.1813397 ], [ 0.1416657, 51.1817586 ], [ 0.1416929, 51.1818291 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 176396466, "highway": "bridleway", "name": "SR727", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1363268, 51.1806351 ], [ 0.1362365, 51.1806004 ], [ 0.1354621, 51.1805257 ], [ 0.1341851, 51.1803316 ], [ 0.1337569, 51.1801997 ], [ 0.133003, 51.1797386 ], [ 0.1324624, 51.1792472 ], [ 0.1322166, 51.1790857 ], [ 0.1319475, 51.1790158 ], [ 0.1318012, 51.1790063 ] ] } }
+]
+}

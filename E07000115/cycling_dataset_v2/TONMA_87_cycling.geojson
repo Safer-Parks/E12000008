@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TONMA_87_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1518731160, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4146181, 51.2538451 ], [ 0.4147004, 51.2536361 ], [ 0.4146934, 51.2535715 ], [ 0.414581, 51.2532052 ], [ 0.4145279, 51.2530237 ], [ 0.4142458, 51.2522719 ], [ 0.4140373, 51.2517234 ], [ 0.4138523, 51.2512253 ], [ 0.4138134, 51.2510825 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 117381482, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4158417, 51.2545938 ], [ 0.4159735, 51.2545883 ], [ 0.4164285, 51.2545161 ], [ 0.4170722, 51.2543516 ], [ 0.4174586, 51.2541834 ], [ 0.4175658, 51.2541367 ], [ 0.4180378, 51.2539756 ], [ 0.418467, 51.2537104 ], [ 0.4188532, 51.2535492 ], [ 0.4193057, 51.2533138 ], [ 0.4195828, 51.2529683 ], [ 0.4198173, 51.2526564 ], [ 0.4199595, 51.2525365 ], [ 0.4200676, 51.2525047 ], [ 0.420245, 51.2525033 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 776792181, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4214057, 51.2534704 ], [ 0.4215948, 51.253976 ], [ 0.4218308, 51.254352 ], [ 0.4217342, 51.2543856 ], [ 0.4217636, 51.2544302 ], [ 0.4218441, 51.2545525 ], [ 0.4220804, 51.2544874 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 130006523, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4152665, 51.2544639 ], [ 0.4148038, 51.2543823 ], [ 0.4146959, 51.2542932 ], [ 0.4146396, 51.2542169 ], [ 0.4145816, 51.2540853 ], [ 0.4145754, 51.253992 ], [ 0.4146181, 51.2538451 ] ] } }
+]
+}

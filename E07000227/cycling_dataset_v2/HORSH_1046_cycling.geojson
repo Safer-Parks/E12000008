@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HORSH_1046_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 277457144, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4299087, 50.9076105 ], [ -0.4300408, 50.9075539 ], [ -0.43012, 50.9074673 ], [ -0.4303999, 50.9069978 ], [ -0.4306746, 50.9064083 ], [ -0.4307327, 50.9058854 ], [ -0.4308363, 50.9055133 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 119067800, "highway": "path", "name": "Hillside Walk", "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4347086, 50.9209367 ], [ -0.4345742, 50.9211581 ], [ -0.4345047, 50.9212789 ] ] } }
+]
+}

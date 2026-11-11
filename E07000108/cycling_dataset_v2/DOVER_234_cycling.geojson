@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DOVER_234_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 49432853, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.3524029, 51.2072784 ], [ 1.3524935, 51.2073977 ], [ 1.3527791, 51.2076004 ], [ 1.353245, 51.2079207 ], [ 1.3535668, 51.2081139 ], [ 1.3538762, 51.2082723 ], [ 1.3546612, 51.2086373 ] ] } }
+]
+}

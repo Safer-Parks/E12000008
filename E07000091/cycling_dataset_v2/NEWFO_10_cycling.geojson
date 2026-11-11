@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWFO_10_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 125925632, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.6392884, 50.7640014 ], [ -1.6392347, 50.7636859 ], [ -1.6390954, 50.7634705 ], [ -1.6390255, 50.7633076 ], [ -1.6389424, 50.7631464 ], [ -1.6389209, 50.7630123 ], [ -1.6389002, 50.762985 ], [ -1.6388619, 50.7629326 ], [ -1.6387332, 50.762763 ], [ -1.6386956, 50.7625984 ], [ -1.6385321, 50.7624424 ], [ -1.6384598, 50.76235 ], [ -1.6383927, 50.7622846 ] ] } }
+]
+}

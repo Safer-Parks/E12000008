@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_316_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 438305190, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2412288, 50.7145131 ], [ -1.2413603, 50.7145286 ], [ -1.2418912, 50.7137179 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 906510868, "highway": "track", "name": "Littletown lane", "category": "Track", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2447542, 50.7150953 ], [ -1.2447159, 50.7148958 ], [ -1.2446602, 50.7147263 ], [ -1.2445203, 50.7144788 ], [ -1.244253, 50.7141969 ], [ -1.2439168, 50.7137977 ], [ -1.2438825, 50.7137603 ], [ -1.2438338, 50.7137412 ], [ -1.243546, 50.7137784 ], [ -1.2418912, 50.7137179 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 171456535, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.239412, 50.7165403 ], [ -1.2394084, 50.7165 ], [ -1.2396593, 50.7162127 ], [ -1.2398871, 50.7159635 ], [ -1.2402508, 50.7155402 ], [ -1.2412288, 50.7145131 ] ] } }
+]
+}

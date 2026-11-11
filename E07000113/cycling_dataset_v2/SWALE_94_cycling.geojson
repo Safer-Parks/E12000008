@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWALE_94_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 70484469, "highway": "residential", "name": "Church Path", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6725474, 51.3749605 ], [ 0.6721087, 51.3751016 ], [ 0.6718491, 51.3751705 ], [ 0.671662, 51.3752107 ], [ 0.6713254, 51.3752459 ], [ 0.6708956, 51.3752856 ], [ 0.6707601, 51.3753028 ], [ 0.6707011, 51.375317 ] ] } }
+]
+}

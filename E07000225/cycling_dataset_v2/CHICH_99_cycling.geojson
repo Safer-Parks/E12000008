@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CHICH_99_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 28754848, "highway": "bridleway", "name": "Sidengreen Lane", "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7457142, 50.8577662 ], [ -0.7456771, 50.857685 ], [ -0.7456855, 50.8575604 ], [ -0.7457794, 50.8572098 ], [ -0.7455702, 50.8568885 ], [ -0.7448138, 50.8565187 ], [ -0.7439174, 50.8560586 ], [ -0.7436296, 50.855925 ], [ -0.7431682, 50.855806 ], [ -0.7421057, 50.8554553 ], [ -0.7415169, 50.855321 ], [ -0.7409075, 50.8552234 ], [ -0.7401264, 50.8548875 ], [ -0.7391394, 50.8542915 ], [ -0.7381801, 50.8539436 ], [ -0.7369645, 50.8533885 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 690152417, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7425417, 50.8583087 ], [ -0.7425885, 50.85875 ] ] } }
+]
+}

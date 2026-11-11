@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_1378_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 19172911, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.227688, 51.1520587 ], [ -0.2277965, 51.152087 ], [ -0.2284326, 51.1522956 ], [ -0.2295967, 51.1525001 ], [ -0.2297044, 51.1525154 ], [ -0.229876, 51.1525369 ], [ -0.2300991, 51.1525782 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_836_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 36074735, "highway": "bridleway", "name": "Ethelburga Grove", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0824893, 51.1286946 ], [ 1.0824494, 51.128811 ], [ 1.0822374, 51.1289975 ], [ 1.0819951, 51.1292876 ], [ 1.0819749, 51.1294334 ], [ 1.0819552, 51.1295762 ], [ 1.0818723, 51.1299269 ], [ 1.0818962, 51.1301692 ], [ 1.0819967, 51.1303637 ], [ 1.0821258, 51.1307128 ], [ 1.0821067, 51.1309759 ], [ 1.0820797, 51.131092 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_262_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 38828124, "highway": "service", "name": "Green Lane", "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0707108, 51.5260114 ], [ -1.0701214, 51.5258804 ], [ -1.0693265, 51.5255613 ], [ -1.0691236, 51.5254798 ], [ -1.0682824, 51.5252622 ], [ -1.0680814, 51.5251823 ], [ -1.0675621, 51.5249812 ], [ -1.0673242, 51.5249665 ], [ -1.0672195, 51.5251472 ], [ -1.0671079, 51.5256533 ], [ -1.0671757, 51.5258113 ], [ -1.0673354, 51.5262289 ], [ -1.0674253, 51.5264639 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 15091365, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0674253, 51.5264639 ], [ -1.0682237, 51.5273638 ], [ -1.0685896, 51.5278109 ] ] } }
+]
+}

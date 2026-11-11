@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_837_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 31459165, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0553213, 51.1295182 ], [ 1.0560046, 51.1324705 ], [ 1.0559688, 51.1325721 ], [ 1.0560756, 51.1328792 ], [ 1.0571209, 51.1345293 ], [ 1.0573365, 51.1352657 ], [ 1.0571019, 51.1354886 ], [ 1.0565055, 51.1360582 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 10110327, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0563819, 51.1420812 ], [ 1.0562254, 51.1421642 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 10110328, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0562254, 51.1421642 ], [ 1.0560131, 51.1421696 ], [ 1.0533298, 51.142693 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1167164123, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0533298, 51.142693 ], [ 1.0513546, 51.1430834 ], [ 1.0505465, 51.1432315 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 9886681, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0502081, 51.1485926 ], [ 1.0506636, 51.1485764 ], [ 1.0512472, 51.1485556 ], [ 1.0537432, 51.1484666 ], [ 1.0541318, 51.1484427 ], [ 1.0572332, 51.1482369 ], [ 1.0572937, 51.1482317 ], [ 1.0595759, 51.1481422 ], [ 1.0611572, 51.1480577 ], [ 1.0621624, 51.1480136 ], [ 1.0622829, 51.1480083 ], [ 1.0641343, 51.1478973 ], [ 1.0644292, 51.1477908 ], [ 1.0653716, 51.1470011 ], [ 1.0660951, 51.1465909 ], [ 1.0680299, 51.1455559 ] ] } }
+]
+}

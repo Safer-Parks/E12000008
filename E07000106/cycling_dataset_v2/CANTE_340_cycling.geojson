@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_340_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 23433854, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.1556445, 51.2612889 ], [ 1.1546597, 51.2608541 ], [ 1.1536456, 51.2603632 ], [ 1.1527718, 51.2599047 ], [ 1.1526639, 51.2598495 ], [ 1.1526894, 51.2597274 ], [ 1.152318, 51.2588119 ], [ 1.1517174, 51.2577233 ], [ 1.1516975, 51.2576915 ] ] } }
+]
+}

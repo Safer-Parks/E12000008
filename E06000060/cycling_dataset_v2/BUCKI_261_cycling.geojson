@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_261_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 37802704, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.123243, 51.5137523 ], [ -1.1227418, 51.5135325 ], [ -1.122371, 51.5133014 ], [ -1.1219994, 51.5130039 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 31870486, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1269972, 51.5167582 ], [ -1.1269518, 51.5166768 ], [ -1.1261665, 51.5159235 ], [ -1.1254775, 51.5152707 ], [ -1.1250721, 51.5148843 ], [ -1.1247837, 51.5145933 ], [ -1.1242017, 51.5142791 ], [ -1.123887, 51.5141151 ], [ -1.1235638, 51.5139492 ], [ -1.123371, 51.5138328 ], [ -1.1232967, 51.5137874 ], [ -1.123243, 51.5137523 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 800398543, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1283938, 51.5282089 ], [ -1.1285287, 51.527653 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 58708537, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1413789, 51.5207461 ], [ -1.1426094, 51.5207292 ] ] } }
+]
+}

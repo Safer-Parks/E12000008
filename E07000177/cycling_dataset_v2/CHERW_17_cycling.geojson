@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHERW_17_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 136981520, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3114981, 51.952987 ], [ -1.3120003, 51.9529889 ], [ -1.3157262, 51.9526358 ], [ -1.3185776, 51.9525235 ] ] } }
+]
+}

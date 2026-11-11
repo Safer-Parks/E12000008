@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_94_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 696408365, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "designated", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3972038, 51.1637289 ], [ 0.3973018, 51.1641354 ], [ 0.3973245, 51.1642257 ], [ 0.3973732, 51.1642777 ], [ 0.3975356, 51.1646734 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1483768343, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3975356, 51.1646734 ], [ 0.3978016, 51.1654289 ], [ 0.397916, 51.1655135 ], [ 0.3984239, 51.1656383 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 181237141, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3984239, 51.1656383 ], [ 0.4022738, 51.1656982 ], [ 0.4025997, 51.1659538 ], [ 0.4032284, 51.1660257 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 79607856, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": "no", "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3863578, 51.1693166 ], [ 0.3863569, 51.1693747 ], [ 0.386257, 51.1694364 ], [ 0.3862572, 51.1695097 ], [ 0.3861733, 51.1698747 ], [ 0.3861391, 51.170138 ], [ 0.3860862, 51.1705936 ], [ 0.3859841, 51.1710221 ], [ 0.3858143, 51.171414 ], [ 0.385902, 51.1714647 ], [ 0.385897, 51.1715115 ], [ 0.3858373, 51.1715305 ], [ 0.3858349, 51.1715819 ], [ 0.3858185, 51.1716224 ], [ 0.3857084, 51.1716224 ], [ 0.3855802, 51.1716823 ], [ 0.3855056, 51.1717786 ], [ 0.3852588, 51.1720856 ], [ 0.3851638, 51.1720898 ] ] } }
+]
+}

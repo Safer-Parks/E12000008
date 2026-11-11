@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "REIBA_14_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 33004457, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1513219, 51.2928099 ], [ -0.1512761, 51.2929159 ], [ -0.1511971, 51.2931835 ], [ -0.1509492, 51.29356 ], [ -0.1508571, 51.293651 ], [ -0.1508053, 51.2936727 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33004459, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1508571, 51.293651 ], [ -0.1509681, 51.2936978 ], [ -0.1510384, 51.29378 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 4874443, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1559412, 51.2940265 ], [ -0.1559495, 51.2939497 ], [ -0.1559891, 51.2935809 ], [ -0.1559354, 51.2934668 ], [ -0.1558854, 51.2934231 ] ] } }
+]
+}

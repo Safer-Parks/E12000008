@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MIDS5_82_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1468055316, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1265332, 51.1334589 ], [ -0.1265324, 51.1334849 ], [ -0.12653, 51.1335074 ], [ -0.1265284, 51.1335315 ], [ -0.1265292, 51.1335941 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 889648735, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1265292, 51.1335941 ], [ -0.127881, 51.1336315 ], [ -0.1283088, 51.1336349 ], [ -0.1287045, 51.1336366 ], [ -0.1293509, 51.133613 ], [ -0.1299772, 51.133567 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1209162577, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1331127, 51.1383078 ], [ -0.1329008, 51.1387647 ], [ -0.1326734, 51.1392264 ], [ -0.1326366, 51.1392771 ], [ -0.1325776, 51.1392906 ], [ -0.1323129, 51.1392547 ], [ -0.1319972, 51.1392118 ], [ -0.131848, 51.1392056 ], [ -0.1316495, 51.1392233 ], [ -0.1315422, 51.139246 ], [ -0.1313946, 51.1392965 ], [ -0.1313227, 51.1393571 ], [ -0.1312194, 51.1394466 ], [ -0.1311116, 51.1394882 ], [ -0.1308432, 51.1394755 ], [ -0.1308357, 51.1394998 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 819470242, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "unpaved" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1125048, 51.1388647 ], [ -0.1128977, 51.1386681 ] ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_255_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 235029099, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9621918, 51.754765 ], [ -0.9620933, 51.7547428 ], [ -0.9614728, 51.7546829 ], [ -0.9610055, 51.7546324 ], [ -0.9608679, 51.7546135 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 40744976, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9720195, 51.7492127 ], [ -0.972094, 51.7492409 ], [ -0.9721551, 51.7492865 ], [ -0.9723409, 51.7494628 ], [ -0.9728561, 51.7494726 ], [ -0.9733369, 51.7494522 ], [ -0.9736502, 51.7494941 ], [ -0.9738631, 51.7495218 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 671211056, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9737258, 51.7535584 ], [ -0.9736457, 51.7536137 ], [ -0.9738577, 51.7537601 ], [ -0.9741394, 51.7539495 ], [ -0.9743077, 51.7541063 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 671210252, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9743077, 51.7541063 ], [ -0.9746155, 51.7544028 ], [ -0.9746254, 51.7544201 ], [ -0.9746361, 51.7544388 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 23752232, "highway": "service", "name": "Priest End", "category": "Traffic-free road", "bicycle": "designated", "access": null, "foot": "yes", "designatn": "public_footpath", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.9827399, 51.7540684 ], [ -0.9830214, 51.7546563 ], [ -0.9831253, 51.7549101 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_282_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 32208234, "highway": "bridleway", "name": "BW 571", "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3799584, 51.2138955 ], [ -0.3798556, 51.2144041 ], [ -0.3797215, 51.2147538 ], [ -0.3795959, 51.2149783 ], [ -0.3795381, 51.2150817 ], [ -0.3793036, 51.2154942 ], [ -0.3791298, 51.2157749 ], [ -0.3789317, 51.2160624 ], [ -0.3789875, 51.2162515 ], [ -0.3791957, 51.2165055 ], [ -0.3795026, 51.2167015 ], [ -0.3806414, 51.2171892 ], [ -0.3809633, 51.2174104 ], [ -0.381116, 51.2175589 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 27071296, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3666159, 51.2098106 ], [ -0.3655173, 51.2092622 ], [ -0.3651739, 51.2090363 ], [ -0.3650109, 51.2087567 ], [ -0.3649851, 51.2083857 ], [ -0.364925, 51.2081061 ], [ -0.3647448, 51.2077673 ] ] } }
+]
+}

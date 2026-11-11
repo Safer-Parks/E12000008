@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_0_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 405733365, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3048116, 51.0852004 ], [ -1.3046249, 51.0854592 ], [ -1.3043699, 51.0857873 ], [ -1.3040821, 51.0861143 ], [ -1.3039616, 51.0862156 ], [ -1.3037817, 51.0863669 ], [ -1.3037322, 51.0863982 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 405736433, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3037322, 51.0863982 ], [ -1.303684, 51.0864287 ], [ -1.3036424, 51.0864547 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 405736432, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3036424, 51.0864547 ], [ -1.3035215, 51.0865303 ], [ -1.303323, 51.0866145 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 258406593, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.303323, 51.0866145 ], [ -1.3033557, 51.0866676 ], [ -1.3034167, 51.0867049 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 405725858, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3034167, 51.0867049 ], [ -1.3035313, 51.086731 ], [ -1.3037555, 51.0867789 ], [ -1.3038339, 51.0867872 ], [ -1.3039004, 51.0867993 ], [ -1.304078, 51.0868315 ] ] } }
+]
+}

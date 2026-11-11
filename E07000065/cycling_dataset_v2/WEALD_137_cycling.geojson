@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WEALD_137_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 611948021, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0764424, 50.994174 ], [ 0.0765475, 50.9942204 ], [ 0.0763805, 50.9945071 ], [ 0.0764356, 50.9945619 ], [ 0.0783737, 50.9951594 ], [ 0.078514, 50.9951435 ], [ 0.0786695, 50.9951602 ], [ 0.0788034, 50.9951928 ], [ 0.0788892, 50.9952272 ], [ 0.0790362, 50.9954686 ], [ 0.0796618, 50.9956877 ], [ 0.0796733, 50.9957505 ] ] } }
+]
+}

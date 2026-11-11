@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_883_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 134699505, "highway": "service", "name": "Gostrode Lane", "category": "Traffic-free road", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.6431377, 51.0877753 ], [ -0.6430936, 51.087778 ], [ -0.6421038, 51.0878405 ], [ -0.6410857, 51.0879651 ], [ -0.6404831, 51.0880067 ], [ -0.6400882, 51.088069 ], [ -0.6398181, 51.0880898 ], [ -0.6395272, 51.088069 ], [ -0.6390908, 51.0879651 ], [ -0.6387584, 51.0879028 ], [ -0.6383636, 51.0879028 ], [ -0.637948, 51.087882 ], [ -0.6376778, 51.087886 ], [ -0.6374493, 51.0879124 ], [ -0.6372778, 51.0879828 ], [ -0.6371999, 51.0880275 ], [ -0.6356425, 51.0889423 ], [ -0.6342817, 51.0897416 ], [ -0.6342284, 51.0897729 ], [ -0.6338544, 51.0899807 ], [ -0.633522, 51.0901262 ] ] } }
+]
+}

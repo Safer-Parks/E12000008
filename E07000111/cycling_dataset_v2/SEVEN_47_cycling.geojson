@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_47_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 292928722, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "designated", "access": "no", "foot": "designated", "designatn": "public_footpath", "segregatd": null, "surface": "concrete:plates" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1980841, 51.1798364 ], [ 0.1985692, 51.1776709 ], [ 0.1985497, 51.1776349 ], [ 0.1984637, 51.1775936 ], [ 0.1978444, 51.177423 ], [ 0.1975891, 51.1773527 ], [ 0.1974935, 51.1773264 ], [ 0.1974271, 51.17727 ], [ 0.1973904, 51.1772388 ], [ 0.1973528, 51.1772069 ], [ 0.197149, 51.1770874 ], [ 0.1968466, 51.177017 ], [ 0.1965442, 51.1770131 ], [ 0.1961427, 51.1770415 ], [ 0.1955053, 51.1771229 ], [ 0.1950008, 51.1771572 ], [ 0.1946882, 51.1771581 ], [ 0.1941128, 51.1770642 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_38_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 701157276, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4860002, 51.2473455 ], [ 0.4873915, 51.2467203 ], [ 0.4874476, 51.2458258 ], [ 0.4873448, 51.2455042 ], [ 0.4873519, 51.2453445 ], [ 0.4873542, 51.2452937 ], [ 0.4877704, 51.2436357 ], [ 0.4879986, 51.242306 ], [ 0.4898386, 51.2414991 ], [ 0.4903533, 51.2412231 ] ] } }
+]
+}

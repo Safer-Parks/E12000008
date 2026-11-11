@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "VALWH_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 820264828, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "earth" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2823358, 51.7165172 ], [ -1.282183, 51.7163826 ], [ -1.2819871, 51.7162213 ], [ -1.2817806, 51.7160602 ], [ -1.2816559, 51.7159312 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_257_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5154498, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.2232989, 50.9547858 ], [ -1.223268, 50.9548041 ], [ -1.2230449, 50.9548541 ] ] } }
+]
+}

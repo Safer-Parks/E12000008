@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ROTHE_18_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 963233259, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.4517301, 50.8572219 ], [ 0.451569, 50.8573949 ], [ 0.4515472, 50.8574916 ], [ 0.451545, 50.8575865 ], [ 0.4517033, 50.8584079 ], [ 0.4517231, 50.8585006 ] ] } }
+]
+}

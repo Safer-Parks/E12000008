@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1409684254, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.9375069, 50.989423 ], [ 0.9375341, 50.9894013 ], [ 0.9375617, 50.9893791 ] ] } }
+]
+}

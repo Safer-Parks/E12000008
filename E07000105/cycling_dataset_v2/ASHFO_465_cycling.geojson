@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_465_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 23914142, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "gravel" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8635529, 51.0909368 ], [ 0.8636791, 51.0909955 ], [ 0.8639472, 51.0910034 ], [ 0.8645132, 51.0910081 ], [ 0.8649062, 51.0909285 ], [ 0.8652375, 51.090905 ], [ 0.8655658, 51.0908818 ], [ 0.8661998, 51.0908835 ], [ 0.8665639, 51.0909024 ], [ 0.8671274, 51.0909796 ], [ 0.867691, 51.0911269 ], [ 0.8680027, 51.0910878 ], [ 0.8683225, 51.0910286 ], [ 0.8700602, 51.0908547 ], [ 0.8726547, 51.0906825 ] ] } }
+]
+}

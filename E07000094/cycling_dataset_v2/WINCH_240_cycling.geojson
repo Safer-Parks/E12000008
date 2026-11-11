@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WINCH_240_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 24522605, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.0737587, 50.9428594 ], [ -1.0737885, 50.9428225 ], [ -1.0737551, 50.9427377 ], [ -1.0736369, 50.9424679 ], [ -1.0735907, 50.9422752 ], [ -1.0734082, 50.9417921 ], [ -1.07329, 50.9414118 ], [ -1.0732052, 50.9410854 ], [ -1.0731307, 50.9408515 ], [ -1.073069, 50.9406511 ], [ -1.073041, 50.9405511 ], [ -1.0729303, 50.9401466 ], [ -1.0726127, 50.9390271 ], [ -1.0722573, 50.9378888 ], [ -1.0720718, 50.9373511 ], [ -1.071902, 50.9372218 ] ] } }
+]
+}

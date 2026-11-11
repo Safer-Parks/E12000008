@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TESVA_149_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 94368332, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -1.3306831, 51.1577412 ], [ -1.3304993, 51.15851 ], [ -1.3304027, 51.1589645 ], [ -1.3304216, 51.1591723 ], [ -1.3305538, 51.1594745 ], [ -1.3308372, 51.1599468 ], [ -1.3310828, 51.1603624 ], [ -1.3314039, 51.1610235 ], [ -1.3316873, 51.1617414 ], [ -1.3318573, 51.1623459 ], [ -1.3319706, 51.1628181 ], [ -1.332007, 51.163012 ], [ -1.3320101, 51.1631988 ], [ -1.3318951, 51.1634793 ], [ -1.3316684, 51.1639326 ], [ -1.3315283, 51.1641779 ], [ -1.3313837, 51.1643337 ], [ -1.3312499, 51.1644211 ] ] } }
+]
+}

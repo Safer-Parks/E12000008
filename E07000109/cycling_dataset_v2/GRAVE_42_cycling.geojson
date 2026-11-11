@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "GRAVE_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 24771103, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3430301, 51.3250336 ], [ 0.3438667, 51.324739 ], [ 0.3442441, 51.3246061 ], [ 0.3472263, 51.3249941 ], [ 0.3474183, 51.3249379 ], [ 0.3475051, 51.3248928 ], [ 0.3476527, 51.3245859 ], [ 0.3478371, 51.3240649 ], [ 0.3480666, 51.3240485 ], [ 0.3482813, 51.3240332 ], [ 0.3506573, 51.3247945 ], [ 0.3507708, 51.32468 ], [ 0.3509948, 51.3245782 ], [ 0.3510062, 51.324573 ], [ 0.3516658, 51.3237093 ], [ 0.3543312, 51.3192388 ], [ 0.359755, 51.3198087 ], [ 0.3600557, 51.3198496 ], [ 0.3602693, 51.3198443 ], [ 0.3604384, 51.3199085 ], [ 0.3608002, 51.3199336 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 24771105, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3719932, 51.3225086 ], [ 0.3720158, 51.3225708 ], [ 0.3709956, 51.3251663 ], [ 0.3705302, 51.3264324 ], [ 0.3703421, 51.326624 ], [ 0.3705429, 51.3266543 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 175093598, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3705429, 51.3266543 ], [ 0.3709656, 51.326681 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 215290768, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": null, "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3664497, 51.3341786 ], [ 0.3662387, 51.3352096 ], [ 0.3655306, 51.3368183 ], [ 0.3640684, 51.337402 ] ] } }
+]
+}

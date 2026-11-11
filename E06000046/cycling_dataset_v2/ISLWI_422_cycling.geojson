@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ISLWI_422_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 120078742, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1918342, 50.6991615 ], [ -1.1927263, 50.6988393 ], [ -1.1927883, 50.6987892 ], [ -1.1928334, 50.6987404 ], [ -1.1937279, 50.6973932 ], [ -1.1946647, 50.6959462 ], [ -1.1960997, 50.6937401 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 532580893, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1917536, 50.6992126 ], [ -1.1918342, 50.6991615 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 532580894, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1893688, 50.7006999 ], [ -1.1917536, 50.6992126 ] ] } }
+]
+}

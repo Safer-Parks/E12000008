@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TESVA_100_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5097849, "highway": "bridleway", "name": "Bulls Drove", "category": "Bridleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.583056, 51.0478579 ], [ -1.5849375, 51.0486764 ], [ -1.5886758, 51.0503026 ], [ -1.5922843, 51.051804 ], [ -1.5932886, 51.0522219 ], [ -1.5944806, 51.0526216 ], [ -1.5957918, 51.053221 ], [ -1.5992971, 51.0547251 ], [ -1.6030734, 51.0550919 ] ] } }
+]
+}

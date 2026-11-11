@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BUCKI_1744_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 88144477, "highway": "unclassified", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7147792, 51.5594683 ], [ -0.7142431, 51.5595207 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1455531135, "highway": "unclassified", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7142431, 51.5595207 ], [ -0.7141875, 51.559534 ], [ -0.7140315, 51.5595441 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1455971681, "highway": "unclassified", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7140315, 51.5595441 ], [ -0.7137693, 51.5595586 ], [ -0.7129835, 51.5596383 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 88144478, "highway": "unclassified", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7129835, 51.5596383 ], [ -0.7119847, 51.5597448 ], [ -0.7110381, 51.5597963 ], [ -0.710892, 51.5598042 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 35870225, "highway": "unclassified", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7160627, 51.5592593 ], [ -0.7158311, 51.5592835 ], [ -0.7156416, 51.5593285 ], [ -0.7152682, 51.5593837 ], [ -0.7147792, 51.5594683 ] ] } }
+]
+}

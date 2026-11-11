@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WOKIN_130_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1298907329, "highway": "service", "name": "Dairy Lane", "category": "Traffic-free road", "bicycle": "yes", "access": "yes", "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8817691, 51.5638708 ], [ -0.8817464, 51.5640239 ], [ -0.8817441, 51.564097 ], [ -0.882369, 51.5644479 ], [ -0.8825266, 51.5646246 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 83337751, "highway": "track", "name": null, "category": "Track", "bicycle": null, "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.8823385, 51.5638892 ], [ -0.8823725, 51.5640407 ], [ -0.8825266, 51.5646246 ] ] } }
+]
+}

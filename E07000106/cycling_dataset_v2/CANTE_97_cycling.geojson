@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CANTE_97_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 23433343, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0712376, 51.311746 ], [ 1.0713517, 51.3117162 ], [ 1.0722267, 51.3117539 ], [ 1.0728809, 51.3117993 ], [ 1.0732981, 51.3118504 ], [ 1.0744478, 51.3121764 ], [ 1.0755307, 51.3124554 ], [ 1.0757863, 51.3125213 ], [ 1.0775357, 51.3130042 ], [ 1.0780398, 51.3131309 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 131381680, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "ground" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.0881015, 51.3149255 ], [ 1.0877399, 51.3148275 ], [ 1.0871315, 51.3146787 ], [ 1.086638, 51.314478 ], [ 1.0856903, 51.3139317 ], [ 1.0856346, 51.313966 ], [ 1.0855068, 51.3140448 ], [ 1.0851674, 51.3143222 ], [ 1.0845557, 51.3147324 ], [ 1.0842643, 51.3145815 ], [ 1.0838851, 51.3143918 ], [ 1.0832029, 51.3142733 ], [ 1.0822865, 51.3140285 ], [ 1.0814861, 51.3140122 ], [ 1.0810705, 51.3139256 ], [ 1.0805462, 51.3138164 ], [ 1.0796585, 51.3135879 ], [ 1.0788753, 51.3133431 ], [ 1.0785944, 51.3132718 ], [ 1.0780398, 51.3131309 ] ] } }
+]
+}

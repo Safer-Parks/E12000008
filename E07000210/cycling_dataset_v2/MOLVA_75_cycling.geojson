@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MOLVA_75_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 525629030, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": "private", "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3877291, 51.2096217 ], [ -0.386673, 51.2088152 ], [ -0.3856248, 51.2080146 ], [ -0.3849695, 51.2075141 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 213846875, "highway": "track", "name": "Wolvens Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3838747, 51.2144689 ], [ -0.3837674, 51.2144912 ], [ -0.3833808, 51.2146224 ], [ -0.3812122, 51.2156226 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 106573320, "highway": "track", "name": null, "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3856897, 51.2160647 ], [ -0.3858012, 51.2163341 ], [ -0.3858796, 51.2166524 ], [ -0.3859499, 51.2170723 ], [ -0.3861484, 51.217739 ], [ -0.3863933, 51.2182654 ], [ -0.3866847, 51.2187495 ], [ -0.3869472, 51.2191039 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 525657135, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": "private", "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.3980294, 51.2201073 ], [ -0.3978135, 51.2197917 ], [ -0.3973606, 51.2188397 ], [ -0.3959826, 51.2191049 ], [ -0.3940878, 51.2198444 ], [ -0.3928426, 51.2203524 ], [ -0.392132, 51.2209076 ], [ -0.3916509, 51.2211177 ] ] } }
+]
+}

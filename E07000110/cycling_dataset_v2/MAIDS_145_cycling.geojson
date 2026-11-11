@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_145_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 162115190, "highway": "track", "name": "Stoneacre Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5779973, 51.2511135 ], [ 0.5776511, 51.2504943 ], [ 0.5775469, 51.250426 ], [ 0.5771625, 51.2504276 ], [ 0.5769251, 51.2504142 ], [ 0.5767969, 51.2503415 ], [ 0.5767758, 51.2501665 ], [ 0.5767978, 51.2491253 ], [ 0.5768707, 51.2486309 ], [ 0.5767762, 51.2482783 ], [ 0.576596, 51.2480382 ], [ 0.5765173, 51.2477968 ], [ 0.5766682, 51.2475162 ], [ 0.576673, 51.2473728 ], [ 0.5767357, 51.246607 ], [ 0.5768634, 51.2461297 ], [ 0.5764307, 51.2460199 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 51070099, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5850732, 51.2492292 ], [ 0.5853146, 51.2496225 ], [ 0.586511, 51.2513963 ], [ 0.5868157, 51.2518481 ], [ 0.5868315, 51.2518715 ], [ 0.5871044, 51.2522762 ], [ 0.5894487, 51.2516349 ], [ 0.589505, 51.2516131 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1154014505, "highway": "track", "name": "Stoneacre Lane", "category": "Track", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": "compacted" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5781573, 51.2513822 ], [ 0.5779973, 51.2511135 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1467746170, "highway": "path", "name": null, "category": "Shared path", "bicycle": "designated", "access": null, "foot": "designated", "designatn": "restricted_byway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.5907599, 51.2527335 ], [ 0.5900527, 51.2521578 ], [ 0.5897901, 51.2519443 ], [ 0.589505, 51.2516131 ] ] } }
+]
+}

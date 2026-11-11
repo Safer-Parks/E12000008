@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BRAFO_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 153239553, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "designated", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.7580996, 51.4472242 ], [ -0.7579496, 51.4472336 ], [ -0.7561813, 51.4472464 ], [ -0.7554214, 51.4471392 ] ] } }
+]
+}

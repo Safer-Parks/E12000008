@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WAVER_272_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 911204095, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4815545, 51.1484339 ], [ -0.4815777, 51.148293 ], [ -0.4815134, 51.1481533 ], [ -0.4814329, 51.1480911 ], [ -0.4813524, 51.1480372 ], [ -0.4813363, 51.1480002 ], [ -0.4813274, 51.1479196 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 785325906, "highway": "tertiary", "name": "Barhatch Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.4756482, 51.151203 ], [ -0.4759111, 51.1501449 ], [ -0.4760128, 51.1497026 ], [ -0.4760256, 51.1496398 ], [ -0.4760706, 51.1494776 ], [ -0.4760692, 51.1492821 ], [ -0.4760195, 51.1490879 ], [ -0.475851, 51.1488037 ], [ -0.4755533, 51.1485479 ], [ -0.474982, 51.1481306 ], [ -0.4746167, 51.1476707 ], [ -0.4739485, 51.1466036 ] ] } }
+]
+}

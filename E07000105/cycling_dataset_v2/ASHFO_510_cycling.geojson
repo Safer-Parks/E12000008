@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ASHFO_510_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 215210088, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8141711, 51.0832473 ], [ 0.8143422, 51.0830262 ], [ 0.8154966, 51.0819964 ], [ 0.8156395, 51.0816556 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 27230331, "highway": "track", "name": null, "category": "Track", "bicycle": "yes", "access": "yes", "foot": "yes", "designatn": "byway_open_to_all_traffic", "segregatd": null, "surface": "dirt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8097782, 51.0917597 ], [ 0.8096954, 51.0915238 ], [ 0.8097784, 51.0912921 ], [ 0.8104402, 51.0901948 ], [ 0.8106644, 51.0898726 ], [ 0.8107341, 51.0897377 ], [ 0.8110759, 51.0892914 ], [ 0.811126, 51.0891128 ], [ 0.8112435, 51.0889888 ], [ 0.8113262, 51.0888581 ], [ 0.8113813, 51.0886985 ], [ 0.8116311, 51.088162 ], [ 0.8118098, 51.0877868 ], [ 0.8121323, 51.087292 ], [ 0.8123622, 51.086776 ], [ 0.8130302, 51.0852764 ], [ 0.8133197, 51.0848513 ], [ 0.8138071, 51.0836932 ], [ 0.8141711, 51.0832473 ] ] } }
+]
+}

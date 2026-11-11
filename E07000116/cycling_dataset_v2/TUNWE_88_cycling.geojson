@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_88_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 159501389, "highway": "bridleway", "name": "WT110", "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2272051, 51.1506571 ], [ 0.2270035, 51.1505095 ], [ 0.2269825, 51.1503644 ], [ 0.2269718, 51.1501356 ], [ 0.2271112, 51.1499472 ], [ 0.2271649, 51.1497789 ], [ 0.2270683, 51.1495434 ], [ 0.2269074, 51.1493011 ], [ 0.2267143, 51.1490319 ], [ 0.2265104, 51.1487088 ], [ 0.2262637, 51.1482579 ], [ 0.2259954, 51.1478743 ], [ 0.2259203, 51.1476118 ], [ 0.2258667, 51.1473291 ], [ 0.2258492, 51.1471065 ], [ 0.225813, 51.1466157 ], [ 0.2257701, 51.146333 ], [ 0.225695, 51.1460974 ], [ 0.2255019, 51.145882 ], [ 0.2252337, 51.1455657 ], [ 0.2250787, 51.1451529 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 60893109, "highway": "unclassified", "name": "Modest Corner", "category": "Traffic-free road", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2455015, 51.1592672 ], [ 0.2460876, 51.1587765 ], [ 0.247473, 51.1583005 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 132925057, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": "yes", "access": null, "foot": "yes", "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2454616, 51.1592598 ], [ 0.2453648, 51.1593452 ], [ 0.2452825, 51.1595053 ], [ 0.2453029, 51.1596268 ], [ 0.2454197, 51.1598594 ], [ 0.2453905, 51.1602222 ], [ 0.2454801, 51.1603187 ], [ 0.2455756, 51.1604063 ] ] } }
+]
+}

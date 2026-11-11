@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SEVEN_93_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 821448951, "highway": "path", "name": null, "category": "Shared path", "bicycle": "yes", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": "grass" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0697753, 51.1929009 ], [ 0.0691472, 51.1932596 ], [ 0.0677766, 51.1938772 ], [ 0.0665666, 51.1946529 ] ] } }
+]
+}

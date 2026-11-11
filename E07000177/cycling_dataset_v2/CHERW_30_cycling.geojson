@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CHERW_30_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7840306, "highway": "track", "name": "Jubilee Ride", "category": "Track", "bicycle": "yes", "access": null, "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -1.1258828, 51.9541 ], [ -1.1260638, 51.9540849 ], [ -1.1272895, 51.9537626 ], [ -1.1285715, 51.9533668 ], [ -1.1329264, 51.9514278 ], [ -1.1360142, 51.9504777 ] ] } }
+]
+}
