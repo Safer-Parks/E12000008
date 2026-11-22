@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_1024_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1217738160, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8706328, 51.0258422 ], [ 0.8708934, 51.0258086 ], [ 0.87134, 51.0256148 ], [ 0.8722088, 51.0255147 ], [ 0.8724581, 51.0254515 ], [ 0.8734238, 51.0254232 ], [ 0.8735246, 51.0254866 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1217734257, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8765078, 51.0286079 ], [ 0.8765908, 51.0286775 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 833323568, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8713243, 51.0319957 ], [ 0.8737664, 51.0329234 ], [ 0.8738684, 51.0329504 ], [ 0.8740561, 51.0329504 ] ] } }
+]
+}

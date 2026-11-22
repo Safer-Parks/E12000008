@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MAIDS_381_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1493635650, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.6416005, 51.2040602 ], [ 0.6415078, 51.203991 ], [ 0.6403577, 51.2042559 ], [ 0.6402032, 51.2042666 ], [ 0.6401538, 51.2042182 ], [ 0.6400873, 51.2039319 ], [ 0.6400208, 51.2038324 ], [ 0.6393706, 51.2035245 ], [ 0.6391989, 51.2035057 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FOLHY_735_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 165731281, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.8448777, 51.0326566 ], [ 0.8447465, 51.0325924 ], [ 0.8446348, 51.0323998 ], [ 0.8444695, 51.0318253 ], [ 0.8443723, 51.0313577 ], [ 0.8442411, 51.0305814 ], [ 0.8441051, 51.0297636 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1217753636, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.850245, 51.0396322 ], [ 0.8502314, 51.039598 ], [ 0.8495177, 51.038916 ], [ 0.8488398, 51.0382806 ], [ 0.8484203, 51.0378962 ], [ 0.8481593, 51.0377386 ] ] } }
+]
+}

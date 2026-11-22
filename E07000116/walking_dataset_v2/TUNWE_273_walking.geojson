@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TUNWE_273_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1485614749, "highway": "track", "name": null, "category": "Track", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.3658642, 51.1294446 ], [ 0.3658685, 51.1296044 ], [ 0.3679242, 51.1312011 ], [ 0.3684263, 51.1316616 ], [ 0.3688645, 51.131893 ], [ 0.3691258, 51.1319659 ], [ 0.3692374, 51.1320467 ], [ 0.3690182, 51.1322985 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 812532058, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.362946, 51.1429378 ], [ 0.3630444, 51.1425697 ] ] } }
+]
+}
